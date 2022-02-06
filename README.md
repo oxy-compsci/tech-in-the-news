@@ -11,3 +11,7 @@ A collection of news articles about technology and its impact on society.
   media platform with limited censorship, where women and non-binary people can break down
   stigmas to profit off their creative work. The app has only 100 content creators as of its
   launch, and hopes to scale slowly to keep hands-on moderation and censorship low.
+
+  * [New super-conductors could take data beyond zeroes and ones](https://www.sciencedaily.com/releases/2022/02/220201161056.htm) 
+
+There is potential for encoding data in new ways due to recent research in the field of spintronics. This research, conducted by a team at Duke University and Weizmann Institute resulted in the development of a conductor system that does not require cold temperatures in order to control the spinning of electrons and sending them over long distances. This development can potentially allow large magnitude spin currents to be created at room temperature, which may change how our current devices, such as smartphones, look. 
