@@ -1,13 +1,6 @@
 # tech-in-the-news
 A collection of news articles about technology and its impact on society.
 
-* [Sunroom is an alternative creator platform empowering women to cash in](https://techcrunch.com/2022/02/02/sunroom-creator-platform-app-women/)
+[Alexa tells 10-year-old girl to touch live plug with penny](https://www.bbc.com/news/technology-59810383)
 
-  This TechCrunch article is about Sunroom, a new social media app aiming to address the
-  heavy content moderation many women and non-binary content creators face on popular social
-  media apps, such as Instagram by building a more open-minded platform where creators,
-  only women and non-binary creators as of now, can profit off their work. As the article
-  notes, Sunroom “isn’t trying to make another OnlyFans”. Instead, they hope to make a social
-  media platform with limited censorship, where women and non-binary people can break down
-  stigmas to profit off their creative work. The app has only 100 content creators as of its
-  launch, and hopes to scale slowly to keep hands-on moderation and censorship low.
+According to a BBC article, Amazon's Alexa told a 10-year old girl to "Plug in a phone charger about halfway into a wall outlet, then touch a penny to the exposed prongs." Of course the girl did not do the challenge, and the mother screamed in disapproval. This all came about after the girl and her family were playing a game where they asked Alexa for challenges to do. The first couple of challenges were completely normal and lighthearted, until Alexa presented the dangerous challenge that it found the web. Apparently, this challenge originates from a TikTok trend where kids would perform and record the dangerous stunt at school. Amazon has since fixed the bug.
