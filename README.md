@@ -39,3 +39,20 @@ A collection of news articles about technology and its impact on society.
   and there is certainly more incentive for Sony to purchase a multi-platform game studio.
   Nevertheless, it could also be in response to other huge acquisitions by Microsoft, including that
   of Zenimax Media Inc., the parent company of Bethesda.
+  
+* [Your iPhone may soon be able accept contactless payments directly] (https://www.techradar.com/news/apple-is-taking-on-square-with-a-new-contactless-payments-system)
+
+  Apple is looking into making the iPhone a point of sale system by adding Square like payments into 
+  the iPhone. Apple paid the Canadian company Mobeewave, a company known for working on 
+  technology to accept payment via smartphones, roughly 100 million dollars. It is likely that the 
+  iPhones pre-existing near field communication (NFC) tech that is already used for apple pay
+  will be used to make these payments possible. There already are companies like Square, recently
+  renamed to Block, that offer a card reader attachment for the iPhone but Apple will be negating the
+  need to have any device other than the iPhone itself. The article discusses whether or not Apple would
+  allow other companies such as Square to use the new tech and as of now it is unknown. The feature could 
+  be released as soon as a couple of months from now as part of iOS 15.3. 
+
+  
+
+  
+  
