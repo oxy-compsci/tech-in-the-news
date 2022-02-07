@@ -39,3 +39,14 @@ A collection of news articles about technology and its impact on society.
   and there is certainly more incentive for Sony to purchase a multi-platform game studio.
   Nevertheless, it could also be in response to other huge acquisitions by Microsoft, including that
   of Zenimax Media Inc., the parent company of Bethesda.
+
+* [The IRS Should Stop Using Facial Recognition](https://www.theatlantic.com/ideas/archive/2022/01/irs-should-stop-using-facial-recognition/621386/)
+
+  ID.me's propietary facial recognition technology is not immune to bias despite their efforts to
+  market it as such. The company specifically defines their services as outside the realm of "facial
+  recognition" through a narrow definition in a 2022 white paper. They explicitly define two types of facial
+  recognition: one-to-one, and one-to-many facial recognition and the company asserts that
+  there are "significant benefits" to using 'one-to-one' facial recognition.  However, the company fails to
+  mention the racial biases of one-to-one technology that cause both false positives and false
+  negatives. Despite these overwhelming issues, "27 states, multiple federal agencies, and over 500
+  name brand retailers" continue to use ID.me's techology further supporting the company's false claims.
