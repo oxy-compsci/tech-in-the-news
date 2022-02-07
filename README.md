@@ -39,3 +39,11 @@ A collection of news articles about technology and its impact on society.
   and there is certainly more incentive for Sony to purchase a multi-platform game studio.
   Nevertheless, it could also be in response to other huge acquisitions by Microsoft, including that
   of Zenimax Media Inc., the parent company of Bethesda.
+  
+* [Meta threatens to pull Facebook and Instagram from Europe if it can't target ads](https://itwire.com/listed-tech/meta-threatens-to-pull-facebook-and-instagram-from-europe-if-it-can-t-target-ads.html)
+
+    In July 2020, the crucial decision from the European Union Court of Justice, Schrems II, ruled the Privacy Shield as null.
+    The Privacy Sheild is a US law that allowed free transfer of personal data from EU to US companies.
+    There are still other legal ways to send data EU-US, but the Schrems II ruling will have large ramifications on all American companies with users in the EU in the coming years.
+    Meta is retaliating by threatening to pull its products from Europe if it is not allowed to share data with its US operations, saying stopping trans-atlantic data transfers will have devastating effects on its targeted ads.
+    With Meta owning apps that have billions of users, this case will be an important precedent in the ongoing clash between big tech and governments.
