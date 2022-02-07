@@ -39,3 +39,14 @@ A collection of news articles about technology and its impact on society.
   and there is certainly more incentive for Sony to purchase a multi-platform game studio.
   Nevertheless, it could also be in response to other huge acquisitions by Microsoft, including that
   of Zenimax Media Inc., the parent company of Bethesda.
+  
+  * [Spotify Has a Much Bigger Problem Than Joe Rogan](https://time.com/6144176/spotify-joe-rogan-controversy/)
+
+       This article talks about how Spotify is becoming a platform for misinformation and other harmful and Spotify is not taking
+    responsibility in stopping the spread of such damging content. Spotify is claiming that it does not want to become a "content censor" and their CEO is
+    commited to "supporting creator creation". Spotify is hiding behind the arguemnt that other platforms like Google and Facebook claim that they simply
+    distrubte content but are not resposible for that content. However, Spotify is not just a neutral content distributer. Spotify makes intentional choices
+    about which information it chooses to spread such as paying Joe Rogan a reported 100 million dollars for exclusive rights to his podcast. This makes
+    Spotify a publisher. This means that they must have standards for their content and enforce those standards. Spotify does not have to be a censor because
+    they moderate conent like their CEO claims. It just means that the content should be fact checked so as to not spread false or dangerous
+    information. That is an essential exception to the rights granted by the First Amendemnt. 
