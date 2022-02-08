@@ -39,3 +39,14 @@ A collection of news articles about technology and its impact on society.
   and there is certainly more incentive for Sony to purchase a multi-platform game studio.
   Nevertheless, it could also be in response to other huge acquisitions by Microsoft, including that
   of Zenimax Media Inc., the parent company of Bethesda.
+  
+  
+  * [Walmart is quietly preparing to enter the metaverse](https://www.cnbc.com/amp/2022/01/16/walmart-is-quietly-preparing-to-enter-the-metaverse.html)
+  
+  Walmart appears to be planning its own collection of NFTs and cryptocurrency. Recently, they have been filing trademarks which lead
+  people to speculate that they will enter the market of virtual products. A separate filing specified that Walmart will be presenting
+  customers with the NFTs and virtual currency. This news puts Walmart among a slew of other big companies that have declared their 
+  entrance into the Metaverse. Companies such as Nike, Gap, Under Armour, Adidas, and Urban Outfitters have already filed trademark 
+  applications or made NFT debuts within the last couple of months.
+  
+  
