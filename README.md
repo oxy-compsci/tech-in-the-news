@@ -39,3 +39,7 @@ A collection of news articles about technology and its impact on society.
   and there is certainly more incentive for Sony to purchase a multi-platform game studio.
   Nevertheless, it could also be in response to other huge acquisitions by Microsoft, including that
   of Zenimax Media Inc., the parent company of Bethesda.
+
+* [Apple to release new MacBook Pros with M2 chip in 2022](https://www.cnet.com/tech/computing/apple-to-release-new-macbook-pros-with-m2-chip-in-2022-report-says/)
+New Apple MacBook Pros will equipt M2 chip in 2022. According to a Sunday newsletter by Bloomberg's Mark Gurman, reported on by 9to5Mac, Apple's 2022 MacBook Pro models may feature an M2 chip, but no ProMotion or mini-LED display. Gurman also suggests the MacBook Pro may be one of four Macs to get an upgrade in 2022. The MacBook Air, 24-inch iMac and entry-level Mac Mini could also see a revamp this year.Apple didn't immediately respond to CNET's request for comment. 
+
