@@ -52,6 +52,6 @@ A collection of news articles about technology and its impact on society.
   goal of maintain monopoly power through its acquisition of Instagram and
   WhatsApp. This call of a market cap by the senate is an attempt to control
   and stifle rapidly growing big tech companies.
-![image](https://user-images.githubusercontent.com/44709545/153302810-e8fe806f-e04f-47c3-87f6-b73ddad65b49.png)
+
 
 
