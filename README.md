@@ -39,3 +39,16 @@ A collection of news articles about technology and its impact on society.
   and there is certainly more incentive for Sony to purchase a multi-platform game studio.
   Nevertheless, it could also be in response to other huge acquisitions by Microsoft, including that
   of Zenimax Media Inc., the parent company of Bethesda.
+
+* [Facebook market cap falls below $600 billion — which could actually help it $
+  Lauren Feiner's article touches on the recent events regarding the renamed
+  company Meta and a newly released package of competition bills designed
+  specifically to target big tech companies. These bills call for large tech
+  companies such as Amazon, Apple, and Microsoft to stay below a market cap of
+  $600 billion. Though these bills have not yet been passed into law, they coul$
+  significantly impact Meta on top of the antitrust lawsuit under an already
+  existing law from the Federal Trade Commission regarding the company’s allege$
+  goal of maintain monopoly power through its acquisition of Instagram and
+  WhatsApp. This call of a market cap by the senate is an attempt to control
+  and stifle rapidly growing big tech companies.
+
