@@ -2,6 +2,19 @@
 
 A collection of news articles about technology and its impact on society.
 
+* [Coinbase and Crypto Taxes](https://bgr.com/tech/coinbase-lets-you-receive-your-tax-refund-as-cryptocurrency/)
+
+  Coinbase haș added onto their service so that users can have an easier time filing their
+  taxes on their cryptocurrency. Taxpayers in the U.S. can see a personalized summary of
+  their taxable activity: sales, conversions, payments, and income. They are even offering
+  tax services for those who perform transactions without the service via CoinTracker. Furthermore,
+  customers can now get their tax return deposited directly into their Coinbase account, as
+  long as the customer has filed with TurboTax. This article makes readers think about how
+  cryptocurrency continues to permeate society - normalizing the practice of owning and trading
+  cryptocurrency and increasing the accessibility of each. It is also interesting to think
+  about how a digital, decentralized medium of exchange exists in conjunction to something
+  as essential to our centralized government as taxes.
+
 * [New super-conductors could take data beyond zeroes and ones](https://www.sciencedaily.com/releases/2022/02/220201161056.htm)
 
   There is potential for encoding data in new ways due to recent research in the field of spintronics. This research, conducted by a team at Duke University and Weizmann Institute resulted in the development of a conductor system that does not require cold temperatures in order to control the spinning of electrons and sending them over long distances. This development can potentially allow large magnitude spin currents to be created at room temperature, which may change how our current devices, such as smartphones, look.
