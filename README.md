@@ -40,7 +40,7 @@ A collection of news articles about technology and its impact on society.
   Nevertheless, it could also be in response to other huge acquisitions by Microsoft, including that
   of Zenimax Media Inc., the parent company of Bethesda.
   
-* [Your iPhone may soon be able accept contactless payments directly] (https://www.techradar.com/news/apple-is-taking-on-square-with-a-new-contactless-payments-system)
+* [Your iPhone may soon be able accept contactless payments directly](https://www.techradar.com/news/apple-is-taking-on-square-with-a-new-contactless-payments-system)
 
   Apple is looking into making the iPhone a point of sale system by adding Square like payments into 
   the iPhone. Apple paid the Canadian company Mobeewave, a company known for working on 
