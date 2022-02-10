@@ -2,6 +2,10 @@
 
 A collection of news articles about technology and its impact on society.
 
+* [Nvidia ready to abandon Arm acquisition, report says](https://arstechnica.com/tech-policy/2022/01/nvidia-arm-deal-is-probably-dead-report-says/)
+
+  Ars Technica's article discusses how Nvidia's planned acquisition of the CPU-design company Arm is likely to be abandoned, since Nvidia has had trouble convincing regulators the move would not pose a risk to competition and national security. The article also states that Arm's parent company seems to be moving towards taking Arm public, seemingly implying there is not much confidence in the approval of the acquisition. Since ARM chip designs have become increasingly popular due to their power efficiency, competitors to Nvidia are concerned that their access to these designs would be limited. In addition, nation-states such as China are concerned with a key technology falling under a US company.
+
 * [A 1-mile stretch of road is being built in Detroit that can charge electric cars as they drive -- if owners install a special receiver](https://www.businessinsider.com/public-road-detroit-to-charge-electric-cars-as-they-drive-2022-2?utm_source=reddit.com)
 
   Tech startup Electreon Wireless is working with Ford and DTE to build an electrified road that charges cars through inductive charging.
