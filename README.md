@@ -2,6 +2,10 @@
 
 A collection of news articles about technology and its impact on society.
 
+* [DeepMind says its new AI coding engine is as good as an average human programmer](https://www.theverge.com/2022/2/2/22914085/alphacode-ai-coding-program-automatic-deepmind-codeforce)
+
+  The company DeepMind created an AI system named AlphaCode that can autonomously solve coding problems at the same level as humans. It was tested on [Codeforces](https://codeforces.com), a platform that provides coding problems and ranks its users, and was ranked top 28% of users in the past 6 months. However, these AI coding systems will not replace human programmers anytime soon due to their inherit bugs and security issues. For now, they'll simply be used a tool by human programmers.
+
 * [Apple fined again over Dutch dating app payments order](https://techcrunch.com/2022/02/07/apple-third-dutch-antitrust-fine/)
 
   This TechCrunch article is about Apple's "antitrust standoff in the Netherlands". Apple has
