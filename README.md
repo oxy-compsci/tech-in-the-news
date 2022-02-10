@@ -2,6 +2,14 @@
 
 A collection of news articles about technology and its impact on society.
 
+* [Meta threatens to pull Facebook and Instagram from Europe if it can't target ads](https://itwire.com/listed-tech/meta-threatens-to-pull-facebook-and-instagram-from-europe-if-it-can-t-target-ads.html)
+
+  In July 2020, the crucial decision from the European Union Court of Justice, Schrems II, ruled the Privacy Shield as null.
+  The Privacy Sheild is a US law that allowed free transfer of personal data from EU to US companies.
+  There are still other legal ways to send data EU-US, but the Schrems II ruling will have large ramifications on all American companies with users in the EU in the coming years.
+  Meta is retaliating by threatening to pull its products from Europe if it is not allowed to share data with its US operations, saying stopping trans-atlantic data transfers will have devastating effects on its targeted ads.
+  With Meta owning apps that have billions of users, this case will be an important precedent in the ongoing clash between big tech and governments.
+
 * [Canada’s privacy watchdog probing health officials’ use of cellphone location data](https://globalnews.ca/news/8503895/watchdog-probing-officials-cell-location-data/)
 
   The Public Health Agency of Canada, or PHAC, has recently come under fire after it was revealed the government agency had been buying cellphone data from telecom companies in order to track its citizens. The *Global News* article elaborates that the Canadian cellphone provider, Telus, provided the PHAC location and movement data to give government officials in order to gain a greater understanding of the efficacy of their COVID-19 policy. The PHAC has also stated its planning on utilizing the information it purchased outside of solely COVID-19 research. While the data itself was scrubbed in order to prevent the identification of individuals, many are still asking the question as if current data and privacy laws are strong enough and if there needs to be a policy precedent set for government bodies buying or utilizing data from private entities.
