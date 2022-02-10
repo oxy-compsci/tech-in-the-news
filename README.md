@@ -2,6 +2,15 @@
 
 A collection of news articles about technology and its impact on society.
 
+* [Apple fined again over Dutch dating app payments order](https://techcrunch.com/2022/02/07/apple-third-dutch-antitrust-fine/)
+
+  This TechCrunch article is about Apple's "antitrust standoff in the Netherlands". Apple has
+  an outstanding 15M euros from this impasse over Apple's disallowing local dating apps to use
+  third party payment providers, instead requiring such apps to use Apple's own payment
+  infrastructure which Apple gets commissions from. Apple has been fighting the order, but just
+  last month agreed to let apps use other payment providers. However, the Dutch government is
+  still fined Apple over frustration with their general failure to comply.
+
 * [Coinbase and Crypto Taxes](https://bgr.com/tech/coinbase-lets-you-receive-your-tax-refund-as-cryptocurrency/)
 
   Coinbase haș added onto their service so that users can have an easier time filing their
