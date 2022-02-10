@@ -2,6 +2,10 @@
 
 A collection of news articles about technology and its impact on society.
 
+* [New super-conductors could take data beyond zeroes and ones](https://www.sciencedaily.com/releases/2022/02/220201161056.htm)
+
+  There is potential for encoding data in new ways due to recent research in the field of spintronics. This research, conducted by a team at Duke University and Weizmann Institute resulted in the development of a conductor system that does not require cold temperatures in order to control the spinning of electrons and sending them over long distances. This development can potentially allow large magnitude spin currents to be created at room temperature, which may change how our current devices, such as smartphones, look.
+
 * [Meta threatens to pull Facebook and Instagram from Europe if it can't target ads](https://itwire.com/listed-tech/meta-threatens-to-pull-facebook-and-instagram-from-europe-if-it-can-t-target-ads.html)
 
   In July 2020, the crucial decision from the European Union Court of Justice, Schrems II, ruled the Privacy Shield as null.
