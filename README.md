@@ -2,6 +2,10 @@
 
 A collection of news articles about technology and its impact on society.
 
+* [Canada’s privacy watchdog probing health officials’ use of cellphone location data](https://globalnews.ca/news/8503895/watchdog-probing-officials-cell-location-data/)
+
+  The Public Health Agency of Canada, or PHAC, has recently come under fire after it was revealed the government agency had been buying cellphone data from telecom companies in order to track its citizens. The *Global News* article elaborates that the Canadian cellphone provider, Telus, provided the PHAC location and movement data to give government officials in order to gain a greater understanding of the efficacy of their COVID-19 policy. The PHAC has also stated its planning on utilizing the information it purchased outside of solely COVID-19 research. While the data itself was scrubbed in order to prevent the identification of individuals, many are still asking the question as if current data and privacy laws are strong enough and if there needs to be a policy precedent set for government bodies buying or utilizing data from private entities.
+
 * [The IRS Should Stop Using Facial Recognition](https://www.theatlantic.com/ideas/archive/2022/01/irs-should-stop-using-facial-recognition/621386/)
 
   ID.me's propietary facial recognition technology is not immune to bias despite their efforts to
