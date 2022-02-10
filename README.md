@@ -136,6 +136,13 @@ A collection of news articles about technology and its impact on society.
   Nevertheless, it could also be in response to other huge acquisitions by Microsoft, including that
   of Zenimax Media Inc., the parent company of Bethesda.
 
-* [Alexa tells 10-year-old girl to touch live plug with penny] (https://www.bbc.com/news/technology-59810383)
+* [Alexa tells 10-year-old girl to touch live plug with penny](https://www.bbc.com/news/technology-59810383)
 
-	According to a BBC article, Amazon's Alexa told a 10-year-old girl to plug a charger into an outlet halfway, and then touch a penny to the exposed prongs. This incident occured while the girl and her family were asking Alexa for some challenges to do. The first few challenges were fun and lighthearted, but then Alexa said she found a challenge on the web and suggested the dangerous stunt. This apparently comes from a TikTok challenge, where kids would record themselves in school touching a penny to exposed prongs – often resulting in dangerous sparks of electricity that officials have deemed as fire hazards. The girl did not perform the challenge, and the mother screamed in disapproval when hearing Alexa recommend that challenge. Amazon has since said that they have fixed the bug.
+  According to a BBC article, Amazon's Alexa told a 10-year-old girl to plug a charger into an outlet halfway,
+  and then touch a penny to the exposed prongs. This incident occured while the girl and her family were
+  asking Alexa for some challenges to do. The first few challenges were fun and lighthearted, but then
+  Alexa said she found a challenge on the web and suggested the dangerous stunt. This apparently comes
+  from a TikTok challenge, where kids would record themselves in school touching a penny to exposed prongs
+  – often resulting in dangerous sparks of electricity that officials have deemed as fire hazards.
+  The girl did not perform the challenge, and the mother screamed in disapproval when hearing Alexa recommend that challenge.
+  Amazon has since said that they have fixed the bug.
