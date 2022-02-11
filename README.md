@@ -1,6 +1,8 @@
 # tech-in-the-news
 
 A collection of news articles about technology and its impact on society.
+* [Walmart is quietly preparing to enter the metaverse](https://www.cnbc.com/2022/01/16/walmart-is-quietly-preparing-to-enter-the-metaverse.html)
+  Walmart plans on entering the metaverse as well as developing its own cryptocurrency and NFTs, the news of which went public on Dec. 30th, 2021. Images of three out of the seven trademark applications $
 
 * [Chip giants are ramping up spending by the billions as semiconductor demand booms](https://www.cnbc.com/2022/02/04/tsmc-intel-ramp-up-spending-as-semiconductor-demand-booms.html)
 
