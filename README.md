@@ -136,3 +136,14 @@ A collection of news articles about technology and its impact on society.
   Nevertheless, it could also be in response to other huge acquisitions by Microsoft, including that
   of Zenimax Media Inc., the parent company of Bethesda.
 
+* [Scientists develop insect-sized flying robots with flapping wings](https://www.sciencedaily.com/releases/2022/02/220202143053.htm)
+  
+  A university in Bristol has developed a new drive system for flapping wing autonomous 
+  robots, using a new method of electromechanical zipping that does away with the
+  need for conventional motors and gears. This new advance could pave the way for 
+  smaller, lighter, and more effective micro flying robots for environmental monitoring, 
+  search and rescue, and deployment in hazardous environments. This takes inspiration from 
+  bees and other flying insects and successfully demonstrates a direct-drive artificial 
+  muscle system, called the Liquid-amplified Zipping Actuator (LAZA), that achieves wing motion
+  using no rotating parts or gears. The LAZA system greatl simplifies the flapping mechanism
+  enabling miniaturization of flapping robots down to teh size of insects.  
