@@ -4,13 +4,13 @@ A collection of news articles about technology and its impact on society.
 
 * [Chip giants are ramping up spending by the billions as semiconductor demand booms](https://www.cnbc.com/2022/02/04/tsmc-intel-ramp-up-spending-as-semiconductor-demand-booms.html)
 
-  This CNBC article is goes over many chip maker company's plans to increase capital spending in 
-  chip production. Big name companies such as TSMC and Intel have announced plans to spend $100 billion 
-  on production of its silicon wafers over 3 years, which mimics that of Intel's last year announcment in 
-  spending $20 billion on new factory plants in Arizona over 2 years. Analysts cite because of increased 
-  in demand in technological goods and complexity in new technology, chipmakers will increase capital expenditure 
-  to catch up to these new challenges. Despite these announcements, analysts cite that because of society's gluttony 
-  in technology goods these plans may only fullfill the "chip glut" seen once these plants and production plans are finished. 
+  This CNBC article is goes over many chip maker company's plans to increase capital spending in
+  chip production. Big name companies such as TSMC and Intel have announced plans to spend $100 billion
+  on production of its silicon wafers over 3 years, which mimics that of Intel's last year announcment in
+  spending $20 billion on new factory plants in Arizona over 2 years. Analysts cite because of increased
+  in demand in technological goods and complexity in new technology, chipmakers will increase capital expenditure
+  to catch up to these new challenges. Despite these announcements, analysts cite that because of society's gluttony
+  in technology goods these plans may only fullfill the "chip glut" seen once these plants and production plans are finished.
   However, with some capital response by chip makers we can hope to see the chip shortage ease, even if the road to get there is "choppy".
 
 * [DeepMind says its new AI coding engine is as good as an average human programmer](https://www.theverge.com/2022/2/2/22914085/alphacode-ai-coding-program-automatic-deepmind-codeforce)
@@ -136,3 +136,12 @@ A collection of news articles about technology and its impact on society.
   Nevertheless, it could also be in response to other huge acquisitions by Microsoft, including that
   of Zenimax Media Inc., the parent company of Bethesda.
 
+
+* [Intel launches blockchain chip to tap crypto boom](https://www.reuters.com/technology/intel-launches-blockchain-chip-tap-crypto-boom-2022-02-11/)
+
+  Intel announced on February 11 that it would be launching a new chip targeted at blockchain applications, including
+  cryptocurrency mining and the minting of NFTs. This is similar to a recent move made by Nvidia, who released a GPU
+  specifically targeted at Ethereum mining. They have also formed a new group within its Accelerated Computing Systems and
+  Graphics unit to further their involvement in the crypto space. Many have used environmental implications as an argument for
+  why companies should not support crypto mining and similar activities; however, Intel has claimed that this new chip is more
+  energy-efficient, and a result will consume significantly less power than alternative chips.
