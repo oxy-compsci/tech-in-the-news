@@ -2,6 +2,16 @@
 
 A collection of news articles about technology and its impact on society.
 
+* [Neuralink Killing Primate Test Subjects](https://www.nydailynews.com/news/national/ny-doctors-accuse-elon-musk-neuralink-extereme-suffering-monkeys-pcrm-20220212-d3bqz7azyfbx5ldljhovfsjdce-story.html)
+  Neuralink, Elon Musk's company trying to develop implantable brain–machine interfaces, has begun testing
+  its devices on animals, specifically monkeys. So far only 8 of the 23 monkeys have survived their
+  expiraments, dying of brain hemmorages and needing to be euthanized after experiencing self-mutilation,
+  skin lesions, and other debilatating health effects. Many animal rights activist groups have been critical
+  of this news and the Physicians Committee for Responsible Medicine (PCRM) has filed a regulatory complaint
+  against University of California, Davis, where the expiraments were being held. This forces one to consider
+  the future of technological implants on animals, and even people, since Neuralink has begun hiring human
+  test subjects, despite being unable to begin expiraments until the FDA gives them approval.
+
 * [Chip giants are ramping up spending by the billions as semiconductor demand booms](https://www.cnbc.com/2022/02/04/tsmc-intel-ramp-up-spending-as-semiconductor-demand-booms.html)
 
   This CNBC article is goes over many chip maker company's plans to increase capital spending in 
