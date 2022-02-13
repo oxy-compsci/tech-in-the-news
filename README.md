@@ -136,3 +136,17 @@ A collection of news articles about technology and its impact on society.
   Nevertheless, it could also be in response to other huge acquisitions by Microsoft, including that
   of Zenimax Media Inc., the parent company of Bethesda.
 
+* [Alexa tells 10-year-old girl to touch live plug with penny](https://www.bbc.com/news/technology-59810383)
+
+  According to a BBC article, Amazon's Alexa told a 10-year-old girl to plug a charger into an outlet halfway,
+and then touch a penny to the exposed prongs. This incident occured while the girl and her family were
+asking Alexa for some challenges to do. The first few challenges were fun and lighthearted, but then
+Alexa said she found a challenge on the web and suggested the dangerous stunt. This apparently comes
+from a TikTok challenge, where kids would record themselves in school touching a penny to exposed prongs
+– often resulting in dangerous sparks of electricity that officials have deemed as fire hazards.
+The girl did not perform the challenge, and the mother screamed in disapproval when hearing Alexa recommend that challenge.
+Amazon has since said that they have fixed the bug.
+
+* [Apple moves to stop AirTag tracking misuse](https://www.bbc.com/news/technology-60333771)
+
+	According to this BBC article, Apple has made changes to the Apple AirTag in order to combat against the product being misused to track people. After their initial release in 2021, multiple reports from women came out concerning popups on their Iphones saying that there was an unknown accessory item near them. Part of these preventative measures include: a popup message while setting up the AirTag reminding users that it is illegal to track people without consent in many places, "precision finding" to help better locate unwanted tags, louder sounds coming from the tags, and Apple device alerts that alert individuals when an AirTag sound is being played. Many questions of security and privacy have arisen since the release of the product.
