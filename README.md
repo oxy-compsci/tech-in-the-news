@@ -136,7 +136,7 @@ A collection of news articles about technology and its impact on society.
   Nevertheless, it could also be in response to other huge acquisitions by Microsoft, including that
   of Zenimax Media Inc., the parent company of Bethesda.
   
-  * [Intel says its new crypto chip is designed to be energy-efficient](https://www.theverge.com/2022/2/13/22931836/intel-new-crypto-chip-sustainability-environment)
+* [Intel says its new crypto chip is designed to be energy-efficient](https://www.theverge.com/2022/2/13/22931836/intel-new-crypto-chip-sustainability-environment)
     
     Intel has designed a new chip that is much more energy efficient for cryptocurrency mining as it was designed specifically to aid and
     accelerate the types of functions that blockchain technology runs on while requiring less energy. This comes at a time when the concern over
