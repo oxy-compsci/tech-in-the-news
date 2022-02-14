@@ -136,3 +136,7 @@ A collection of news articles about technology and its impact on society.
   Nevertheless, it could also be in response to other huge acquisitions by Microsoft, including that
   of Zenimax Media Inc., the parent company of Bethesda.
 
+[Computer Scientists Prove Why Bigger Neural Networks Do Better](https://www.quantamagazine.org/computer-scientists-prove-why-bigger-neural-networks-do-better-20220210/)
+
+ The article suggest that the bigger neural networks is, the better they perform. In "A Universal Law of Robustness via Isoperimetry", a paper presented in December at NeurIPS, a leading conference, Sébastien Bubeck of Microsoft Research and Mark Sellke of Stanford University, the researcher proof that  overparameterization is necessary for a network to be robust. They do it by figuring out how many parameters are needed to fit data points with a curve that has a mathematical property equivalent to robustness: smoothness. The researcher showed that smoothly fitting high-dimensional data points requires not just n parameters, but n × d parameters, where d is the dimension of the input (for example, 784 for a 784-pixel image). So if a network need to robustly memorize its training data, overparameterization is not just helpful — it’s mandatory.
+
