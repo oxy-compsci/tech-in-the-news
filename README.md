@@ -135,4 +135,16 @@ A collection of news articles about technology and its impact on society.
   and there is certainly more incentive for Sony to purchase a multi-platform game studio.
   Nevertheless, it could also be in response to other huge acquisitions by Microsoft, including that
   of Zenimax Media Inc., the parent company of Bethesda.
-
+  
+  *[Tech Companies’ Super Bowl Ads Leaned Into Dystopia](https://www.wired.com/story/super-bowl-ads-dystopia/)
+  
+  This article discusses the dystopian nature of some tech Super Bowl commercials, specifically 
+  Meta's ad for a Quest 2 game. Meta's Quest 2 ad depicted an animatronic dog that gets thrown out 
+  after the arcade he was a part of shut down. The dog is taken from a trash compactor and brought to 
+  a facility where it is given Meta's VR headset, the Quest 2. The dog then virtually returns to the arcade 
+  that he came from and digitally reunited with his old friends. This story, while uplifting, has some darker 
+  undertones because not everybody has access to VR to escape tough living conditions. The ad reminds 
+  us that as reality becomes bleak, the virtual world may soon be the only place for people to escape and feel
+  joy. The article is not all grim as it goes on to present a few weaker dystopian examples, and counter examples of other tech 
+  companies airing more uplifting ads, 
+  
