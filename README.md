@@ -40,7 +40,7 @@ A collection of news articles about technology and its impact on society.
   Nevertheless, it could also be in response to other huge acquisitions by Microsoft, including that
   of Zenimax Media Inc., the parent company of Bethesda.
 
-- [AI Can Write Code Like Humans—Bugs and All](https://www.wired.com/story/ai-write-code-like-humans-bugs/)
+* [AI Can Write Code Like Humans—Bugs and All](https://www.wired.com/story/ai-write-code-like-humans-bugs/)
     In this artical the central argument is that some software developers are using AI to help them writing code. They're discovering that AI produced codes are just as imperfect as man-made code. Reasearchers at NYU recently found that "for certain tasks where security is crucial, the code contains security flaws around 40 percent of the time." Alex Naka, a data scientist find evnethough AI may help to produce certain level of code, but it still needs human to scan through the code and fix the problem. On the other hand Hammaond Pearce, apostdocoral researcher at NYU says that "Vulnerabilities are often caused by a lack of context that a developer needs to know.” meaning that its not the AI's fault in terms of producing mistakes, it is the lack of skills of those software developers. 
 
 
