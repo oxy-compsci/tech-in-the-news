@@ -2,15 +2,27 @@
 
 A collection of news articles about technology and its impact on society.
 
+* [Your iPhone may soon be able accept contactless payments directly](https://www.techradar.com/news/apple-is-taking-on-square-with-a-new-contactless-payments-system)
+
+  Apple is looking into making the iPhone a point of sale system by adding Square like payments into
+  the iPhone. Apple paid the Canadian company Mobeewave, a company known for working on
+  technology to accept payment via smartphones, roughly 100 million dollars. It is likely that the
+  iPhones pre-existing near field communication (NFC) tech that is already used for apple pay
+  will be used to make these payments possible. There already are companies like Square, recently
+  renamed to Block, that offer a card reader attachment for the iPhone but Apple will be negating the
+  need to have any device other than the iPhone itself. The article discusses whether or not Apple would
+  allow other companies such as Square to use the new tech and as of now it is unknown. The feature could
+  be released as soon as a couple of months from now as part of iOS 15.3.
+
 * [Chip giants are ramping up spending by the billions as semiconductor demand booms](https://www.cnbc.com/2022/02/04/tsmc-intel-ramp-up-spending-as-semiconductor-demand-booms.html)
 
-  This CNBC article is goes over many chip maker company's plans to increase capital spending in 
-  chip production. Big name companies such as TSMC and Intel have announced plans to spend $100 billion 
-  on production of its silicon wafers over 3 years, which mimics that of Intel's last year announcment in 
-  spending $20 billion on new factory plants in Arizona over 2 years. Analysts cite because of increased 
-  in demand in technological goods and complexity in new technology, chipmakers will increase capital expenditure 
-  to catch up to these new challenges. Despite these announcements, analysts cite that because of society's gluttony 
-  in technology goods these plans may only fullfill the "chip glut" seen once these plants and production plans are finished. 
+  This CNBC article is goes over many chip maker company's plans to increase capital spending in
+  chip production. Big name companies such as TSMC and Intel have announced plans to spend $100 billion
+  on production of its silicon wafers over 3 years, which mimics that of Intel's last year announcment in
+  spending $20 billion on new factory plants in Arizona over 2 years. Analysts cite because of increased
+  in demand in technological goods and complexity in new technology, chipmakers will increase capital expenditure
+  to catch up to these new challenges. Despite these announcements, analysts cite that because of society's gluttony
+  in technology goods these plans may only fullfill the "chip glut" seen once these plants and production plans are finished.
   However, with some capital response by chip makers we can hope to see the chip shortage ease, even if the road to get there is "choppy".
 
 * [DeepMind says its new AI coding engine is as good as an average human programmer](https://www.theverge.com/2022/2/2/22914085/alphacode-ai-coding-program-automatic-deepmind-codeforce)
