@@ -2,6 +2,15 @@
 
 A collection of news articles about technology and its impact on society.
 
+* [CIA is secretly collecting bulk data pertaining to Americans, senators say](https://www.nbcnews.com/tech/tech-news/cia-secretly-collecting-bulk-data-pertaining-americans-senators-say-rcna15830)
+
+  This CNBC article goes over the reveal of the CIA having a data repository, which contains information collected on Americans.
+  Investigation of this data collection was started by a letter sent by Senators Ron Wyden and Martin Heinrich to top CIA officials in April 2021.
+  Documents revealed on limited information on a CIA program that collections financial information against CIA target list groups, which also
+  snared some American citizen records. However, a CIA spokesperson has responded saying the CIA "recognizes and takes seriously"
+  the protection and privacy of American's lives and their data in their pursuit of national security. While national security is a government duty, an ACLU lawyer reminds us that the "CIA conducts...these sweeping surveillance actitivites", which can go unnoticed by Congress
+  and legislation. Such intelligence activities may require safeguards if they go unchecked.
+
 * [Neuralink Killing Primate Test Subjects](https://www.nydailynews.com/news/national/ny-doctors-accuse-elon-musk-neuralink-extereme-suffering-monkeys-pcrm-20220212-d3bqz7azyfbx5ldljhovfsjdce-story.html)
 
   Neuralink, Elon Musk's company trying to develop implantable brain–machine interfaces, has begun testing
