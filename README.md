@@ -2,6 +2,30 @@
 
 A collection of news articles about technology and its impact on society.
 
+* [Scientists develop insect-sized flying robots with flapping wings](https://www.sciencedaily.com/releases/2022/02/220202143053.htm)
+
+  A university in Bristol has developed a new drive system for flapping wing autonomous
+  robots, using a new method of electromechanical zipping that does away with the
+  need for conventional motors and gears. This new advance could pave the way for
+  smaller, lighter, and more effective micro flying robots for environmental monitoring,
+  search and rescue, and deployment in hazardous environments. This takes inspiration from
+  bees and other flying insects and successfully demonstrates a direct-drive artificial
+  muscle system, called the Liquid-amplified Zipping Actuator (LAZA), that achieves wing motion
+  using no rotating parts or gears. The LAZA system greatl simplifies the flapping mechanism
+  enabling miniaturization of flapping robots down to teh size of insects.
+
+* [Apple moves to stop AirTag tracking misuse](https://www.bbc.com/news/technology-60333771)
+
+  Apple plans to introduce updates to their AirTag product to make it harder to misuse
+  them to track people. The devices have been used to track people and when when they launched,
+  Apple, introduced a siftare feature that would notify people with iPhones if a suspicious AirTag
+  that doesn't belong to themm, was tracking them. Now Apple is working even harder on
+  preventing misuse. When users open up their AirTags for the first time, they will get a message
+  that using AirTags to track people is illegal. Apple also claims that now people will
+  be alerted earlier if a suspicious AirTag is tracking them. Additionally,
+  users with an iPhone 11 or newer will be able to use "percision finding" to locate
+  the AirTag. They can also activate the AirTag to ring to help them find it.
+
 * [Meta Adds New Feature for Avatars](https://www.bbc.com/news/technology-60247542)
 
   Meta recently announced that they are creating a new feature for Avatars called Personal Boundary. It was created after reports of creepy behavior and triggering experiences resembling SA. It allows avatars to create a set distance of space around them in which other avatars cannot cross. This creates more personal space for people using meta and limits unwanted interactions. Meta claims it stops others "invading your avatar's personal space"..."If someone tries to enter your Personal Boundary, the system will halt their forward movement as they reach the boundary."
@@ -221,26 +245,3 @@ A collection of news articles about technology and its impact on society.
   Nevertheless, it could also be in response to other huge acquisitions by Microsoft, including that
   of Zenimax Media Inc., the parent company of Bethesda.
 
-* [Scientists develop insect-sized flying robots with flapping wings](https://www.sciencedaily.com/releases/2022/02/220202143053.htm)
-  
-  A university in Bristol has developed a new drive system for flapping wing autonomous 
-  robots, using a new method of electromechanical zipping that does away with the
-  need for conventional motors and gears. This new advance could pave the way for 
-  smaller, lighter, and more effective micro flying robots for environmental monitoring, 
-  search and rescue, and deployment in hazardous environments. This takes inspiration from 
-  bees and other flying insects and successfully demonstrates a direct-drive artificial 
-  muscle system, called the Liquid-amplified Zipping Actuator (LAZA), that achieves wing motion
-  using no rotating parts or gears. The LAZA system greatl simplifies the flapping mechanism
-  enabling miniaturization of flapping robots down to teh size of insects.  
-
-* [Apple moves to stop AirTag tracking misuse](https://www.bbc.com/news/technology-60333771)
-  
-  Apple plans to introduce updates to their AirTag product to make it harder to misuse
-  them to track people. The devices have been used to track people and when when they launched, 
-  Apple, introduced a siftare feature that would notify people with iPhones if a suspicious AirTag 
-  that doesn't belong to themm, was tracking them. Now Apple is working even harder on 
-  preventing misuse. When users open up their AirTags for the first time, they will get a message 
-  that using AirTags to track people is illegal. Apple also claims that now people will 
-  be alerted earlier if a suspicious AirTag is tracking them. Additionally,
-  users with an iPhone 11 or newer will be able to use "percision finding" to locate 
-  the AirTag. They can also activate the AirTag to ring to help them find it. 
