@@ -2,6 +2,19 @@
 
 A collection of news articles about technology and its impact on society.
 
+* [Mozilla and Meta working to provide info to advertisers in non-invasive ways](https://blog.mozilla.org/en/mozilla/privacy-preserving-attribution-for-advertising/)
+
+  This blog article from Mozilla talks about how they have been working with Meta to create new ways for advertisers to
+  get information about users in ways that still preserve the user's privacy. They are calling it 'Privacy Preserving
+  Attribution' and it is supposedly a method through which advertisers can still access metrics about how effective their
+  campaigns are working without getting information about specific users. This new strategy is still being worked on but
+  has been submitted for approval to the various groups that govern privacy in relation to advertising. I thought this was
+  particularly interesting in light of the article that I found last week, which talked about how recent privacy policies
+  from Apple (allowing users to have more power over how much advertisers can learn about their behaviour) have had an impact
+  on various companies' (including Meta's) profits. This seems like a possible reaction to that or at least related, in
+  that companies are trying to come up with compromises that still allow advertisers to get information about users, but
+  in ways that still promote privacy for the users.
+
 * [Fusion race kicked into high gear by smart tech](https://www.bbc.com/news/science-environment-60319398)
 
   An American company is striving to make fusion economically viable with the help of Google's machine learning "expertise". What once used to take two months, with the help of machine learning, takes a fraction of an afternoon. The article states that Google's contribution has could accelerate from the company's long-term schedule, which could potentially lead to a commercial fusion test by 2030. Along with this, TAE is launching technology with the intention of advancing cancer treatment.
