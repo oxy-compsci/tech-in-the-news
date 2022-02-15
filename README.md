@@ -2,6 +2,14 @@
 
 A collection of news articles about technology and its impact on society.
 
+* [Walmart is quietly preparing to enter the metaverse](https://www.cnbc.com/amp/2022/01/16/walmart-is-quietly-preparing-to-enter-the-metaverse.html)
+
+  Walmart appears to be planning its own collection of NFTs and cryptocurrency. Recently, they have been filing trademarks which lead
+  people to speculate that they will enter the market of virtual products. A separate filing specified that Walmart will be presenting
+  customers with the NFTs and virtual currency. This news puts Walmart among a slew of other big companies that have declared their
+  entrance into the Metaverse. Companies such as Nike, Gap, Under Armour, Adidas, and Urban Outfitters have already filed trademark
+  applications or made NFT debuts within the last couple of months.
+
 * [Your iPhone may soon be able accept contactless payments directly](https://www.techradar.com/news/apple-is-taking-on-square-with-a-new-contactless-payments-system)
 
   Apple is looking into making the iPhone a point of sale system by adding Square like payments into
