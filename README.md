@@ -2,6 +2,13 @@
 
 A collection of news articles about technology and its impact on society.
 
+* [Zoox robotaxis are already mingling with the public on semi-private test courses](https://techcrunch.com/2022/02/10/zoox-robotaxis-are-already-mingling-with-the-public-on-semi-private-test-courses/)
+
+  Amazon subsidiary, Zoox has begun testing out dozens of custom-built robotaxis on various campus-like environments across California.
+  The cube-shaped robotaxis, unveiled in December 2020, can drive bidirectionally, with four-wheel steering, and are capable of transporting four people at up to 75 mph.
+  While the company has no planned date for public release, a spokesperson for the company believes its "really not that far away."
+  Concurrently, Zoox has also equipped several Toyota Highlanders with their autonomous driving system, testing them out in San Francisco, Las Vegas, Seattle, and Foster City with human safety drivers behind the wheel monitoring the vehicles.
+
 * [Silicon Valley is no longer the edgy tech frontier as workers flee Google and Amazon for crypto and Web3 startups, recruiters say]( https://www.businessinsider.com/tech-workers-leaving-for-crypto-web3-startups-silicon-valley-recruiters-2022-2)
 
   Katie Canales’ Business Insider article details how recently there
