@@ -2,6 +2,10 @@
 
 A collection of news articles about technology and its impact on society.
 
+* [UK’s CMA accepts Google’s post-cookie pledges, will ‘closely monitor’ Privacy Sandbox plan](https://techcrunch.com/2022/02/11/uks-cma-accepts-googles-post-cookie-pledges-will-closely-monitor-privacy-sandbox-plan/)
+
+  This article from Techcrunch discusses how Google's new post-cookies approach to advertising has been approved by the UK's competition regulator. Google plans to deprecate tracking cookies for Chrome and develop a new approach to online targeted advertising; however, this move could potentially be anti-competitive as it grants Google even more dominance over online advertising, allowing them to favor their own advertisements. This approval legally binds Google into a commitment to promote competition, and the regulatory agency will be monitoring them as they propose new ad-tracking technologies.
+
 * [CIA is secretly collecting bulk data pertaining to Americans, senators say](https://www.nbcnews.com/tech/tech-news/cia-secretly-collecting-bulk-data-pertaining-americans-senators-say-rcna15830)
 
   This CNBC article goes over the reveal of the CIA having a data repository, which contains information collected on Americans.
@@ -277,8 +281,4 @@ A collection of news articles about technology and its impact on society.
   and there is certainly more incentive for Sony to purchase a multi-platform game studio.
   Nevertheless, it could also be in response to other huge acquisitions by Microsoft, including that
   of Zenimax Media Inc., the parent company of Bethesda.
-
-* [UK’s CMA accepts Google’s post-cookie pledges, will ‘closely monitor’ Privacy Sandbox plan](https://techcrunch.com/2022/02/11/uks-cma-accepts-googles-post-cookie-pledges-will-closely-monitor-privacy-sandbox-plan/)
-  
-  This article from Techcrunch discusses how Google's new post-cookies approach to advertising has been approved by the UK's competition regulator. Google plans to deprecate tracking cookies for Chrome and develop a new approach to online targeted advertising; however, this move could potentially be anti-competitive as it grants Google even more dominance over online advertising, allowing them to favor their own advertisements. This approval legally binds Google into a commitment to promote competition, and the regulatory agency will be monitoring them as they propose new ad-tracking technologies. 
 
