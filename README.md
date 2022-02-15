@@ -147,3 +147,15 @@ A collection of news articles about technology and its impact on society.
   muscle system, called the Liquid-amplified Zipping Actuator (LAZA), that achieves wing motion
   using no rotating parts or gears. The LAZA system greatl simplifies the flapping mechanism
   enabling miniaturization of flapping robots down to teh size of insects.  
+
+* [Apple moves to stop AirTag tracking misuse](https://www.bbc.com/news/technology-60333771)
+  
+  Apple plans to introduce updates to their AirTag product to make it harder to misuse
+  them to track people. The devices have been used to track people and when when they launched, 
+  Apple, introduced a siftare feature that would notify people with iPhones if a suspicious AirTag 
+  that doesn't belong to themm, was tracking them. Now Apple is working even harder on 
+  preventing misuse. When users open up their AirTags for the first time, they will get a message 
+  that using AirTags to track people is illegal. Apple also claims that now people will 
+  be alerted earlier if a suspicious AirTag is tracking them. Additionally,
+  users with an iPhone 11 or newer will be able to use "percision finding" to locate 
+  the AirTag. They can also activate the AirTag to ring to help them find it. 
