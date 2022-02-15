@@ -249,3 +249,12 @@ A collection of news articles about technology and its impact on society.
   Nevertheless, it could also be in response to other huge acquisitions by Microsoft, including that
   of Zenimax Media Inc., the parent company of Bethesda.
 
+
+* [Intel launches blockchain chip to tap crypto boom](https://www.reuters.com/technology/intel-launches-blockchain-chip-tap-crypto-boom-2022-02-11/)
+
+  Intel announced on February 11 that it would be launching a new chip targeted at blockchain applications, including
+  cryptocurrency mining and the minting of NFTs. This is similar to a recent move made by Nvidia, who released a GPU
+  specifically targeted at Ethereum mining. They have also formed a new group within its Accelerated Computing Systems and
+  Graphics unit to further their involvement in the crypto space. Many have used environmental implications as an argument for
+  why companies should not support crypto mining and similar activities; however, Intel has claimed that this new chip is more
+  energy-efficient, and a result will consume significantly less power than alternative chips.
