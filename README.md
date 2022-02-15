@@ -327,3 +327,9 @@ A collection of news articles about technology and its impact on society.
   Nevertheless, it could also be in response to other huge acquisitions by Microsoft, including that
   of Zenimax Media Inc., the parent company of Bethesda.
 
+Alex Frangi created an AI to predict heart attack risk fromo a retina scan
+https://spectrum.ieee.org/retina-scan
+
+A professor at the University of Leeds in England and his research assistants have been conducting research on pre-heart-attack symptoms, and how to notify the patient that they are at risk.  Data was collected from tens of thousands of individuals who had gotten recent retina scans, as well as over 5,000 cases of people who had both a retina and cardiac magnetic resnoance scan.  The data was split into 10 parts for training, and by the end the AI was able to correctly predict a heart attack 70-80% 
+of the time.  This is a major upgrade from a doctors diagnosis for a few reasons.  First, it is much quicker.  Current methods for determining heart attack risk required blood samples as well as use of an electrocardiogram, while yhe AI only needs a retina scan, which is much faster and more patient friendly.  This is also a much cheaper option since the technology required for a retina scan is much simpler than that of CMR scans.  Retina scans will also be much more available to the general public through the use of phones.  Eventually each phone will be capable of performing a retina scan, which when mixed with this AI will give everyone the ability to test their own risk of a heart attack without requiring a doctors involvement. Finally in testing, the AI performed 10% better than any previous methods did, suggesting that this AI is capable of determining risk of a heart attack quicker, cheaper, more conveniently, and more accurately than current methods.
+
