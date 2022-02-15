@@ -14,3 +14,11 @@ A collection of news articles about technology and its impact on society.
 	The cube-shaped robotaxis, unveiled in December 2020, can drive bidirectionally, with four-wheel steering, and are capable of transporting four people at up to 75 mph. 
 	While the company has no planned date for public release, a spokesperson for the company believes its "really not that far away." 
 	Concurrently, Zoox has also equipped several Toyota Highlanders with their autonomous driving system, testing them out in San Francisco, Las Vegas, Seattle, and Foster City with human safety drivers behind the wheel monitoring the vehicles.
+
+
+* [To protect consumers, Congress should secure the app store supply chain](https://techcrunch.com/2022/02/15/to-protect-consumers-congress-should-secure-the-app-store-supply-chain/)
+	Earlier this month, the U.S. Senate Judiciary Committee approved the Open App Market Act, a bill mandating that smartphone makers allow users to install unvetted applications on their devices.
+	This bill is a big change from the "walled garden" distribution model of today that only allows app installation from official app stores.
+	The "walled garden" model ensures higher levels of safety through basic safety screening, but cuts down on the amount of available free apps for users.
+	Allowing users to install unvetted apps poses bigger security risks especially for individuals and smaller businesses that do not have the necessary security features to monitor software.
+	With that said, Congress has the ability to enforce regulations that mitigate those risks, including requiring all app stores to have base levels of security, moving away from unrestricted "side-loading", and educating users on good device hygiene.
