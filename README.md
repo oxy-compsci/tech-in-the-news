@@ -2,6 +2,10 @@
 
 A collection of news articles about technology and its impact on society.
 
+* [Apple Plane AirTag updates to curb unwanted tracking](https://www.cnn.com/2022/02/10/tech/airtag-safety-updates/index.html)
+
+  In this article posted to CNN, it is announced that Apple is planning to make changes to their AirTag devices to improve the safety of people. With AirTags, there has been reports of people being tracked and stalked with the assistance of the Apple AirTags. Apple has been working with safety groups and some law enforcement agencies to improve the safety of people. One such way that they already improved safety protocols is an alert sent to people when it seems as if they are being tracked by an AirTag. This, however, isn't enough to prevent tracking, so Apple is implementing new changes to the AirTag systems this year including a louder tone sequence so that the device is easier to locate. Another change being added is a warning to users when setting up a new AirTag device that tracking others without their consent is a crime. Another workaround that Apple has to think about is the issue of Android users. Android users are now able to install an app that shows them any potential AirTags tracking them.
+
 * [Scientists develop insect-sized flying robots with flapping wings](https://www.sciencedaily.com/releases/2022/02/220202143053.htm)
 
   A university in Bristol has developed a new drive system for flapping wing autonomous
@@ -244,8 +248,4 @@ A collection of news articles about technology and its impact on society.
   and there is certainly more incentive for Sony to purchase a multi-platform game studio.
   Nevertheless, it could also be in response to other huge acquisitions by Microsoft, including that
   of Zenimax Media Inc., the parent company of Bethesda.
-
-* [Apple Plane AirTag updates to curb unwanted tracking](https://www.cnn.com/2022/02/10/tech/airtag-safety-updates/index.html)
-
-  In this article posted to CNN, it is announced that Apple is planning to make changes to their AirTag devices to improve the safety of people. With AirTags, there has been reports of people being tracked and stalked with the assistance of the Apple AirTags. Apple has been working with safety groups and some law enforcement agencies to improve the safety of people. One such way that they already improved safety protocols is an alert sent to people when it seems as if they are being tracked by an AirTag. This, however, isn't enough to prevent tracking, so Apple is implementing new changes to the AirTag systems this year including a louder tone sequence so that the device is easier to locate. Another change being added is a warning to users when setting up a new AirTag device that tracking others without their consent is a crime. Another workaround that Apple has to think about is the issue of Android users. Android users are now able to install an app that shows them any potential AirTags tracking them. 
 
