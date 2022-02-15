@@ -2,6 +2,16 @@
 
 A collection of news articles about technology and its impact on society.
 
+* [Computer Scientists Prove Why Bigger Neural Networks Do Better](https://www.quantamagazine.org/computer-scientists-prove-why-bigger-neural-networks-do-better-20220210/)
+
+  A paper presented last December as a leading conference provides a new mathematical explanation for why overparameterization unexpectedly improves the performance of neural networks.
+  Overparameterization is when the number of parameters is greater than the number of training samples.
+  Traditionally, it was thought that one would only ever need n parameters to fit n data points (think of the number of parameters as the number of inflections in the regression).
+  However, modern neural networks are routinely scaled up far beyond that predicted requirement.
+  The paper shows that overparameterization is necessary for a network to be able to generalize because smoothly fitting high-dimensional data points needs n × d parameters, where d is the dimension of the input.
+  Thus, this paper brings an interesting perspective to Bender and Gebru et. al.'s work questioning the "inevitability of larger LMs."
+  If it is true that models being larger is necissary for their performance as this paper suggests, the social and environmental consequences of these larger models must be weighed appropriately.
+
 * [Intel says its new crypto chip is designed to be energy-efficient](https://www.theverge.com/2022/2/13/22931836/intel-new-crypto-chip-sustainability-environment)
 
   Intel has designed a new chip that is much more energy efficient for cryptocurrency mining as it was designed specifically to aid and
@@ -300,11 +310,3 @@ A collection of news articles about technology and its impact on society.
   Nevertheless, it could also be in response to other huge acquisitions by Microsoft, including that
   of Zenimax Media Inc., the parent company of Bethesda.
 
-* [Computer Scientists Prove Why Bigger Neural Networks Do Better](https://www.quantamagazine.org/computer-scientists-prove-why-bigger-neural-networks-do-better-20220210/)  
-  A paper presented last December as a leading conference provides a new mathematical explanation for why overparameterization unexpectedly improves the performance of neural networks. 
-  Overparameterization is when the number of parameters is greater than the number of training samples.
-  Traditionally, it was thought that one would only ever need n parameters to fit n data points (think of the number of parameters as the number of inflections in the regression).
-  However, modern neural networks are routinely scaled up far beyond that predicted requirement. 
-  The paper shows that overparameterization is necessary for a network to be able to generalize because smoothly fitting high-dimensional data points needs n × d parameters, where d is the dimension of the input.
-  Thus, this paper brings an interesting perspective to Bender and Gebru et. al.'s work questioning the "inevitability of larger LMs."
-  If it is true that models being larger is necissary for their performance as this paper suggests, the social and environmental consequences of these larger models must be weighed appropriately.
