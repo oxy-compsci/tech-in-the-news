@@ -2,6 +2,16 @@
 
 A collection of news articles about technology and its impact on society.
 
+* [Intel says its new crypto chip is designed to be energy-efficient](https://www.theverge.com/2022/2/13/22931836/intel-new-crypto-chip-sustainability-environment)
+
+  Intel has designed a new chip that is much more energy efficient for cryptocurrency mining as it was designed specifically to aid and
+  accelerate the types of functions that blockchain technology runs on while requiring less energy. This comes at a time when the concern over
+  the amount of energy that is required to mine cryptocurrency is being realized. People and givernemnts now know the huge enviomental impact
+  that cryptocurreny mining has so companies are trying to come up with solutions for this. This is where intel claims that they have mage huge
+  advances by desining a chip that does one thing really well, mine crypotcurrency. According to their reporting, their chip chieved "1000x
+  better performance per watt than mainstream GPUs" for mining. Intel will release more information on February 23rd at the International Solid
+  State Circuits Conference.
+
 * [Intel tries cashing in on cryptocurrency mining despite environmental problems](https://www.cnet.com/personal-finance/crypto/intel-tries-cashing-in-on-bitcoin-with-cryptocurrency-mining-chip/)
 
   Intel Corporation, plans on designing a new chip that its function is solely on bitcoin mining and other cryptocurrency operations. The company expressed that later 2022 will begin selling these kinds of chips other cryptocurrencies. Even-though the decision on manufacturing these chips will be a high financial risk for the company. With cryptocurrency NFTs booming, it alters how people own and manage their digital assets. There lie fraud and theft problems, and Intel hopes to address these drawback, and extraordinarily large energy consumption behind these operation. Mining is a computationally taxing process that records transactions onto a widely shared database called the blockchain. The first miner to solve a complex computing problem is rewarded with newly minted cryptocurrency. That means there's a strong incentive to have the most powerful, the most efficient machine Evidently, Intel hopes its chip will help with the energy consumption problem which will be a huge marketing element for the consumers and environment. Because an efficiency boost may help miners cut costs and reduce power consumption that worsens global climate crisis problems and deprives others of affordable power. However, an radical improvement in the environmental impact of mining will not be expected.
@@ -289,14 +299,4 @@ A collection of news articles about technology and its impact on society.
   and there is certainly more incentive for Sony to purchase a multi-platform game studio.
   Nevertheless, it could also be in response to other huge acquisitions by Microsoft, including that
   of Zenimax Media Inc., the parent company of Bethesda.
-  
-* [Intel says its new crypto chip is designed to be energy-efficient](https://www.theverge.com/2022/2/13/22931836/intel-new-crypto-chip-sustainability-environment)
-    
-    Intel has designed a new chip that is much more energy efficient for cryptocurrency mining as it was designed specifically to aid and
-    accelerate the types of functions that blockchain technology runs on while requiring less energy. This comes at a time when the concern over
-    the amount of energy that is required to mine cryptocurrency is being realized. People and givernemnts now know the huge enviomental impact
-    that cryptocurreny mining has so companies are trying to come up with solutions for this. This is where intel claims that they have mage huge
-    advances by desining a chip that does one thing really well, mine crypotcurrency. According to their reporting, their chip chieved "1000x
-    better performance per watt than mainstream GPUs" for mining. Intel will release more information on February 23rd at the International Solid
-    State Circuits Conference.
 
