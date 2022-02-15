@@ -2,6 +2,7 @@
 
 A collection of news articles about technology and its impact on society.
 
+<<<<<<< Updated upstream
 * [Mozilla and Meta working to provide info to advertisers in non-invasive ways](https://blog.mozilla.org/en/mozilla/privacy-preserving-attribution-for-advertising/)
 
   This blog article from Mozilla talks about how they have been working with Meta to create new ways for advertisers to
@@ -192,6 +193,19 @@ A collection of news articles about technology and its impact on society.
   need to have any device other than the iPhone itself. The article discusses whether or not Apple would
   allow other companies such as Square to use the new tech and as of now it is unknown. The feature could
   be released as soon as a couple of months from now as part of iOS 15.3.
+=======
+  *[Tech Companies’ Super Bowl Ads Leaned Into Dystopia](https://www.wired.com/story/super-bowl-ads-dystopia/)
+  
+  This article discusses the dystopian nature of some tech Super Bowl commercials, specifically 
+  Meta's ad for a Quest 2 game. Meta's Quest 2 ad depicted an animatronic dog that gets thrown out 
+  after the arcade he was a part of shut down. The dog is taken from a trash compactor and brought to 
+  a facility where it is given Meta's VR headset, the Quest 2. The dog then virtually returns to the arcade 
+  that he came from and digitally reunited with his old friends. This story, while uplifting, has some darker 
+  undertones because not everybody has access to VR to escape tough living conditions. The ad reminds 
+  us that as reality becomes bleak, the virtual world may soon be the only place for people to escape and feel
+  joy. The article is not all grim as it goes on to present a few weaker dystopian examples, and counter examples of other tech 
+  companies airing more uplifting ads.
+>>>>>>> Stashed changes
 
 * [Chip giants are ramping up spending by the billions as semiconductor demand booms](https://www.cnbc.com/2022/02/04/tsmc-intel-ramp-up-spending-as-semiconductor-demand-booms.html)
 
@@ -327,15 +341,5 @@ A collection of news articles about technology and its impact on society.
   Nevertheless, it could also be in response to other huge acquisitions by Microsoft, including that
   of Zenimax Media Inc., the parent company of Bethesda.
   
-  *[Tech Companies’ Super Bowl Ads Leaned Into Dystopia](https://www.wired.com/story/super-bowl-ads-dystopia/)
-  
-  This article discusses the dystopian nature of some tech Super Bowl commercials, specifically 
-  Meta's ad for a Quest 2 game. Meta's Quest 2 ad depicted an animatronic dog that gets thrown out 
-  after the arcade he was a part of shut down. The dog is taken from a trash compactor and brought to 
-  a facility where it is given Meta's VR headset, the Quest 2. The dog then virtually returns to the arcade 
-  that he came from and digitally reunited with his old friends. This story, while uplifting, has some darker 
-  undertones because not everybody has access to VR to escape tough living conditions. The ad reminds 
-  us that as reality becomes bleak, the virtual world may soon be the only place for people to escape and feel
-  joy. The article is not all grim as it goes on to present a few weaker dystopian examples, and counter examples of other tech 
-  companies airing more uplifting ads, 
+
   
