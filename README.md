@@ -2,6 +2,10 @@
 
 A collection of news articles about technology and its impact on society.
 
+* [Fusion race kicked into high gear by smart tech](https://www.bbc.com/news/science-environment-60319398)
+
+  An American company is striving to make fusion economically viable with the help of Google's machine learning "expertise". What once used to take two months, with the help of machine learning, takes a fraction of an afternoon. The article states that Google's contribution has could accelerate from the company's long-term schedule, which could potentially lead to a commercial fusion test by 2030. Along with this, TAE is launching technology with the intention of advancing cancer treatment.
+
 * [Computer Scientists Prove Why Bigger Neural Networks Do Better](https://www.quantamagazine.org/computer-scientists-prove-why-bigger-neural-networks-do-better-20220210/)
 
   A paper presented last December as a leading conference provides a new mathematical explanation for why overparameterization unexpectedly improves the performance of neural networks.
