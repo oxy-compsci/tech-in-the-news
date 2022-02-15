@@ -1,0 +1,3 @@
+[Texas Sues Meta Over Facebook's Facial-Recognition Practices](https://apple.news/AwffePCR2SMuMM66R2DBWdQ)
+
+Facebook's facial recognition technology was found to violate state's privacy protections for personal biometric data and now is discontinued. Facebook was said to be harvesting Texan's personal inofrmation witch is strictly against the laws seeing as there was not informed consent. However Meta has come forward to say the claims are without merrit and they will work to fight for themselves, they argued that before the facial recognition was shut down that users were informed when those services were used.  
