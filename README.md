@@ -136,3 +136,14 @@ A collection of news articles about technology and its impact on society.
   Nevertheless, it could also be in response to other huge acquisitions by Microsoft, including that
   of Zenimax Media Inc., the parent company of Bethesda.
 
+* [AI could be the perfect tool for exploring the universe](https://www.theverge.com/2017/11/15/16654352/ai-astronomy-space-exploration-data)
+ 
+  Astronomers have begun using AI to detect gravitational lenses in images. Gravitational lenses occur when a massive object like a galaxy or a black hole comes between an observer on Earth and a light source, 
+  which bends space and light allowing astronomers to see parts of the universe they normally would be unable to see. Finding these lenses among massive amounts of data is very time consuming to do by hand, but 
+  by using machine learning, they’ve gotten a detection rate of roughly one per minute as opposed to five or six lenses found for a week of work by hand. This data sorting has the potential to extract more 
+  information from data we already have, and collect significantly more information quicker, and more accurately.
+
+* [Record-high seziure of $4bn in stolen Bitcoin](https://www.bbc.com/news/world-us-canada-60310783)
+
+  The US Department of Justice confiscated a record high amount of Bitcoin last week. Two people were caught attempting to launder the stolen money from a hack in 2016 that resulted in around 120,000 Bitcoin 
+  being stolen from the crypto exchange Bitfinex. Around 94,000 Bitcoin have been recovered and the pair could serve up to 25 years in prison if found guilty.
