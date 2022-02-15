@@ -289,4 +289,14 @@ A collection of news articles about technology and its impact on society.
   and there is certainly more incentive for Sony to purchase a multi-platform game studio.
   Nevertheless, it could also be in response to other huge acquisitions by Microsoft, including that
   of Zenimax Media Inc., the parent company of Bethesda.
+  
+* [Intel says its new crypto chip is designed to be energy-efficient](https://www.theverge.com/2022/2/13/22931836/intel-new-crypto-chip-sustainability-environment)
+    
+    Intel has designed a new chip that is much more energy efficient for cryptocurrency mining as it was designed specifically to aid and
+    accelerate the types of functions that blockchain technology runs on while requiring less energy. This comes at a time when the concern over
+    the amount of energy that is required to mine cryptocurrency is being realized. People and givernemnts now know the huge enviomental impact
+    that cryptocurreny mining has so companies are trying to come up with solutions for this. This is where intel claims that they have mage huge
+    advances by desining a chip that does one thing really well, mine crypotcurrency. According to their reporting, their chip chieved "1000x
+    better performance per watt than mainstream GPUs" for mining. Intel will release more information on February 23rd at the International Solid
+    State Circuits Conference.
 
