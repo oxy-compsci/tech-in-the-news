@@ -2,6 +2,10 @@
 
 A collection of news articles about technology and its impact on society.
 
+* [Meta Adds New Feature for Avatars](https://www.bbc.com/news/technology-60247542)
+
+  Meta recently announced that they are creating a new feature for Avatars called Personal Boundary. It was created after reports of creepy behavior and triggering experiences resembling SA. It allows avatars to create a set distance of space around them in which other avatars cannot cross. This creates more personal space for people using meta and limits unwanted interactions. Meta claims it stops others "invading your avatar's personal space"..."If someone tries to enter your Personal Boundary, the system will halt their forward movement as they reach the boundary."
+
 * [Zoox robotaxis are already mingling with the public on semi-private test courses](https://techcrunch.com/2022/02/10/zoox-robotaxis-are-already-mingling-with-the-public-on-semi-private-test-courses/)
 
   Amazon subsidiary, Zoox has begun testing out dozens of custom-built robotaxis on various campus-like environments across California.
@@ -217,6 +221,3 @@ A collection of news articles about technology and its impact on society.
   Nevertheless, it could also be in response to other huge acquisitions by Microsoft, including that
   of Zenimax Media Inc., the parent company of Bethesda.
 
-* [Meta Adds New Feature for Avatars](https://www.bbc.com/news/technology-60247542)
-
-  Meta recently announced that they are creating a new feature for Avatars called Personal Boundary. It was created after reports of creepy behavior and triggering experiences resembling SA. It allows avatars to create a set distance of space around them in which other avatars cannot cross. This creates more personal space for people using meta and limits unwanted interactions. Meta claims it stops others "invading your avatar's personal space"..."If someone tries to enter your Personal Boundary, the system will halt their forward movement as they reach the boundary."
