@@ -136,6 +136,6 @@ A collection of news articles about technology and its impact on society.
   Nevertheless, it could also be in response to other huge acquisitions by Microsoft, including that
   of Zenimax Media Inc., the parent company of Bethesda.
 
-* [Apple moves to stop AirTag tracking misuse](https://www.bbc.com/news/technology-60333771)
-
-  Apple's AirTag devices are being misused to track people without their consent, creating serious safety concerns. Apple plans to introduce updates that are meant to prevent these misuses of AirTag. The updates include alerting Apple users that an unknown AirTag has been moving with them, allowing iPhone users to see the precise location of the unknown AirTag, and allowing iOS users to make the unknown AirTag play loud noises in order to locate/expose it. 
+* [Google Drive’s new filters that make search easier are rolling out to everyone](https://www.theverge.com/2022/2/15/22935837/google-drive-search-chips-filters-available-all-users)
+  
+  Chips is a feature that makes searching in Google Drive easier and it is being made available to all Workspace users. Chips were introduced to Gmail in 2020 and is now being applied to Google Drive. Chips allows you to filter search results by location, file type, date modified, people, tasks, and shared label. To use it, type a keywork into the search bar as usual and you will see the chips right above the search results. 
