@@ -2,6 +2,15 @@
 
 A collection of news articles about technology and its impact on society.
 
+* [Intel launches blockchain chip to tap crypto boom](https://www.reuters.com/technology/intel-launches-blockchain-chip-tap-crypto-boom-2022-02-11/)
+
+  Intel announced on February 11 that it would be launching a new chip targeted at blockchain applications, including
+  cryptocurrency mining and the minting of NFTs. This is similar to a recent move made by Nvidia, who released a GPU
+  specifically targeted at Ethereum mining. They have also formed a new group within its Accelerated Computing Systems and
+  Graphics unit to further their involvement in the crypto space. Many have used environmental implications as an argument for
+  why companies should not support crypto mining and similar activities; however, Intel has claimed that this new chip is more
+  energy-efficient, and a result will consume significantly less power than alternative chips.
+
 * [Apple Plane AirTag updates to curb unwanted tracking](https://www.cnn.com/2022/02/10/tech/airtag-safety-updates/index.html)
 
   In this article posted to CNN, it is announced that Apple is planning to make changes to their AirTag devices to improve the safety of people. With AirTags, there has been reports of people being tracked and stalked with the assistance of the Apple AirTags. Apple has been working with safety groups and some law enforcement agencies to improve the safety of people. One such way that they already improved safety protocols is an alert sent to people when it seems as if they are being tracked by an AirTag. This, however, isn't enough to prevent tracking, so Apple is implementing new changes to the AirTag systems this year including a louder tone sequence so that the device is easier to locate. Another change being added is a warning to users when setting up a new AirTag device that tracking others without their consent is a crime. Another workaround that Apple has to think about is the issue of Android users. Android users are now able to install an app that shows them any potential AirTags tracking them.
@@ -249,12 +258,3 @@ A collection of news articles about technology and its impact on society.
   Nevertheless, it could also be in response to other huge acquisitions by Microsoft, including that
   of Zenimax Media Inc., the parent company of Bethesda.
 
-
-* [Intel launches blockchain chip to tap crypto boom](https://www.reuters.com/technology/intel-launches-blockchain-chip-tap-crypto-boom-2022-02-11/)
-
-  Intel announced on February 11 that it would be launching a new chip targeted at blockchain applications, including
-  cryptocurrency mining and the minting of NFTs. This is similar to a recent move made by Nvidia, who released a GPU
-  specifically targeted at Ethereum mining. They have also formed a new group within its Accelerated Computing Systems and
-  Graphics unit to further their involvement in the crypto space. Many have used environmental implications as an argument for
-  why companies should not support crypto mining and similar activities; however, Intel has claimed that this new chip is more
-  energy-efficient, and a result will consume significantly less power than alternative chips.
