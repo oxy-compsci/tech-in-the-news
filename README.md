@@ -21,3 +21,13 @@ A collection of news articles about technology and its impact on society.
    infrastructure which Apple gets commissions from. Apple has been fighting the order, but just 
    last month agreed to let apps use other payment providers. However, the Dutch government is 
    still fined Apple over frustration with their general failure to comply.
+
+* [Cryptocurrency is akin to 'Ponzi scheme' and banning it is 'perhaps the most advisable choice', says India's Central Bank](https://techcrunch.com/2022/02/15/india-central-bank-cryptocurrency-ponzi-banning/)
+
+   This TechCrunch article is about a high up official of India's central bank calling 
+   cryptocurrencies akin to ponzi schemes just after the Indian government began legalizing 
+   cryptocurrencies through its aim to tax them. He advocates for banning cryptocurrencies, 
+   saying, "They threaten the financial sovereignty of a country and make it susceptible to 
+   strategic manipulation by private corporates creating these currencies or governments that 
+   control them". This article highlights the acceptance and rejection of cryptocurrencies worldwide, 
+   specifically in India.
