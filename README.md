@@ -50,3 +50,11 @@ A collection of news articles about technology and its impact on society.
   mention the racial biases of one-to-one technology that cause both false positives and false
   negatives. Despite these overwhelming issues, "27 states, multiple federal agencies, and over 500
   name brand retailers" continue to use ID.me's techology further supporting the company's false claims.
+
+* [Apple plans AirTag updates to curb unwanted tracking](https://www.cnn.com/2022/02/10/tech/airtag-safety-updates/index.html)
+
+  After a increase in complaints related to user safety with regards to AirTag security concerns, Apple
+  will be releasing new updates that increase user safety.  Apple states that they have worked with law enforcement
+  officials to workshop updates that will help keep users safe. Unfortunately, these updates will only help 
+  victims with iPhones and aren't aimed at keeping people with other cell phone brands safe. On the plus side, 
+  there are a few apps that android users can download that have similar functions as these new Apple updates. 
