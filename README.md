@@ -137,6 +137,7 @@ A collection of news articles about technology and its impact on society.
   of Zenimax Media Inc., the parent company of Bethesda.
 
   * [Artificial intelligence and big data can help preserve wildlife](https://www.sciencedaily.com/releases/2022/02/220208105313.htm)
+
 AI and animal ecology experts have proposed a cross-disciplinary approach to better research wildlife species in the context of preservation. AI experts can work specifically on creating new models. On the other hand, ecologists can provide AI experts with knowledge on what attributes these said models should contain and how they relate to each other. Although a large amount of data has been collected on wildlife in the past, the models are not ideal for ecological understanding. This is because these models are not customizable, have bad quality control, and have ethical issues. 
 
 
