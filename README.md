@@ -2,6 +2,19 @@
 
 A collection of news articles about technology and its impact on society.
 
+* [Google also enforcing rules to honor user privacy to detriment of advertisers](https://www.cnbc.com/2022/02/16/google-plans-android-privacy-change-similar-to-apples.html)
+
+   Google has also announced that they will enforce policies that limit advertisers' ability to track users' activity.
+   Currently, Google/Android users each have a unique ID that advertisers can use to track their activity. However,
+   Google plans to revise this in the future. However, there is an important difference between Google's approach and
+   that of Apple (who also recently announced changing to protect users' privacy from advertisers); Apple released their
+   changes immediately, allowing users to block advertisers from tracking their activity, while Google has announced
+   that their changes will not fully take effect for about two more years (they will continue supporting the user ID's
+   for at least two years). This gives advertisers/social media companies who rely on them time to adjust and come up
+   with new approaches. I think it is interesting that Apple and Google approached this differently, and I wonder
+   whether Google's softer approach was influenced by the fact that Apple's privacy changes were met with strong
+   backlash/criticism because of how abrupt their changes were.
+
 * [Mozilla and Meta working to provide info to advertisers in non-invasive ways](https://blog.mozilla.org/en/mozilla/privacy-preserving-attribution-for-advertising/)
 
   This blog article from Mozilla talks about how they have been working with Meta to create new ways for advertisers to
