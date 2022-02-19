@@ -327,3 +327,6 @@ A collection of news articles about technology and its impact on society.
   Nevertheless, it could also be in response to other huge acquisitions by Microsoft, including that
   of Zenimax Media Inc., the parent company of Bethesda.
 
+* [GitHub launches code scanning scheme to hunt down vulnerabilities](https://www.techradar.com/news/github-launches-code-scanning-scheme-to-hunt-down-vulnerabilities)
+  
+  This TechRadar article discusses a new experimental feature that GitHub has released, which will automatically scan code to see if it has vulnerabilities that could enable SQL injection, cross-site scripting, or other exploits. The scanner is powered by machine learning and currently only processes JavaScript and TypeScript code. If a vulnerability is found, the user will be notified in the security tab of their repository. The article then goes on to contextualize how this feature is another way in which GitHub seeks to implement automation in its service, following the development of GitHub Copilot. 
