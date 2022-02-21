@@ -327,3 +327,7 @@ A collection of news articles about technology and its impact on society.
   Nevertheless, it could also be in response to other huge acquisitions by Microsoft, including that
   of Zenimax Media Inc., the parent company of Bethesda.
 
+* [Google moves to make Android apps more private](https://www.bbc.com/news/technology-60403963)
+  Google plans to increase privacy on android apps alongside the Chrome browser. By 2023 the use of third party cookies is supposedly planned to be removed from Chrome. Overall, the sharing of user data will be more limited so that advertisers will not be able to gain much access to it. However, in the past, the article highlights that Google’s attempts to make up for third party cookies have been unsuccessful, such as in the case of Floc (Federated Learning of Cohorts). Additionally, details on specific implementation methods have not yet been provided. 
+
+
