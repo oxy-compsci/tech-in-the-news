@@ -2,6 +2,11 @@
 
 A collection of news articles about technology and its impact on society.
 
+* [Losing Tech War To China? After Hypersonic Missiles, Ex-Google CEO Says US Far Behind In Another Critical Technology](https://eurasiantimes.com/google-ceo-says-us-far-behind-in-another-critical-technology/)
+
+  The article argues that China is rapidly overtaking the United States in the competition to develop and produce what the former Google CEO, Eric Schmidt, refers to as “strategically important technology”. One of these crucial advancements is in hypersonic technology. In July of last year China conducted a hypersonic weapon test that launched a missile around the world at a speed 5x faster than the speed of sound. China has also recently expanded greatly in its investment of 5G services. China has invested approximately 50x as much in 5G technology as the United States, with a total of $50 billion investment in the country. Schmidt goes on to criticize the United State’s failure to not only effectively allocate resources to hypersonic and 5G technology, but also to high tech manufacturing, green energy and AI. The primary concern is the security threat that technological stagnation poses to the United States. In recent news, Chinese researchers claim to have successfully reached a wireless transmission speed of 206.25 gigabits per second, suggesting 6G technology may be 100x faster than 5G. This combined with hypersonic missiles highlights the growing disparity in tech design as the United States struggles to rollout 5G across the country. The only solution provided is an increased  amount of funding into research to continue securing the United States position as a global leader in technological advancement. 
+
+
 * [Mozilla and Meta working to provide info to advertisers in non-invasive ways](https://blog.mozilla.org/en/mozilla/privacy-preserving-attribution-for-advertising/)
 
   This blog article from Mozilla talks about how they have been working with Meta to create new ways for advertisers to
