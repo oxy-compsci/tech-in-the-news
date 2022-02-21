@@ -2,6 +2,16 @@
 
 A collection of news articles about technology and its impact on society.
 
+* [Ransomware-Related Data Leaks Jump 82% in 2021](https://www.technewsworld.com/story/ransomware-related-data-leaks-jump-82-in-2021-87419.html)
+
+  This article goes over the alarming 2021 cyber security report about the prevalence and danger of ransomware attacks.
+  The report states that there were 2,686 attacks in 2021 compared to 1,474 attacks in 2020, which is an 82% increase.
+  Perpetrators are evolving their approaches with ransomware, such as accessing legitamite login credentials to takeover system functions, 
+  as a way to bypass antivirus products. The report also notes that almost 49% of the attacks are financially motivated, and a prime example
+  was the "lock and leak" attacks observed where the data is not only encrypted for ransom but also stolen to sell online. Such attacks are growing 
+  in popularity because of the many vulnerabilites in a company's cloud and server infrastructure that can be exploited by these attackers. It's 
+  with a warning that "adversaries continue to adapt to security environments" and this will only continue in 2022.
+
 * [Mozilla and Meta working to provide info to advertisers in non-invasive ways](https://blog.mozilla.org/en/mozilla/privacy-preserving-attribution-for-advertising/)
 
   This blog article from Mozilla talks about how they have been working with Meta to create new ways for advertisers to
