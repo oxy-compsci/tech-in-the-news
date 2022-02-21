@@ -335,3 +335,11 @@ A collection of news articles about technology and its impact on society.
   these claims are "without merit" and that they will fight to defend themselves. In November 2021, Meta said
   that they were stopping their facial recognition system, and that the data collected was being deleted;
   however, this data is supposedly being distributed to others without their consent, and was failed in being deleted.
+  
+* [What is Edge AI and How Does It Work?](https://blogs.nvidia.com/blog/2022/02/17/what-is-edge-ai/)
+
+  This NVIDIA article explains new developments made in the area of Edge AI. It goes on to say that Edge AI is where 
+  AI applications in devices are sent out into the physical world. The word “edge" is used because the AI computations
+  are done at the edge of the network, rather than centrally in something like a cloud computing facility.
+  These AI applications are learning to perform tasks in the midst of the "infinite circumstances" that humans are faced
+  with in everyday life. These AI have many uses, and it is claimed that they provide a "robust infrastructure" for general AI.
