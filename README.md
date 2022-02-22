@@ -327,3 +327,7 @@ A collection of news articles about technology and its impact on society.
   Nevertheless, it could also be in response to other huge acquisitions by Microsoft, including that
   of Zenimax Media Inc., the parent company of Bethesda.
 
+* [Texas Sues Meta Over Facebook’s Facial-Recognition Practices](https://www.wsj.com/articles/texas-sues-meta-over-facebooks-facial-recognition-practices-11644854794)
+
+The Texas attorney general has now filed a suit against Meta Platforms alleging that Facebook violated privacy law within the state for the way it handled biometrics. The biometrics and facial recognition cited in the lawsuit was scrapped back in November of 2021, however, Texas AG Ken Paxton stated that for over a decade the existence of facial geometric data within Facebook's platform has resulted in the violation of Texas law. Within the lawsuit Mr. Paxton stated that "Facebook has been secretly harvesting Texans' personal information... for its own corporate profit" and that to do so without informed consent is illegal. Within the Texas law a single privacy infraction draws a $25,000 fine, over the course of the decade Facebook has broken that law millions of times, meaning Texas officials are asking for hundreds of billions of dollars in restitution. It should also be noted that this lawsuit has come about after Facebook settled with the state of Illinois for their class-action lawsuit regarding similar grievances with Facebook's facial recognition and data collection practices. 
+
