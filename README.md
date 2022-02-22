@@ -2,6 +2,18 @@
 
 A collection of news articles about technology and its impact on society.
 
+* [The US is unmasking Russian hackers faster than ever](https://www.technologyreview.com/2022/02/21/1046087/russian-hackers-ukraine/)
+
+  As tensions between Russia and Ukraine continue to escalate, the world watches and waits for information about
+  the conflict. On Feburary 15th and 16th, banks and government websites in Ukraine crashed after a DDos cyber attack. 
+  Less than 48 hours later, the United States government was able to point their fingers at Russian spies. This quick 
+  response is partially due to the pressing nature of the situation, as the world braces for what could be the largest 
+  land conflict in Eurpoe since WWII. Increasingly advanced technology and information also plays a role in the 
+  increased response time to the identification of cyber attackers. The article also cites politics as a reason 
+  that the identification has lagged in the past. Beyond this current event, the article also discusses some 
+  background of cyber security in the era of the internet. 
+
+
 * [Tech Companies’ Super Bowl Ads Leaned Into Dystopia](https://www.wired.com/story/super-bowl-ads-dystopia/)
   
   This article discusses the dystopian nature of some tech Super Bowl commercials, specifically 
