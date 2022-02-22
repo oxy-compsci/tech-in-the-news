@@ -2,6 +2,9 @@
 
 A collection of news articles about technology and its impact on society.
 
+* [Bionic eyes: Obsolete tech leaves patients in the dark](https://www.bbc.com/news/technology-60416058)
+  A company that focuses on artificial vision technology, Second Sight, stopped making bionic eyes to focus on a brain implant. Second Sight discontinued its retinal implants after experiencing financial difficulties and is now concentrating on the Orion - a brain device that also provides artificial vision. This shift in focus proved to be problematic for patients who need repairs or replacements for their implants. This has gotten critics to voice their concerns on high-tech, smart and connected devices in the biomedical field. As biomedical technology becomes more advanced, patients become highly reliant on the profitability of products/services, software upgrades, and proprietary methods/parts which increases the need for accountability and autonomy in the biomedical field.
+
 * [Mozilla and Meta working to provide info to advertisers in non-invasive ways](https://blog.mozilla.org/en/mozilla/privacy-preserving-attribution-for-advertising/)
 
   This blog article from Mozilla talks about how they have been working with Meta to create new ways for advertisers to
