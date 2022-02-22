@@ -89,8 +89,4 @@ that they intend to acquire Activision Blizzard. However, that would not necessa
 as the purchase of such a large game studio as Bungie would take more than a couple of weeks,
 and there is certainly more incentive for Sony to purchase a multi-platform game studio.
 Nevertheless, it could also be in response to other huge acquisitions by Microsoft, including that
-<<<<<<< HEAD
 of Zenimax Media Inc., the parent company of Bethesda.
-=======
-of Zenimax Media Inc., the parent company of Bethesda.
->>>>>>> week-3
