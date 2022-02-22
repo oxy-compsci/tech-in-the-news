@@ -22,3 +22,9 @@ A collection of news articles about technology and its impact on society.
 	The "walled garden" model ensures higher levels of safety through basic safety screening, but cuts down on the amount of available free apps for users.
 	Allowing users to install unvetted apps poses bigger security risks especially for individuals and smaller businesses that do not have the necessary security features to monitor software.
 	With that said, Congress has the ability to enforce regulations that mitigate those risks, including requiring all app stores to have base levels of security, moving away from unrestricted "side-loading", and educating users on good device hygiene.
+
+* [White Castle to hire 100 robots to flip burgers](https://www.today.com/food/restaurants/white-castle-hire-100-robots-flip-burgers-rcna16770)
+	Having first experimented with 'Flippy 1' robotic cooks back in September 2020, White Castle has plans to roll out the upgraded 'Flippy 2' at over 100 locations.
+	The robots, made and manufactured by Miso Robotics, have the capability to take over the entire fry station, allowing employees to focus on customer-facing duties.
+	The combination of fast food and AI is not novel to White Castle, as other popular chains like McDonald's, Sonic, and Checkers have been working to streamline their drive-thru operations with AI tools.
+	Nonetheless, White Castle's program is being phased in by region, with hopes to be in over a third of the 350 locations they have across the Midwest, Southwest, and New York area. 
