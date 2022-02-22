@@ -6,6 +6,10 @@ The Texas attorney general has now filed a suit against Meta Platforms alleging 
 
 The Public Health Agency of Canada, or PHAC, has recently come under fire after it was revealed the government agency had been buying cellphone data from telecom companies in order to track its citizens. The *Global News* article elaborates that the Canadian cellphone provider, Telus, provided the PHAC location and movement data to give government officials in order to gain a greater understanding of the efficacy of their COVID-19 policy. The PHAC has also stated its planning on utilizing the information it purchased outside of solely COVID-19 research. While the data itself was scrubbed in order to prevent the identification of individuals, many are still asking the question as if current data and privacy laws are strong enough and if there needs to be a policy precedent set for government bodies buying or utilizing data from private entities.
 
+* [Nintendo hacker Gary Bowser sentenced to 3 years in prison](https://www.pcgamer.com/nintendo-hacker-gary-bowser-sentenced-to-3-years-in-prison/)
+
+Gary Bowser, a Canadian national who had been extradited to the United States from the Dominican Republic, has been sentenced to 3 years in prison and ordered to pay a fine totalling $4.5 million to Nintendo of America. Bowser had previously pled guilty to the federal charges of Conspiracy to Circumvent Technological Measures and to Traffic in Circumvention Devices, and Trafficking in Circumvention Devices back in October 2021. Bowser was the main man behind a team of hackers known as 'Team Xecuter' who were known for their Nintendo Switch homebrew and jailbreaking software. During the trial Nintendo alleged that Bowser "caused more than $65 million in losses to videogame companies, but the damage goes beyond these businesses, harming videogame developers and the small, creative studios whose products and hard work is essentially stolen when games are pirated". While Nintendo getting angry at software modders isn't new, the Federal Government getting involved and handing out hefty finds and jailtime certainly is. Bowser's sentencing has many wondering if this represents a era of piracy prevention on the part of the US government.
+
 * [The IRS Should Stop Using Facial Recognition](https://www.theatlantic.com/ideas/archive/2022/01/irs-should-stop-using-facial-recognition/621386/)
 
 ID.me's propietary facial recognition technology is not immune to bias despite their efforts to
@@ -85,4 +89,8 @@ that they intend to acquire Activision Blizzard. However, that would not necessa
 as the purchase of such a large game studio as Bungie would take more than a couple of weeks,
 and there is certainly more incentive for Sony to purchase a multi-platform game studio.
 Nevertheless, it could also be in response to other huge acquisitions by Microsoft, including that
+<<<<<<< HEAD
 of Zenimax Media Inc., the parent company of Bethesda.
+=======
+of Zenimax Media Inc., the parent company of Bethesda.
+>>>>>>> week-3
