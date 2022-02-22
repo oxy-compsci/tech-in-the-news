@@ -334,3 +334,11 @@ A collection of news articles about technology and its impact on society.
   officials to workshop updates that will help keep users safe. Unfortunately, these updates will only help 
   victims with iPhones and aren't aimed at keeping people with other cell phone brands safe. On the plus side, 
   there are a few apps that android users can download that have similar functions as these new Apple updates. 
+
+* [Watching Me, Watching You: How Eye Tracking Is Coming to VR and Beyond](https://www.cnet.com/tech/computing/watching-me-watching-you-how-eye-tracking-is-coming-to-vr-and-beyond/)
+  Experts at Tobii, an eye tracking tech company, believe that eye tracking is the next big leap
+  in VR and AR technology. By integrating eye tracking into AR and VR, software engineers can redistribute
+  graphics processing power, allow avatars to make eye contact, and integrate new eye controls.  However,
+  there is a big security concern regarding the data that will be collected from users' eye movements. 
+  Fortunately, software companies like Tobii, are brainstorming user agreements that will explain
+  what data is being collected to better inform users before they allow thier data to be tracked. 
