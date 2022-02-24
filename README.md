@@ -2,15 +2,206 @@
 
 A collection of news articles about technology and its impact on society.
 
+* [Mozilla and Meta working to provide info to advertisers in non-invasive ways](https://blog.mozilla.org/en/mozilla/privacy-preserving-attribution-for-advertising/)
+
+  This blog article from Mozilla talks about how they have been working with Meta to create new ways for advertisers to
+  get information about users in ways that still preserve the user's privacy. They are calling it 'Privacy Preserving
+  Attribution' and it is supposedly a method through which advertisers can still access metrics about how effective their
+  campaigns are working without getting information about specific users. This new strategy is still being worked on but
+  has been submitted for approval to the various groups that govern privacy in relation to advertising. I thought this was
+  particularly interesting in light of the article that I found last week, which talked about how recent privacy policies
+  from Apple (allowing users to have more power over how much advertisers can learn about their behaviour) have had an impact
+  on various companies' (including Meta's) profits. This seems like a possible reaction to that or at least related, in
+  that companies are trying to come up with compromises that still allow advertisers to get information about users, but
+  in ways that still promote privacy for the users.
+
+* [Fusion race kicked into high gear by smart tech](https://www.bbc.com/news/science-environment-60319398)
+
+  An American company is striving to make fusion economically viable with the help of Google's machine learning "expertise". What once used to take two months, with the help of machine learning, takes a fraction of an afternoon. The article states that Google's contribution has could accelerate from the company's long-term schedule, which could potentially lead to a commercial fusion test by 2030. Along with this, TAE is launching technology with the intention of advancing cancer treatment.
+
+* [Computer Scientists Prove Why Bigger Neural Networks Do Better](https://www.quantamagazine.org/computer-scientists-prove-why-bigger-neural-networks-do-better-20220210/)
+
+  A paper presented last December as a leading conference provides a new mathematical explanation for why overparameterization unexpectedly improves the performance of neural networks.
+  Overparameterization is when the number of parameters is greater than the number of training samples.
+  Traditionally, it was thought that one would only ever need n parameters to fit n data points (think of the number of parameters as the number of inflections in the regression).
+  However, modern neural networks are routinely scaled up far beyond that predicted requirement.
+  The paper shows that overparameterization is necessary for a network to be able to generalize because smoothly fitting high-dimensional data points needs n × d parameters, where d is the dimension of the input.
+  Thus, this paper brings an interesting perspective to Bender and Gebru et. al.'s work questioning the "inevitability of larger LMs."
+  If it is true that models being larger is necissary for their performance as this paper suggests, the social and environmental consequences of these larger models must be weighed appropriately.
+
+* [Intel says its new crypto chip is designed to be energy-efficient](https://www.theverge.com/2022/2/13/22931836/intel-new-crypto-chip-sustainability-environment)
+
+  Intel has designed a new chip that is much more energy efficient for cryptocurrency mining as it was designed specifically to aid and
+  accelerate the types of functions that blockchain technology runs on while requiring less energy. This comes at a time when the concern over
+  the amount of energy that is required to mine cryptocurrency is being realized. People and givernemnts now know the huge enviomental impact
+  that cryptocurreny mining has so companies are trying to come up with solutions for this. This is where intel claims that they have mage huge
+  advances by desining a chip that does one thing really well, mine crypotcurrency. According to their reporting, their chip chieved "1000x
+  better performance per watt than mainstream GPUs" for mining. Intel will release more information on February 23rd at the International Solid
+  State Circuits Conference.
+
+* [Intel tries cashing in on cryptocurrency mining despite environmental problems](https://www.cnet.com/personal-finance/crypto/intel-tries-cashing-in-on-bitcoin-with-cryptocurrency-mining-chip/)
+
+  Intel Corporation, plans on designing a new chip that its function is solely on bitcoin mining and other cryptocurrency operations. The company expressed that later 2022 will begin selling these kinds of chips other cryptocurrencies. Even-though the decision on manufacturing these chips will be a high financial risk for the company. With cryptocurrency NFTs booming, it alters how people own and manage their digital assets. There lie fraud and theft problems, and Intel hopes to address these drawback, and extraordinarily large energy consumption behind these operation. Mining is a computationally taxing process that records transactions onto a widely shared database called the blockchain. The first miner to solve a complex computing problem is rewarded with newly minted cryptocurrency. That means there's a strong incentive to have the most powerful, the most efficient machine Evidently, Intel hopes its chip will help with the energy consumption problem which will be a huge marketing element for the consumers and environment. Because an efficiency boost may help miners cut costs and reduce power consumption that worsens global climate crisis problems and deprives others of affordable power. However, an radical improvement in the environmental impact of mining will not be expected.
+
+* [SingularityDAO’s AI-powered ‘DynaSets’ outperform the crypto market](https://artificialintelligence-news.com/2022/02/11/singularitydaos-ai-powered-dynasets-outperform-the-crypto-market/)
+
+  SingularityDAO recently created an AI that determined Dynasets, or selections of specific amounts of cryptocurrency (like Bitcoin or Ethereum), which performed well regardless of the instability of the crypto market. Creating this AI involved combining AI algorithms with professional hedge fund traders to maximize profits and minimize losses. Despite the market being incredibly volatile with "Bitcoin crashing around 50 percent between November 2021 and the end of January 2022", the BitCoin DynaSet (or DynaSet with BitCoin as one of the cryptocurrencies) had "10.3% better performance over just 'hodling" (holding and buying) Bitcoin". As well as, after their collaboration with Cardano to fix issues with Ethereum trading, the Ethereum DynaSet had a "12.59% better performance over just hodling Ethereum". While the project is still in beta, it's clear that with more tweaks, that the AI may be utilized for crypto asset protection in the future.
+
+* [UK’s CMA accepts Google’s post-cookie pledges, will ‘closely monitor’ Privacy Sandbox plan](https://techcrunch.com/2022/02/11/uks-cma-accepts-googles-post-cookie-pledges-will-closely-monitor-privacy-sandbox-plan/)
+
+  This article from Techcrunch discusses how Google's new post-cookies approach to advertising has been approved by the UK's competition regulator. Google plans to deprecate tracking cookies for Chrome and develop a new approach to online targeted advertising; however, this move could potentially be anti-competitive as it grants Google even more dominance over online advertising, allowing them to favor their own advertisements. This approval legally binds Google into a commitment to promote competition, and the regulatory agency will be monitoring them as they propose new ad-tracking technologies.
+
+* [CIA is secretly collecting bulk data pertaining to Americans, senators say](https://www.nbcnews.com/tech/tech-news/cia-secretly-collecting-bulk-data-pertaining-americans-senators-say-rcna15830)
+
+  This CNBC article goes over the reveal of the CIA having a data repository, which contains information collected on Americans.
+  Investigation of this data collection was started by a letter sent by Senators Ron Wyden and Martin Heinrich to top CIA officials in April 2021.
+  Documents revealed on limited information on a CIA program that collections financial information against CIA target list groups, which also
+  snared some American citizen records. However, a CIA spokesperson has responded saying the CIA "recognizes and takes seriously"
+  the protection and privacy of American's lives and their data in their pursuit of national security. While national security is a government duty, an ACLU lawyer reminds us that the "CIA conducts...these sweeping surveillance actitivites", which can go unnoticed by Congress
+  and legislation. Such intelligence activities may require safeguards if they go unchecked.
+
+* [Neuralink Killing Primate Test Subjects](https://www.nydailynews.com/news/national/ny-doctors-accuse-elon-musk-neuralink-extereme-suffering-monkeys-pcrm-20220212-d3bqz7azyfbx5ldljhovfsjdce-story.html)
+
+  Neuralink, Elon Musk's company trying to develop implantable brain–machine interfaces, has begun testing
+  its devices on animals, specifically monkeys. So far only 8 of the 23 monkeys have survived their
+  expiraments, dying of brain hemmorages and needing to be euthanized after experiencing self-mutilation,
+  skin lesions, and other debilatating health effects. Many animal rights activist groups have been critical
+  of this news and the Physicians Committee for Responsible Medicine (PCRM) has filed a regulatory complaint
+  against University of California, Davis, where the expiraments were being held. This forces one to consider
+  the future of technological implants on animals, and even people, since Neuralink has begun hiring human
+  test subjects, despite being unable to begin expiraments until the FDA gives them approval.
+
+* [Intel launches blockchain chip to tap crypto boom](https://www.reuters.com/technology/intel-launches-blockchain-chip-tap-crypto-boom-2022-02-11/)
+
+  Intel announced on February 11 that it would be launching a new chip targeted at blockchain applications, including
+  cryptocurrency mining and the minting of NFTs. This is similar to a recent move made by Nvidia, who released a GPU
+  specifically targeted at Ethereum mining. They have also formed a new group within its Accelerated Computing Systems and
+  Graphics unit to further their involvement in the crypto space. Many have used environmental implications as an argument for
+  why companies should not support crypto mining and similar activities; however, Intel has claimed that this new chip is more
+  energy-efficient, and a result will consume significantly less power than alternative chips.
+
+* [Apple Plane AirTag updates to curb unwanted tracking](https://www.cnn.com/2022/02/10/tech/airtag-safety-updates/index.html)
+
+  In this article posted to CNN, it is announced that Apple is planning to make changes to their AirTag devices to improve the safety of people. With AirTags, there has been reports of people being tracked and stalked with the assistance of the Apple AirTags. Apple has been working with safety groups and some law enforcement agencies to improve the safety of people. One such way that they already improved safety protocols is an alert sent to people when it seems as if they are being tracked by an AirTag. This, however, isn't enough to prevent tracking, so Apple is implementing new changes to the AirTag systems this year including a louder tone sequence so that the device is easier to locate. Another change being added is a warning to users when setting up a new AirTag device that tracking others without their consent is a crime. Another workaround that Apple has to think about is the issue of Android users. Android users are now able to install an app that shows them any potential AirTags tracking them.
+
+* [Scientists develop insect-sized flying robots with flapping wings](https://www.sciencedaily.com/releases/2022/02/220202143053.htm)
+
+  A university in Bristol has developed a new drive system for flapping wing autonomous
+  robots, using a new method of electromechanical zipping that does away with the
+  need for conventional motors and gears. This new advance could pave the way for
+  smaller, lighter, and more effective micro flying robots for environmental monitoring,
+  search and rescue, and deployment in hazardous environments. This takes inspiration from
+  bees and other flying insects and successfully demonstrates a direct-drive artificial
+  muscle system, called the Liquid-amplified Zipping Actuator (LAZA), that achieves wing motion
+  using no rotating parts or gears. The LAZA system greatl simplifies the flapping mechanism
+  enabling miniaturization of flapping robots down to teh size of insects.
+
+* [Apple moves to stop AirTag tracking misuse](https://www.bbc.com/news/technology-60333771)
+
+  Apple plans to introduce updates to their AirTag product to make it harder to misuse
+  them to track people. The devices have been used to track people and when when they launched,
+  Apple, introduced a siftare feature that would notify people with iPhones if a suspicious AirTag
+  that doesn't belong to themm, was tracking them. Now Apple is working even harder on
+  preventing misuse. When users open up their AirTags for the first time, they will get a message
+  that using AirTags to track people is illegal. Apple also claims that now people will
+  be alerted earlier if a suspicious AirTag is tracking them. Additionally,
+  users with an iPhone 11 or newer will be able to use "percision finding" to locate
+  the AirTag. They can also activate the AirTag to ring to help them find it.
+
+* [Meta Adds New Feature for Avatars](https://www.bbc.com/news/technology-60247542)
+
+  Meta recently announced that they are creating a new feature for Avatars called Personal Boundary. It was created after reports of creepy behavior and triggering experiences resembling SA. It allows avatars to create a set distance of space around them in which other avatars cannot cross. This creates more personal space for people using meta and limits unwanted interactions. Meta claims it stops others "invading your avatar's personal space"..."If someone tries to enter your Personal Boundary, the system will halt their forward movement as they reach the boundary."
+
+* [Zoox robotaxis are already mingling with the public on semi-private test courses](https://techcrunch.com/2022/02/10/zoox-robotaxis-are-already-mingling-with-the-public-on-semi-private-test-courses/)
+
+  Amazon subsidiary, Zoox has begun testing out dozens of custom-built robotaxis on various campus-like environments across California.
+  The cube-shaped robotaxis, unveiled in December 2020, can drive bidirectionally, with four-wheel steering, and are capable of transporting four people at up to 75 mph.
+  While the company has no planned date for public release, a spokesperson for the company believes its "really not that far away."
+  Concurrently, Zoox has also equipped several Toyota Highlanders with their autonomous driving system, testing them out in San Francisco, Las Vegas, Seattle, and Foster City with human safety drivers behind the wheel monitoring the vehicles.
+
+* [Silicon Valley is no longer the edgy tech frontier as workers flee Google and Amazon for crypto and Web3 startups, recruiters say]( https://www.businessinsider.com/tech-workers-leaving-for-crypto-web3-startups-silicon-valley-recruiters-2022-2)
+
+  Katie Canales’ Business Insider article details how recently there
+  has been a trend of high-profile executives and developers leaving
+  established firms to find jobs in crypto and other decentralized
+  tech ventures. A leading example of this is how the former CMO of
+  Meta’s digital wallet project, Novi, has left the company to pursue
+  a position at the blockchain-focused payments company Circle. This
+  effect is similar to that of the wave of job switching in the early
+  2010s that saw the arrival of companies such as Uber and Lyft.
+  Whether or not this is just a trend in Silicon Valley or a lasting
+  impact, only the future will know what is in store for the workers
+  who leave for crypto and Web3 startups.
+
+* [Facebook market cap falls below $600 billion — which could actually help it dodge new antitrust scrutiny](https://www.cnbc.com/2022/02/08/facebook-market-cap-under-600-billion-threshold-for-antitrust-bills.html)
+
+  Lauren Feiner's article touches on the recent events regarding the renamed
+  company Meta and a newly released package of competition bills designed
+  specifically to target big tech companies. These bills call for large tech
+  companies such as Amazon, Apple, and Microsoft to stay below a market cap of
+  $600 billion. Though these bills have not yet been passed into law, they could
+  significantly impact Meta on top of the antitrust lawsuit under an already
+  existing law from the Federal Trade Commission regarding the company’s alleged
+  goal of maintain monopoly power through its acquisition of Instagram and
+  WhatsApp. This call of a market cap by the senate is an attempt to control
+  and stifle rapidly growing big tech companies.
+
+* [Alexa tells 10-year-old girl to touch live plug with penny](https://www.bbc.com/news/technology-59810383)
+
+  According to a BBC article, Amazon's Alexa told a 10-year-old girl to plug a charger into an outlet halfway,
+  and then touch a penny to the exposed prongs. This incident occured while the girl and her family were
+  asking Alexa for some challenges to do. The first few challenges were fun and lighthearted, but then
+  Alexa said she found a challenge on the web and suggested the dangerous stunt. This apparently comes
+  from a TikTok challenge, where kids would record themselves in school touching a penny to exposed prongs
+  – often resulting in dangerous sparks of electricity that officials have deemed as fire hazards.
+  The girl did not perform the challenge, and the mother screamed in disapproval when hearing Alexa recommend that challenge.
+  Amazon has since said that they have fixed the bug.
+
+* [After face-recognition backlash, ID.me says government agencies will get more verification options](https://www.cnn.com/2022/02/08/tech/idme-facial-recognition-bypass/index.html)
+
+  The IRS stopped their plan of letting users get verified by facial-recognition
+  through ID.me because of the frustration of being verified through ID.me software.
+  The facial-recognition software of video selfies with a photo ID would fail more often than succeed and users would now
+  be able to verify their identity by talking to a real person instead.
+  There was pushback for the long waits it took for the facial-recognition technology to work and
+  how privacy advocates were against the use of facial-recognition
+  because of how biometric data is kept in ID.me's database.
+  Some federal agencies are questioning if their websites will continue to
+  use ID.me for security reasons in the future because of privacy concerns.
+
+* [AI Can Write Code Like Humans—Bugs and All](https://www.wired.com/story/ai-write-code-like-humans-bugs/)
+
+  In this artical the central argument is that some software developers are using AI to help them writing code. They're discovering that AI produced codes are just as imperfect as man-made code. Reasearchers at NYU recently found that "for certain tasks where security is crucial, the code contains security flaws around 40 percent of the time." Alex Naka, a data scientist find evnethough AI may help to produce certain level of code, but it still needs human to scan through the code and fix the problem. On the other hand Hammaond Pearce, apostdocoral researcher at NYU says that "Vulnerabilities are often caused by a lack of context that a developer needs to know.” meaning that its not the AI's fault in terms of producing mistakes, it is the lack of skills of those software developers.
+
+* [Walmart is quietly preparing to enter the metaverse](https://www.cnbc.com/amp/2022/01/16/walmart-is-quietly-preparing-to-enter-the-metaverse.html)
+
+  Walmart appears to be planning its own collection of NFTs and cryptocurrency. Recently, they have been filing trademarks which lead
+  people to speculate that they will enter the market of virtual products. A separate filing specified that Walmart will be presenting
+  customers with the NFTs and virtual currency. This news puts Walmart among a slew of other big companies that have declared their
+  entrance into the Metaverse. Companies such as Nike, Gap, Under Armour, Adidas, and Urban Outfitters have already filed trademark
+  applications or made NFT debuts within the last couple of months.
+
+* [Your iPhone may soon be able accept contactless payments directly](https://www.techradar.com/news/apple-is-taking-on-square-with-a-new-contactless-payments-system)
+
+  Apple is looking into making the iPhone a point of sale system by adding Square like payments into
+  the iPhone. Apple paid the Canadian company Mobeewave, a company known for working on
+  technology to accept payment via smartphones, roughly 100 million dollars. It is likely that the
+  iPhones pre-existing near field communication (NFC) tech that is already used for apple pay
+  will be used to make these payments possible. There already are companies like Square, recently
+  renamed to Block, that offer a card reader attachment for the iPhone but Apple will be negating the
+  need to have any device other than the iPhone itself. The article discusses whether or not Apple would
+  allow other companies such as Square to use the new tech and as of now it is unknown. The feature could
+  be released as soon as a couple of months from now as part of iOS 15.3.
+
 * [Chip giants are ramping up spending by the billions as semiconductor demand booms](https://www.cnbc.com/2022/02/04/tsmc-intel-ramp-up-spending-as-semiconductor-demand-booms.html)
 
-  This CNBC article is goes over many chip maker company's plans to increase capital spending in 
-  chip production. Big name companies such as TSMC and Intel have announced plans to spend $100 billion 
-  on production of its silicon wafers over 3 years, which mimics that of Intel's last year announcment in 
-  spending $20 billion on new factory plants in Arizona over 2 years. Analysts cite because of increased 
-  in demand in technological goods and complexity in new technology, chipmakers will increase capital expenditure 
-  to catch up to these new challenges. Despite these announcements, analysts cite that because of society's gluttony 
-  in technology goods these plans may only fullfill the "chip glut" seen once these plants and production plans are finished. 
+  This CNBC article is goes over many chip maker company's plans to increase capital spending in
+  chip production. Big name companies such as TSMC and Intel have announced plans to spend $100 billion
+  on production of its silicon wafers over 3 years, which mimics that of Intel's last year announcment in
+  spending $20 billion on new factory plants in Arizona over 2 years. Analysts cite because of increased
+  in demand in technological goods and complexity in new technology, chipmakers will increase capital expenditure
+  to catch up to these new challenges. Despite these announcements, analysts cite that because of society's gluttony
+  in technology goods these plans may only fullfill the "chip glut" seen once these plants and production plans are finished.
   However, with some capital response by chip makers we can hope to see the chip shortage ease, even if the road to get there is "choppy".
 
 * [DeepMind says its new AI coding engine is as good as an average human programmer](https://www.theverge.com/2022/2/2/22914085/alphacode-ai-coding-program-automatic-deepmind-codeforce)
@@ -136,15 +327,28 @@ A collection of news articles about technology and its impact on society.
   Nevertheless, it could also be in response to other huge acquisitions by Microsoft, including that
   of Zenimax Media Inc., the parent company of Bethesda.
 
-* [Facebook market cap falls below $600 billion — which could actually help it dodge new antitrust scrutiny](https://www.cnbc.com/2022/02/08/facebook-market-cap-under-600-billion-threshold-for-antitrust-bills.html)
+* [Tesla’s reverse on battery cells signals shift for electric vehicles](https://www.ft.com/content/accde2e1-08a2-4bc3-bbb1-1a1e72eb4508)
 
-  Lauren Feiner's article touches on the recent events regarding the renamed 
-  company Meta and a newly released package of competition bills designed 
-  specifically to target big tech companies. These bills call for large tech 
-  companies such as Amazon, Apple, and Microsoft to stay below a market cap of 
-  $600 billion. Though these bills have not yet been passed into law, they could 
-  significantly impact Meta on top of the antitrust lawsuit under an already 
-  existing law from the Federal Trade Commission regarding the company’s alleged 
-  goal of maintain monopoly power through its acquisition of Instagram and 
-  WhatsApp. This call of a market cap by the senate is an attempt to control 
-  and stifle rapidly growing big tech companies.
+  This article by June Yoon delves into Tesla’s recent decision for 
+  its cars to start using lithium iron phosphate batteries. This is 
+  caused by the recent surge in prices for raw materials in the world 
+  of batteries for electric cars. The article points out how this type 
+  of battery is widely used for less sophisticated devices such as 
+  golf carts and residential back-up power systems. But iron-based 
+  batteries are a much less efficient option for electric cars as they 
+  have a lower energy density than the nickel, cobalt, and manganese 
+  batteries, which are currently used in most electric cars. Being 
+  iron-based, these batteries will in turn offers less driving 
+  distance on a single charge. The main advantage in switching towards 
+  iron-based batteries is the price: they cost about 30 per cent per 
+  battery cell than their nickel-rich counterparts. Another advantage 
+  is that they are thermally more stable, meaning a lower risk of 
+  fires. Battery-caused car fires have costed companies such as 
+  General Motors upwards of $2 billion and Supplier LG Energy solution 
+  an estimated $1.2 billion. Tesla’s decision to switch to iron-based 
+  batteries has inspired other carmakers such as Volkswagen to plan to 
+  use them as well. However, a switch to iron-based batteries would 
+  mean a powershift for China, as the country produces more than 95% 
+  of iron-based battery cells and controls more than 80% of the 
+  world’s refining and mining aof electric car battery raw materials.
+
