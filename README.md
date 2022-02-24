@@ -41,11 +41,7 @@ A collection of news articles about technology and its impact on society.
 
 * [Intel tries cashing in on cryptocurrency mining despite environmental problems](https://www.cnet.com/personal-finance/crypto/intel-tries-cashing-in-on-bitcoin-with-cryptocurrency-mining-chip/)
 
-<<<<<<< HEAD
-  Intel Corporation, plans on designing a new chip that its function is solely on bitcoin mining and other cryptocurrency operations. The company expressed that later 2022 will begin selling these kinds of chips other cryptocurrencies. Even-though the decision on manufacturing these chips will be a high financial risk for the company. With cryptocurrency NFTs booming, it alters how people own and manage their digital assets. There lie fraud and theft problems, and Intel hopes to address these drawback, and extraordinarily large energy consumption behind these operation. Mining is a computationally taxing process that records transactions onto a widely shared database called the blockchain. The first miner to solve a complex computing problem is rewarded with newly minted cryptocurrency. That means there's a strong incentive to have the most powerful, the most efficient machine Evidently, Intel hopes its chip will help with the energy consumption problem which will be a huge marketing element for the consumers and environment. Because an efficiency boost may help miners cut costs and reduce power consumption that worsens global climate crisis problems and deprives others of affordable power. However, an radical improvement in the environmental impact of mining will not be expected.
-=======
   Intel Corporation, plans on designing a new chip that its function is solely on bitcoin mining and other cryptocurrency operations. The company expressed that later 2022 will begin selling these kinds of chips other cryptocurrencies. Even-though the decision on manufacturing these chips will be a high financial risk for the company. With cryptocurrency NFTs booming, it alters how people own and manage their digital assets. There lie fraud and theft problems, and Intel hopes to address these drawback, and extraordinarily large energy consumption behind these operation. Mining is a computationally taxing process that records transactions onto a widely shared database called the blockchain. The first miner to solve a complex computing problem is rewarded with newly minted cryptocurrency. That means there's a strong incentive to have the most powerful, the most efficient machine Evidently, Intel hopes its chip will help with the energy consumption problem which will be a huge marketing element for the consumers and environment. Because an efficiency boost may help miners cut costs and reduce power consumption that worsens global climate crisis problems and deprives others of affordable power. However, an radical improvement in the environmental impact of mining will not be expected.
->>>>>>> upstream/main
 
 * [SingularityDAO’s AI-powered ‘DynaSets’ outperform the crypto market](https://artificialintelligence-news.com/2022/02/11/singularitydaos-ai-powered-dynasets-outperform-the-crypto-market/)
 
@@ -331,7 +327,6 @@ A collection of news articles about technology and its impact on society.
   Nevertheless, it could also be in response to other huge acquisitions by Microsoft, including that
   of Zenimax Media Inc., the parent company of Bethesda.
 
-<<<<<<< HEAD
 * [NASA Offers Up to $200 Million to Help Push New Technologies to Market](https://www.nasa.gov/press-release/nasa-offers-up-to-200-million-to-help-push-new-technologies-to-market)
 
   Through Tipping Point, NASA seeks to support space technologies that can foster
@@ -346,5 +341,5 @@ A collection of news articles about technology and its impact on society.
   Space Technology Mission Directorate (STMD) at NASA’s Headquarters in Washington, 
   which manages the new opportunities. More than half a billion dollars have been awarded to 50
   projects since NASA announced the first Tipping Point opportunity in 2015. Space 
-  technologies advanced through this funding are now part of current and future mission plans. 
+x  technologies advanced through this funding are now part of current and future mission plans. 
 
