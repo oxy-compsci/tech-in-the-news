@@ -327,3 +327,13 @@ A collection of news articles about technology and its impact on society.
   Nevertheless, it could also be in response to other huge acquisitions by Microsoft, including that
   of Zenimax Media Inc., the parent company of Bethesda.
 
+* [Valve has no plans for a 'Steam Pass,' but would help Microsoft put Game Pass on Steam](https://www.pcgamer.com/valve-has-no-plans-for-a-steam-pass-but-would-help-microsoft-put-game-pass-on-steam/)
+
+ With the highly anticipated launch of the Steam Deck this taking place this week,
+ Valve has responded to speculations that they might release a competitor to Xbox
+ Game Pass. Although they shut down the rumors, they opened the door for Microsoft
+ to put their subscription service on the Steam platform, an anomaly in the console
+ space. Although Game Pass games are theoretically playable already by installing Windows,
+ putting Game Pass on Steam would open up a large library to casual gamers. Despite claims
+ that this would not make sense from Microsoft's viewpoint, the same was said about Xbox
+ games coming to Steam, which recently took place.
