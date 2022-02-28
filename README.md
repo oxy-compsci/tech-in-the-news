@@ -2,6 +2,14 @@
 
 A collection of news articles about technology and its impact on society.
 
+* [Why SNK shifted to Unreal Engine for its latest fighting games](https://www.unrealengine.com/en-US/developer-interviews/why-snk-shifted-to-unreal-engine-for-its-latest-fighting-games)
+
+  SNK decided to use the unreal engine for their latest game, The King of Fighters XV, which helped the development and quality of the final product. The unreal engine provided benefits to development such as easier time porting and enhanced shader capabilities. SNK used unreal engine for their previous title Samurai Shodown, which was a success and they are developing a future game with unreal engine. The King of Fighters XIV did not use unreal engine, but SNK was experimenting with unreal engine during that game's development, so the transition was easy.
+
+* [Tesla wants its cars to be Steam compatible](https://www.pcgamer.com/tesla-wants-its-cars-to-be-steam-compatible/)
+
+  In a tweet, Elon Musk reveals that Tesla is working towards making their cars Steam compatible. New Tesla models currently have an AMD GPU that is able to run demanding games on the dashboard. The dashboard makes use of a Linux operating system, which Steam currently is optimizing for things like the Steam Deck. The only confirmation of this happening is Elon Musk’s tweet. Also Tesla is currently being investigated by National Highway Traffic Safety Administration for some games being playable while driving, which has been disabled since last December.
+
 * [Google lowered its salaries in North Carolina. Now workers are protesting.](https://www.washingtonpost.com/technology/2022/02/18/google-raleigh-hbcu-salary/)
 
   Google has lowered its employees salaries and stock benefits below national level for some of its North Carolina offices.
