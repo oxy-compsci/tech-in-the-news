@@ -2,6 +2,29 @@
 
 A collection of news articles about technology and its impact on society.
 
+* [AI could be the perfect tool for exploring the universe](https://www.theverge.com/2017/11/15/16654352/ai-astronomy-space-exploration-data)
+
+  Astronomers have begun using AI to detect gravitational lenses in images. Gravitational lenses occur when a massive object like a galaxy or a black hole comes between an observer on Earth and a
+  light source, which bends space and light allowing astronomers to see parts of the universe they normally would be unable to see. Finding these lenses among massive amounts of data is very time
+  consuming to do by hand, but by using machine learning, they’ve gotten a detection rate of roughly one per minute as opposed to five or six lenses found for a week of work by hand. This data
+  sorting has the potential to extract more information from data we already have, and collect significantly more information quicker, and more accurately.
+
+* [Record-high seizure of $4bn in stolen Bitcoin](https://www.bbc.com/news/world-us-canada-60310783)
+
+  The US Department of Justice confiscated a record high amount of Bitcoin last week. Two people were caught attempting to launder the stolen money from a hack in 2016 that resulted in around
+  120,000 Bitcoin being stolen from the crypto exchange Bitfinex. Around 94,000 Bitcoin have been recovered and the pair could serve up to 25 years in prison if found guilty.
+
+* [How Misleading Videos About Russia's Invasion of Ukraine Spread on Twitter](https://www.cnet.com/news/how-misleading-videos-about-russias-invasion-of-ukraine-spread-on-twitter/)
+
+  A video posted on Twitter as news of Russia's invasion of Ukraine circulated the internet shows buildings being lit up by a bright flash followed by a loud boom. “Mariupol”, a city in south
+  eastern Ukraine and the misleading caption of the video, implies a relation to the invasion, but the actual video shows lightning striking buildings in January. Twitter says it’s trying to combat
+  this type of misleading content by monitoring and removing videos of this nature, but this goes to show how not everything we see on the internet can be trusted.
+
+* [Ukraine Tech Minister Begs Tim Cook to Cut Off App Store Access in Russia](https://www.cnet.com/news/ukraine-tech-minister-begs-tim-cook-to-cut-off-app-store-access-in-russia/)
+
+  The Ukrainian technology minister has requested that Apple CEO Tim Cook block Russian citizens from accessing the App Store and stop supplying them Apple services and products. If this goes
+  through, Russian citizens could be blocked from ways they use to coordinate resistance. Mykhalio Fedorov posted his official letter to Cook on Twitter Feb 25.
+
 * [Google Drive’s new filters that make search easier are rolling out to everyone](https://www.theverge.com/2022/2/15/22935837/google-drive-search-chips-filters-available-all-users)
 
   Chips is a feature that makes searching in Google Drive easier and it is being made available to all Workspace users. Chips were introduced to Gmail in 2020 and is now being applied to Google Drive. Chips allows you to filter search results by location, file type, date modified, people, tasks, and shared label. To use it, type a keywork into the search bar as usual and you will see the chips right above the search results.
@@ -390,27 +413,4 @@ A collection of news articles about technology and its impact on society.
   and there is certainly more incentive for Sony to purchase a multi-platform game studio.
   Nevertheless, it could also be in response to other huge acquisitions by Microsoft, including that
   of Zenimax Media Inc., the parent company of Bethesda.
-
-* [AI could be the perfect tool for exploring the universe](https://www.theverge.com/2017/11/15/16654352/ai-astronomy-space-exploration-data)
-
-  Astronomers have begun using AI to detect gravitational lenses in images. Gravitational lenses occur when a massive object like a galaxy or a black hole comes between an observer on Earth and a 
-light source, which bends space and light allowing astronomers to see parts of the universe they normally would be unable to see. Finding these lenses among massive amounts of data is very time 
-consuming to do by hand, but by using machine learning, they’ve gotten a detection rate of roughly one per minute as opposed to five or six lenses found for a week of work by hand. This data 
-sorting has the potential to extract more information from data we already have, and collect significantly more information quicker, and more accurately.
-
-* [Record-high seizure of $4bn in stolen Bitcoin](https://www.bbc.com/news/world-us-canada-60310783)
-
-  The US Department of Justice confiscated a record high amount of Bitcoin last week. Two people were caught attempting to launder the stolen money from a hack in 2016 that resulted in around 
-120,000 Bitcoin being stolen from the crypto exchange Bitfinex. Around 94,000 Bitcoin have been recovered and the pair could serve up to 25 years in prison if found guilty.
-
-* [How Misleading Videos About Russia's Invasion of Ukraine Spread on Twitter](https://www.cnet.com/news/how-misleading-videos-about-russias-invasion-of-ukraine-spread-on-twitter/)
-
-  A video posted on Twitter as news of Russia's invasion of Ukraine circulated the internet shows buildings being lit up by a bright flash followed by a loud boom. “Mariupol”, a city in south 
-eastern Ukraine and the misleading caption of the video, implies a relation to the invasion, but the actual video shows lightning striking buildings in January. Twitter says it’s trying to combat 
-this type of misleading content by monitoring and removing videos of this nature, but this goes to show how not everything we see on the internet can be trusted.
-
-* [Ukraine Tech Minister Begs Tim Cook to Cut Off App Store Access in Russia](https://www.cnet.com/news/ukraine-tech-minister-begs-tim-cook-to-cut-off-app-store-access-in-russia/)
-
-  The Ukrainian technology minister has requested that Apple CEO Tim Cook block Russian citizens from accessing the App Store and stop supplying them Apple services and products. If this goes 
-through, Russian citizens could be blocked from ways they use to coordinate resistance. Mykhalio Fedorov posted his official letter to Cook on Twitter Feb 25.
 
