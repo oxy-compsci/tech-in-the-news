@@ -2,6 +2,24 @@
 
 A collection of news articles about technology and its impact on society.
 
+* [Cryptocurrency is akin to 'Ponzi scheme' and banning it is 'perhaps the most advisable choice', says India's Central Bank](https://techcrunch.com/2022/02/15/india-central-bank-cryptocurrency-ponzi-banning/)
+
+  This TechCrunch article is about a high up official of India's central bank calling cryptocurrencies
+  akin to ponzi schemes just after the Indian government began legalizing cryptocurrencies through its
+  aim to tax them. He advocates for banning cryptocurrencies, saying, "They threaten the financial
+  sovereignty of a country and make it susceptible to strategic manipulation by private corporates creating
+  these currencies or governments that control them". This article highlights the acceptance and rejection
+  of cryptocurrencies worldwide, specifically in India.
+
+* [Reface, a viral face-swap app from Ukraine, adds anti-war push notifications](https://techcrunch.com/2022/02/27/reface-a-viral-face-swap-app-from-ukraine-adds-anti-war-push-notifications/)
+
+  Reface, a Ukrainian face-swap app, is sending push notifications to its user base of approximately 200 million
+  asking them to stand with the Ukraine against Russian invasion with the hashtag #StandWithUkraine and by
+  watermarking videos made on their app with a Ukrainian flag. Moreover, an image of sheltering civilians in Kyiv
+  has replaced the home page and displays messages for Russia to be excluded from a banking system in addition to
+  info on how to help Ukrainians during this time. In light of Russia's invasion, this app is trying to highlight
+  these wrongdoings and bring attention and help to the situation in Ukraine.
+
 * [Alex Frangi created an AI to predict heart attack risk fromo a retina scan](https://spectrum.ieee.org/retina-scan)
 
   A professor at the University of Leeds in England and his research assistants have been conducting research on pre-heart-attack symptoms, and how to notify the patient that they are at risk.  Data was collected from tens of thousands of individuals who had gotten recent retina scans, as well as over 5,000 cases of people who had both a retina and cardiac magnetic resnoance scan.  The data was split into 10 parts for training, and by the end the AI was able to correctly predict a heart attack 70-80% of the time.  This is a major upgrade from a doctors diagnosis for a few reasons.  First, it is much quicker.  Current methods for determining heart attack risk required blood samples as well as use of an electrocardiogram, while yhe AI only needs a retina scan, which is much faster and more patient friendly.  This is also a much cheaper option since the technology required for a retina scan is much simpler than that of CMR scans.  Retina scans will also be much more available to the general public through the use of phones.  Eventually each phone will be capable of performing a retina scan, which when mixed with this AI will give everyone the ability to test their own risk of a heart attack without requiring a doctors involvement. Finally in testing, the AI performed 10% better than any previous methods did, suggesting that this AI is capable of determining risk of a heart attack quicker, cheaper, more conveniently, and more accurately than current methods.
@@ -441,20 +459,3 @@ A collection of news articles about technology and its impact on society.
   Nevertheless, it could also be in response to other huge acquisitions by Microsoft, including that
   of Zenimax Media Inc., the parent company of Bethesda.
 
-* [Cryptocurrency is akin to 'Ponzi scheme' and banning it is 'perhaps the most advisable choice', says India's Central Bank](https://techcrunch.com/2022/02/15/india-central-bank-cryptocurrency-ponzi-banning/)
-
-  This TechCrunch article is about a high up official of India's central bank calling cryptocurrencies 
-  akin to ponzi schemes just after the Indian government began legalizing cryptocurrencies through its 
-  aim to tax them. He advocates for banning cryptocurrencies, saying, "They threaten the financial 
-  sovereignty of a country and make it susceptible to strategic manipulation by private corporates creating 
-  these currencies or governments that control them". This article highlights the acceptance and rejection 
-  of cryptocurrencies worldwide, specifically in India.
-
-* [Reface, a viral face-swap app from Ukraine, adds anti-war push notifications](https://techcrunch.com/2022/02/27/reface-a-viral-face-swap-app-from-ukraine-adds-anti-war-push-notifications/)
-
-  Reface, a Ukrainian face-swap app, is sending push notifications to its user base of approximately 200 million 
-  asking them to stand with the Ukraine against Russian invasion with the hashtag #StandWithUkraine and by 
-  watermarking videos made on their app with a Ukrainian flag. Moreover, an image of sheltering civilians in Kyiv 
-  has replaced the home page and displays messages for Russia to be excluded from a banking system in addition to 
-  info on how to help Ukrainians during this time. In light of Russia's invasion, this app is trying to highlight 
-  these wrongdoings and bring attention and help to the situation in Ukraine.
