@@ -2,6 +2,10 @@
 
 A collection of news articles about technology and its impact on society.
 
+* [Data breaches break record in 2021](https://www.cnet.com/tech/services-and-software/record-number-of-data-breaches-reported-in-2021-new-report-says/)
+
+  The Identity Theft Resource Center has reported that 2021 saw the highest amount of data breaches to date. The record indicates a 68% increase from 2020’s total and a 23% increase from the previous all-time high. This is a crucial topic to address, as there is no indication that data breaches will slow down in the coming years. There is a general trend in which cybercriminals are shifting towards more focused attacks instead of massive data breaches. Following 2021’s trend, it is expected that ransomware will surpass phishing as the most likely data breach in 2022. It is encouraged that all individuals practice safe cyber practices to reduce their own risk of becoming the victim of these attacks. Interestingly, the military had no data breaches in 2021, despite an increase across all other sectors.
+
 * [Forget Zoom school. For some students, class is in session in VR](https://www.cnn.com/2022/01/27/tech/vr-classes/index.html)
 
   Virtual Reality classes are more engaging and effective at teaching than Zoom or other video based remote learning platforms. The article first starts by describing how a professor at Stanford University used VR to teach his class and how it helped his students remain more engaged with the content. VR learning is also being implemented in Longview School for gym classes and to help students learn about war and trade through the use of games like  Civilization V. Even though headsets like the Oculus Quest 2 are becoming more affordable they are still too expensive to buy a set for a whole class in many schools. Still, students who took VR classes say they remember more from the class than video based remote classes.
