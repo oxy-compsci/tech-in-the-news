@@ -2,6 +2,16 @@
 
 A collection of news articles about technology and its impact on society.
 
+* [Ransomware-Related Data Leaks Jump 82% in 2021](https://www.technewsworld.com/story/ransomware-related-data-leaks-jump-82-in-2021-87419.html)
+
+  This article goes over the alarming 2021 cyber security report about the prevalence and danger of ransomware attacks.
+  The report states that there were 2,686 attacks in 2021 compared to 1,474 attacks in 2020, which is an 82% increase.
+  Perpetrators are evolving their approaches with ransomware, such as accessing legitamite login credentials to takeover system functions,
+  as a way to bypass antivirus products. The report also notes that almost 49% of the attacks are financially motivated, and a prime example
+  was the "lock and leak" attacks observed where the data is not only encrypted for ransom but also stolen to sell online. Such attacks are growing
+  in popularity because of the many vulnerabilites in a company's cloud and server infrastructure that can be exploited by these attackers. It's
+  with a warning that "adversaries continue to adapt to security environments" and this will only continue in 2022.
+
 * [Losing Tech War To China? After Hypersonic Missiles, Ex-Google CEO Says US Far Behind In Another Critical Technology](https://eurasiantimes.com/google-ceo-says-us-far-behind-in-another-critical-technology/)
 
   The article argues that China is rapidly overtaking the United States in the competition to develop and produce what the former Google CEO, Eric Schmidt, refers to as “strategically important technology”. One of these crucial advancements is in hypersonic technology. In July of last year China conducted a hypersonic weapon test that launched a missile around the world at a speed 5x faster than the speed of sound. China has also recently expanded greatly in its investment of 5G services. China has invested approximately 50x as much in 5G technology as the United States, with a total of $50 billion investment in the country. Schmidt goes on to criticize the United State’s failure to not only effectively allocate resources to hypersonic and 5G technology, but also to high tech manufacturing, green energy and AI. The primary concern is the security threat that technological stagnation poses to the United States. In recent news, Chinese researchers claim to have successfully reached a wireless transmission speed of 206.25 gigabits per second, suggesting 6G technology may be 100x faster than 5G. This combined with hypersonic missiles highlights the growing disparity in tech design as the United States struggles to rollout 5G across the country. The only solution provided is an increased  amount of funding into research to continue securing the United States position as a global leader in technological advancement.
