@@ -2,6 +2,23 @@
 
 A collection of news articles about technology and its impact on society.
 
+* [Texas Sues Meta's Facebook Over Facial-Recognition Practices](https://www.usnews.com/news/technology/articles/2022-02-14/texas-sues-meta-over-facebooks-facial-recognition-practices-report)
+
+  According to U.S. News, the state of Texas plans to sue Meta over the use of Texans' biometric data
+  without their consent. The lawsuit claims that Meta has allegedly used biometric data of the 20.5 million
+  Texans who use Meta "billions of times." A Meta spokesperson has since denied these allegations saying that
+  these claims are "without merit" and that they will fight to defend themselves. In November 2021, Meta said
+  that they were stopping their facial recognition system, and that the data collected was being deleted;
+  however, this data is supposedly being distributed to others without their consent, and was failed in being deleted.
+
+* [What is Edge AI and How Does It Work?](https://blogs.nvidia.com/blog/2022/02/17/what-is-edge-ai/)
+
+  This NVIDIA article explains new developments made in the area of Edge AI. It goes on to say that Edge AI is where
+  AI applications in devices are sent out into the physical world. The word “edge" is used because the AI computations
+  are done at the edge of the network, rather than centrally in something like a cloud computing facility.
+  These AI applications are learning to perform tasks in the midst of the "infinite circumstances" that humans are faced
+  with in everyday life. These AI have many uses, and it is claimed that they provide a "robust infrastructure" for general AI.
+
 * [Kanye West’s $200 Stem Player will be the only way to get his next album, Donda 2](https://www.theverge.com/2022/2/18/22940748/donda-2-stem-player-kanye-west-exclusive-music)
 
   Kanye West announced this week that his upcoming album, Donda 2, would only be available on
