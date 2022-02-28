@@ -2,6 +2,22 @@
 
 A collection of news articles about technology and its impact on society.
 
+* [NASA Offers Up to $200 Million to Help Push New Technologies to Market](https://www.nasa.gov/press-release/nasa-offers-up-to-200-million-to-help-push-new-technologies-to-market)
+
+  Through Tipping Point, NASA seeks to support space technologies that can foster
+  the growth of commercial space capabilities and benefit future agency missions.
+  “Public-private partnerships established through these opportunities will combine
+  agency resources with industry contributions, a benefit that will unlock new ideas to
+  advance how we live and work in space while providing greater value to the American
+  people.” These opportunities focus on technology development for space
+  infrastructure and capabilities for the Moon and near-Earth space. "Forging strong
+  partnerships with the commercial space economy is critical for driving our nation’s
+  space exploration further and faster," said Jim Reuter, associate administrator for the
+  Space Technology Mission Directorate (STMD) at NASA’s Headquarters in Washington,
+  which manages the new opportunities. More than half a billion dollars have been awarded to 50
+  projects since NASA announced the first Tipping Point opportunity in 2015. Space
+  x  technologies advanced through this funding are now part of current and future mission plans.
+
 * [China Is About to Regulate AI—and the World Is Watching](https://www.wired.com/story/china-regulate-ai-world-watching/)
 
   Chinese government is on the move to regulate corperates' AI algorithm uses that set prices, control search results, recommend videos, and filter content. Some car hailing apps in china uses AI algorithm to provide different prices for different users. For instence, the platform may offer a lower price for the same ride based on users usage and price of the phone they use. In one of Prsident Xi jinping's speech in Octorber, he said there are "unhealthy and disorderly signals and trendds" regarding china's digital economy development. Based on the new 'INternet information Service Algorithmic Recommendatio Management Provisions' will enforce corperates and individual use Ai in unlawful and unhealfy ways online. Certain provisions of the new regulations may prove challenging or impossible to enforce. Controlling the behavior of an algorithm that is constantly changing due to new input, for example, might be technically tough.
@@ -583,20 +599,4 @@ A collection of news articles about technology and its impact on society.
   and there is certainly more incentive for Sony to purchase a multi-platform game studio.
   Nevertheless, it could also be in response to other huge acquisitions by Microsoft, including that
   of Zenimax Media Inc., the parent company of Bethesda.
-
-* [NASA Offers Up to $200 Million to Help Push New Technologies to Market](https://www.nasa.gov/press-release/nasa-offers-up-to-200-million-to-help-push-new-technologies-to-market)
-
-  Through Tipping Point, NASA seeks to support space technologies that can foster
-  the growth of commercial space capabilities and benefit future agency missions. 
-  “Public-private partnerships established through these opportunities will combine 
-  agency resources with industry contributions, a benefit that will unlock new ideas to 
-  advance how we live and work in space while providing greater value to the American 
-  people.” These opportunities focus on technology development for space 
-  infrastructure and capabilities for the Moon and near-Earth space. "Forging strong 
-  partnerships with the commercial space economy is critical for driving our nation’s 
-  space exploration further and faster," said Jim Reuter, associate administrator for the 
-  Space Technology Mission Directorate (STMD) at NASA’s Headquarters in Washington, 
-  which manages the new opportunities. More than half a billion dollars have been awarded to 50
-  projects since NASA announced the first Tipping Point opportunity in 2015. Space 
-x  technologies advanced through this funding are now part of current and future mission plans. 
 
