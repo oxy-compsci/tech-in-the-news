@@ -2,6 +2,15 @@
 
 A collection of news articles about technology and its impact on society.
 
+* [Google lowered its salaries in North Carolina. Now workers are protesting.](https://www.washingtonpost.com/technology/2022/02/18/google-raleigh-hbcu-salary/)
+
+  Google has lowered its employees salaries and stock benefits below national level for some of its North Carolina offices.
+  Representatives from Google claim this change was to readjust to offer competitive pay relative to the local market.
+  However, affected workers view the adjustment as problematic.
+  This is partly because many employees moved to the area before the salary cut for the lower cost of living, and Google had "record-breaking performance in the stock market, in spite of Covid-19," and so should be rewarding its workers rather than cutting salaries.
+  A larger reason for upset is also the cut happening simultaneously with Google's plans to make the company more diverse by hiring black engineers in areas like Durnham, North Carolina.
+  Thus, critics raise the question of if Google is exploiting the very hires that will make their company more diverse.
+
 * [Ransomware-Related Data Leaks Jump 82% in 2021](https://www.technewsworld.com/story/ransomware-related-data-leaks-jump-82-in-2021-87419.html)
 
   This article goes over the alarming 2021 cyber security report about the prevalence and danger of ransomware attacks.
@@ -563,11 +572,3 @@ A collection of news articles about technology and its impact on society.
   Nevertheless, it could also be in response to other huge acquisitions by Microsoft, including that
   of Zenimax Media Inc., the parent company of Bethesda.
 
-* [Google lowered its salaries in North Carolina. Now workers are protesting.](https://www.washingtonpost.com/technology/2022/02/18/google-raleigh-hbcu-salary/)
-
-  Google has lowered its employees salaries and stock benefits below national level for some of its North Carolina offices. 
-  Representatives from Google claim this change was to readjust to offer competitive pay relative to the local market. 
-  However, affected workers view the adjustment as problematic. 
-  This is partly because many employees moved to the area before the salary cut for the lower cost of living, and Google had "record-breaking performance in the stock market, in spite of Covid-19," and so should be rewarding its workers rather than cutting salaries. 
-  A larger reason for upset is also the cut happening simultaneously with Google's plans to make the company more diverse by hiring black engineers in areas like Durnham, North Carolina.
-  Thus, critics raise the question of if Google is exploiting the very hires that will make their company more diverse.
