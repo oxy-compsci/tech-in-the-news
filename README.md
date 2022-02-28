@@ -515,3 +515,15 @@ A collection of news articles about technology and its impact on society.
   Nevertheless, it could also be in response to other huge acquisitions by Microsoft, including that
   of Zenimax Media Inc., the parent company of Bethesda.
 
+* [Kanye West’s $200 Stem Player will be the only way to get his next album, Donda 2](https://www.theverge.com/2022/2/18/22940748/donda-2-stem-player-kanye-west-exclusive-music)
+
+  Kanye West announced this week that his upcoming album, Donda 2, would only be available on
+  his "stem Player" platform, and would not be coming to normal streaming platforms. He claims
+  that this is in response to the fact that artists only get 12% of the money that the industry
+  makes, with streaming platforms taking large percentages. Launched with his previous album, the
+  Stem Player is an interesting device that allows for the onboard music to be manipulated, although
+  it was nowhere near as functional as a proper mixing device, nor is it as convenient to use as
+  streaming platforms. Notably, this is not the first time Kanye has attempted to avoid mainstream
+  streaming platforms, since he tried something similar several years ago. However, it seems
+  less likely he will backtrack this time, unlike the last, given the current state of the music
+  industry and criticism of platforms such as Spotify.
