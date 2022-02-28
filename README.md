@@ -2,6 +2,10 @@
 
 A collection of news articles about technology and its impact on society.
 
+* [Artificial intelligence and big data can help preserve wildlife](https://www.sciencedaily.com/releases/2022/02/220208105313.htm)
+
+  AI and animal ecology experts have proposed a cross-disciplinary approach to better research wildlife species in the context of preservation. AI experts can work specifically on creating new models. On the other hand, ecologists can provide AI experts with knowledge on what attributes these said models should contain and how they relate to each other. Although a large amount of data has been collected on wildlife in the past, the models are not ideal for ecological understanding. This is because these models are not customizable, have bad quality control, and have ethical issues.
+
 * [Data breaches break record in 2021](https://www.cnet.com/tech/services-and-software/record-number-of-data-breaches-reported-in-2021-new-report-says/)
 
   The Identity Theft Resource Center has reported that 2021 saw the highest amount of data breaches to date. The record indicates a 68% increase from 2020’s total and a 23% increase from the previous all-time high. This is a crucial topic to address, as there is no indication that data breaches will slow down in the coming years. There is a general trend in which cybercriminals are shifting towards more focused attacks instead of massive data breaches. Following 2021’s trend, it is expected that ransomware will surpass phishing as the most likely data breach in 2022. It is encouraged that all individuals practice safe cyber practices to reduce their own risk of becoming the victim of these attacks. Interestingly, the military had no data breaches in 2021, despite an increase across all other sectors.
@@ -346,8 +350,4 @@ A collection of news articles about technology and its impact on society.
   and there is certainly more incentive for Sony to purchase a multi-platform game studio.
   Nevertheless, it could also be in response to other huge acquisitions by Microsoft, including that
   of Zenimax Media Inc., the parent company of Bethesda.
-
-* [Artificial intelligence and big data can help preserve wildlife](https://www.sciencedaily.com/releases/2022/02/220208105313.htm)
-AI and animal ecology experts have proposed a cross-disciplinary approach to better research wildlife species in the context of preservation. AI experts can work specifically on creating new models. On the other hand, ecologists can provide AI experts with knowledge on what attributes these said models should contain and how they relate to each other. Although a large amount of data has been collected on wildlife in the past, the models are not ideal for ecological understanding. This is because these models are not customizable, have bad quality control, and have ethical issues. 
-
 
