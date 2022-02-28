@@ -2,6 +2,10 @@
 
 A collection of news articles about technology and its impact on society.
 
+* [China Is About to Regulate AI—and the World Is Watching](https://www.wired.com/story/china-regulate-ai-world-watching/)
+
+  Chinese government is on the move to regulate corperates' AI algorithm uses that set prices, control search results, recommend videos, and filter content. Some car hailing apps in china uses AI algorithm to provide different prices for different users. For instence, the platform may offer a lower price for the same ride based on users usage and price of the phone they use. In one of Prsident Xi jinping's speech in Octorber, he said there are "unhealthy and disorderly signals and trendds" regarding china's digital economy development. Based on the new 'INternet information Service Algorithmic Recommendatio Management Provisions' will enforce corperates and individual use Ai in unlawful and unhealfy ways online. Certain provisions of the new regulations may prove challenging or impossible to enforce. Controlling the behavior of an algorithm that is constantly changing due to new input, for example, might be technically tough.
+
 * [Why SNK shifted to Unreal Engine for its latest fighting games](https://www.unrealengine.com/en-US/developer-interviews/why-snk-shifted-to-unreal-engine-for-its-latest-fighting-games)
 
   SNK decided to use the unreal engine for their latest game, The King of Fighters XV, which helped the development and quality of the final product. The unreal engine provided benefits to development such as easier time porting and enhanced shader capabilities. SNK used unreal engine for their previous title Samurai Shodown, which was a success and they are developing a future game with unreal engine. The King of Fighters XIV did not use unreal engine, but SNK was experimenting with unreal engine during that game's development, so the transition was easy.
