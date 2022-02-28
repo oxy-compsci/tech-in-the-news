@@ -2,6 +2,16 @@
 
 A collection of news articles about technology and its impact on society.
 
+* [Chip sanctions aim for Russia’s military and its tech industry hopes](https://www.ft.com/content/1d0e97dd-b7e3-416c-98a0-a823838fbc96)
+
+  This article discusses US sanctions against Russia's tech-economy to disrupt its military capabilities. The sanctions include the ban of exporting
+  chip technology to Russia by US based companies, such as Intel and Nvidia. The sanction is specifically targeted for chip technology meant for
+  military purposes and would not stop Russian citizens from buying normal technology goods, such as mobile phones. This move mirrors that of US sanctions
+  against Huawei a couple years before due to security concerns, but use of the same sanctions today brings concern of Chinese companies moving in to
+  supply Russia the chip technology instead. However, a senior Biden official remarks "China alone can't supply all of Russia's critical needs" and this
+  seems reasonable given that China accounts for only 16 percent of global semiconductor prodcution, so such an outcome is unlikely. Nonetheless, the tech sanctions
+  reflect a US response in limiting Russia's military aggression with the ongoing Russia-Ukraine conflict.
+
 * [Using artificial intelligence to find anomalies hiding in massive datasets](https://techxplore.com/news/2022-02-artificial-intelligence-anomalies-massive-datasets.html)
 
   Some MIT researchers have created a method that is able to point out anomalies in real time from data streams in an efficient way. This model does not need to be trained on annotated data on power grid anomalies, which makes it suitable for real life situations that don’t have cleaned up data of good quality. One possible use of the model includes monitoring traffic and water systems. Although other models do exist, the researchers conclude that their model performs better when it comes to pointing out anomalies. This is because their model was able to detect a higher percent of the true anomalies that existed in the datasets that were tested.
