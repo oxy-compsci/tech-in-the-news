@@ -2,6 +2,31 @@
 
 A collection of news articles about technology and its impact on society.
 
+* [Tesla’s reverse on battery cells signals shift for electric vehicles](https://www.ft.com/content/accde2e1-08a2-4bc3-bbb1-1a1e72eb4508)
+
+  This article by June Yoon delves into Tesla’s recent decision for
+  its cars to start using lithium iron phosphate batteries. This is
+  caused by the recent surge in prices for raw materials in the world
+  of batteries for electric cars. The article points out how this type
+  of battery is widely used for less sophisticated devices such as
+  golf carts and residential back-up power systems. But iron-based
+  batteries are a much less efficient option for electric cars as they
+  have a lower energy density than the nickel, cobalt, and manganese
+  batteries, which are currently used in most electric cars. Being
+  iron-based, these batteries will in turn offers less driving
+  distance on a single charge. The main advantage in switching towards
+  iron-based batteries is the price: they cost about 30 per cent per
+  battery cell than their nickel-rich counterparts. Another advantage
+  is that they are thermally more stable, meaning a lower risk of
+  fires. Battery-caused car fires have costed companies such as
+  General Motors upwards of $2 billion and Supplier LG Energy solution
+  an estimated $1.2 billion. Tesla’s decision to switch to iron-based
+  batteries has inspired other carmakers such as Volkswagen to plan to
+  use them as well. However, a switch to iron-based batteries would
+  mean a powershift for China, as the country produces more than 95%
+  of iron-based battery cells and controls more than 80% of the
+  world’s refining and mining aof electric car battery raw materials.
+
 * [NASA Offers Up to $200 Million to Help Push New Technologies to Market](https://www.nasa.gov/press-release/nasa-offers-up-to-200-million-to-help-push-new-technologies-to-market)
 
   Through Tipping Point, NASA seeks to support space technologies that can foster
@@ -599,29 +624,4 @@ A collection of news articles about technology and its impact on society.
   and there is certainly more incentive for Sony to purchase a multi-platform game studio.
   Nevertheless, it could also be in response to other huge acquisitions by Microsoft, including that
   of Zenimax Media Inc., the parent company of Bethesda.
-
-* [Tesla’s reverse on battery cells signals shift for electric vehicles](https://www.ft.com/content/accde2e1-08a2-4bc3-bbb1-1a1e72eb4508)
-
-  This article by June Yoon delves into Tesla’s recent decision for 
-  its cars to start using lithium iron phosphate batteries. This is 
-  caused by the recent surge in prices for raw materials in the world 
-  of batteries for electric cars. The article points out how this type 
-  of battery is widely used for less sophisticated devices such as 
-  golf carts and residential back-up power systems. But iron-based 
-  batteries are a much less efficient option for electric cars as they 
-  have a lower energy density than the nickel, cobalt, and manganese 
-  batteries, which are currently used in most electric cars. Being 
-  iron-based, these batteries will in turn offers less driving 
-  distance on a single charge. The main advantage in switching towards 
-  iron-based batteries is the price: they cost about 30 per cent per 
-  battery cell than their nickel-rich counterparts. Another advantage 
-  is that they are thermally more stable, meaning a lower risk of 
-  fires. Battery-caused car fires have costed companies such as 
-  General Motors upwards of $2 billion and Supplier LG Energy solution 
-  an estimated $1.2 billion. Tesla’s decision to switch to iron-based 
-  batteries has inspired other carmakers such as Volkswagen to plan to 
-  use them as well. However, a switch to iron-based batteries would 
-  mean a powershift for China, as the country produces more than 95% 
-  of iron-based battery cells and controls more than 80% of the 
-  world’s refining and mining aof electric car battery raw materials.
 
