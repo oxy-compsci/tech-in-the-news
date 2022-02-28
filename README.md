@@ -2,6 +2,10 @@
 
 A collection of news articles about technology and its impact on society.
 
+* [We tested Apple's new option to unlock an iPhone while wearing a mask](https://www.cnn.com/2022/02/17/tech/apple-face-id-mask/index.html)
+
+  This article discusses Apple's new software update, which includes a new feature that enables users to unlock their phone with face id even while wearing a mask. There has been a loss of one Apple's most convenient features over the last couple years as face id does not work when people wear a mask. Apple also has stated that this update should allow for better results when wearing sunglasses and/or a hat and trying to unlock your phone. This upcoming update is big news, as it means we won't have the annoying issue of typing in our passcode or pulling off our mask in public to unlock our phones. The convenience of face id is a big feature that was revolutionary when it was first released, and these new updates should improve it more. It will be interesting to see how effective the new changes are. An initial test with the beta revealed that while it was able to unlock the device with a mask on, there were still some inconsistencies. There were times that they were prompted to input their passcode to unlock the phone, but Apple will likely address this issue before releasing fully in the next update.
+
 * [Google also enforcing rules to honor user privacy to detriment of advertisers](https://www.cnbc.com/2022/02/16/google-plans-android-privacy-change-similar-to-apples.html)
 
   Google has also announced that they will enforce policies that limit advertisers' ability to track users' activity.
