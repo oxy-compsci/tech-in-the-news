@@ -2,6 +2,19 @@
 
 A collection of news articles about technology and its impact on society.
 
+* [Syncing Alexa, Google Nest and Apple smart home tech is about to get easier with Matter](https://www.usatoday.com/story/tech/2022/02/27/smart-home-tech-apple-amazon-alexa-google-ne/6940206001/)
+
+  This article discusses the prevalence of smart home tech as we progress into a digital age. The issue with 
+  smart home devices and appliances becoming more popular is beginning to become their lack of compatability 
+  with one another. This issue is soon going to be resolved with the release of matter, a language/protocol 
+  that allows different brands of smart home technology to communicate. Notable companies that are going to 
+  implement matter include Amazon, Apple, Google, Samsung, Dyson, GE, and Sonos. One issue with the release 
+  of matter is mass adoption is going to take some time due to the fact that not all current smart home 
+  devices are going to be matter compatible. Some companies have said that they may release "bridge" devices 
+  that will make old devices compatible with matter. Amazon has said that some Echo devices will simply need 
+  a firmware update but this is not necessarily the case across companies. Overall, this is an interesting 
+  step forward in tech as it shows that sometimes it is in big tech's best interest to work together. 
+
 * [The US is unmasking Russian hackers faster than ever](https://www.technologyreview.com/2022/02/21/1046087/russian-hackers-ukraine/)
 
   As tensions between Russia and Ukraine continue to escalate, the world watches and waits for information about
