@@ -441,3 +441,20 @@ A collection of news articles about technology and its impact on society.
   Nevertheless, it could also be in response to other huge acquisitions by Microsoft, including that
   of Zenimax Media Inc., the parent company of Bethesda.
 
+* [Cryptocurrency is akin to 'Ponzi scheme' and banning it is 'perhaps the most advisable choice', says India's Central Bank](https://techcrunch.com/2022/02/15/india-central-bank-cryptocurrency-ponzi-banning/)
+
+  This TechCrunch article is about a high up official of India's central bank calling cryptocurrencies 
+  akin to ponzi schemes just after the Indian government began legalizing cryptocurrencies through its 
+  aim to tax them. He advocates for banning cryptocurrencies, saying, "They threaten the financial 
+  sovereignty of a country and make it susceptible to strategic manipulation by private corporates creating 
+  these currencies or governments that control them". This article highlights the acceptance and rejection 
+  of cryptocurrencies worldwide, specifically in India.
+
+* [Reface, a viral face-swap app from Ukraine, adds anti-war push notifications](https://techcrunch.com/2022/02/27/reface-a-viral-face-swap-app-from-ukraine-adds-anti-war-push-notifications/)
+
+  Reface, a Ukrainian face-swap app, is sending push notifications to its user base of approximately 200 million 
+  asking them to stand with the Ukraine against Russian invasion with the hashtag #StandWithUkraine and by 
+  watermarking videos made on their app with a Ukrainian flag. Moreover, an image of sheltering civilians in Kyiv 
+  has replaced the home page and displays messages for Russia to be excluded from a banking system in addition to 
+  info on how to help Ukrainians during this time. In light of Russia's invasion, this app is trying to highlight 
+  these wrongdoings and bring attention and help to the situation in Ukraine.
