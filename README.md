@@ -2,6 +2,17 @@
 
 A collection of news articles about technology and its impact on society.
 
+* [Valve has no plans for a 'Steam Pass,' but would help Microsoft put Game Pass on Steam](https://www.pcgamer.com/valve-has-no-plans-for-a-steam-pass-but-would-help-microsoft-put-game-pass-on-steam/)
+
+  With the highly anticipated launch of the Steam Deck this taking place this week,
+  Valve has responded to speculations that they might release a competitor to Xbox
+  Game Pass. Although they shut down the rumors, they opened the door for Microsoft
+  to put their subscription service on the Steam platform, an anomaly in the console
+  space. Although Game Pass games are theoretically playable already by installing Windows,
+  putting Game Pass on Steam would open up a large library to casual gamers. Despite claims
+  that this would not make sense from Microsoft's viewpoint, the same was said about Xbox
+  games coming to Steam, which recently took place.
+
 * [Toward a stronger defense of personal data](https://news.mit.edu/2022/application-specific-integrated-circuit-iot-chip-0218)
 
   Researchers at MIT have developed an "application-specific integrated circuit (ASIC) chip", with the power to defend against "side-channel" attacks, or attacks that seek to gather secret information via an exploitation of a system and/or its hardware. An example of a side attack is the exploitation of the hardware on a smartwatch by inspecting the device's power consumption to get private health data about the individual. The ASIC chip answers this issue by using "threshold computing", which splits the data into "unique, random components" which are then operated on in a random order as well before getting the final result. Their chip was a success as with the default implementation "they were able to recover hidden information... in about 1000 power waveforms (representations of power usage over time)". Whereas, with the new hardware, "even after collecting 2 million waveforms, they still could not recover the data". However, now the main issue that has come up is the design: while it provides significant security against these attacks, "the chip requires 5.5 times more power and 1.6 times more silicon area than a baseline insecure implementation." The researchers, however, argue that "[We're willing to trading] off some amount of energy consumption to make a more secure computation", arguing that it can be utilized while more energy-sustainable models are created in the future.
@@ -634,13 +645,3 @@ A collection of news articles about technology and its impact on society.
   Nevertheless, it could also be in response to other huge acquisitions by Microsoft, including that
   of Zenimax Media Inc., the parent company of Bethesda.
 
-* [Valve has no plans for a 'Steam Pass,' but would help Microsoft put Game Pass on Steam](https://www.pcgamer.com/valve-has-no-plans-for-a-steam-pass-but-would-help-microsoft-put-game-pass-on-steam/)
-
- With the highly anticipated launch of the Steam Deck this taking place this week,
- Valve has responded to speculations that they might release a competitor to Xbox
- Game Pass. Although they shut down the rumors, they opened the door for Microsoft
- to put their subscription service on the Steam platform, an anomaly in the console
- space. Although Game Pass games are theoretically playable already by installing Windows,
- putting Game Pass on Steam would open up a large library to casual gamers. Despite claims
- that this would not make sense from Microsoft's viewpoint, the same was said about Xbox
- games coming to Steam, which recently took place.
