@@ -2,6 +2,10 @@
 
 A collection of news articles about technology and its impact on society.
 
+* [GitHub launches code scanning scheme to hunt down vulnerabilities](https://www.techradar.com/news/github-launches-code-scanning-scheme-to-hunt-down-vulnerabilities)
+
+  This TechRadar article discusses a new experimental feature that GitHub has released, which will automatically scan code to see if it has vulnerabilities that could enable SQL injection, cross-site scripting, or other exploits. The scanner is powered by machine learning and currently only processes JavaScript and TypeScript code. If a vulnerability is found, the user will be notified in the security tab of their repository. The article then goes on to contextualize how this feature is another way in which GitHub seeks to implement automation in its service, following the development of GitHub Copilot.
+
 * [We tested Apple's new option to unlock an iPhone while wearing a mask](https://www.cnn.com/2022/02/17/tech/apple-face-id-mask/index.html)
 
   This article discusses Apple's new software update, which includes a new feature that enables users to unlock their phone with face id even while wearing a mask. There has been a loss of one Apple's most convenient features over the last couple years as face id does not work when people wear a mask. Apple also has stated that this update should allow for better results when wearing sunglasses and/or a hat and trying to unlock your phone. This upcoming update is big news, as it means we won't have the annoying issue of typing in our passcode or pulling off our mask in public to unlock our phones. The convenience of face id is a big feature that was revolutionary when it was first released, and these new updates should improve it more. It will be interesting to see how effective the new changes are. An initial test with the beta revealed that while it was able to unlock the device with a mask on, there were still some inconsistencies. There were times that they were prompted to input their passcode to unlock the phone, but Apple will likely address this issue before releasing fully in the next update.
@@ -511,6 +515,3 @@ A collection of news articles about technology and its impact on society.
   Nevertheless, it could also be in response to other huge acquisitions by Microsoft, including that
   of Zenimax Media Inc., the parent company of Bethesda.
 
-* [GitHub launches code scanning scheme to hunt down vulnerabilities](https://www.techradar.com/news/github-launches-code-scanning-scheme-to-hunt-down-vulnerabilities)
-  
-  This TechRadar article discusses a new experimental feature that GitHub has released, which will automatically scan code to see if it has vulnerabilities that could enable SQL injection, cross-site scripting, or other exploits. The scanner is powered by machine learning and currently only processes JavaScript and TypeScript code. If a vulnerability is found, the user will be notified in the security tab of their repository. The article then goes on to contextualize how this feature is another way in which GitHub seeks to implement automation in its service, following the development of GitHub Copilot. 
