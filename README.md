@@ -2,6 +2,19 @@
 
 A collection of news articles about technology and its impact on society.
 
+* [Google also enforcing rules to honor user privacy to detriment of advertisers](https://www.cnbc.com/2022/02/16/google-plans-android-privacy-change-similar-to-apples.html)
+
+  Google has also announced that they will enforce policies that limit advertisers' ability to track users' activity.
+  Currently, Google/Android users each have a unique ID that advertisers can use to track their activity. However,
+  Google plans to revise this in the future. However, there is an important difference between Google's approach and
+  that of Apple (who also recently announced changing to protect users' privacy from advertisers); Apple released their
+  changes immediately, allowing users to block advertisers from tracking their activity, while Google has announced
+  that their changes will not fully take effect for about two more years (they will continue supporting the user ID's
+  for at least two years). This gives advertisers/social media companies who rely on them time to adjust and come up
+  with new approaches. I think it is interesting that Apple and Google approached this differently, and I wonder
+  whether Google's softer approach was influenced by the fact that Apple's privacy changes were met with strong
+  backlash/criticism because of how abrupt their changes were.
+
 * [Maybe Green Energy Needs 'Information Batteries' Too](https://www.wired.com/story/maybe-green-energy-needs-information-batteries-too/)
 
   To save on the large amount of energy used for computing, researchers suggest pre commuting information necessary and storing it away in "information batteries", during times when clean power is available and saving it for when it is not. Companies like Google and Facebook that use up alot of energy for pre computable things like search results or friend suggestions and by doing that work asynchronously and storing it, they reduce their consumption. Similar strategies are used by others who do their heavy processing at night when there is less usage by others. However, pre computing for information batteries would not be able to predict the future of what will be needed but only parts of it.
