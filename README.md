@@ -2,6 +2,10 @@
 
 A collection of news articles about technology and its impact on society.
 
+* [Google Drive’s new filters that make search easier are rolling out to everyone](https://www.theverge.com/2022/2/15/22935837/google-drive-search-chips-filters-available-all-users)
+
+  Chips is a feature that makes searching in Google Drive easier and it is being made available to all Workspace users. Chips were introduced to Gmail in 2020 and is now being applied to Google Drive. Chips allows you to filter search results by location, file type, date modified, people, tasks, and shared label. To use it, type a keywork into the search bar as usual and you will see the chips right above the search results.
+
 * [Syncing Alexa, Google Nest and Apple smart home tech is about to get easier with Matter](https://www.usatoday.com/story/tech/2022/02/27/smart-home-tech-apple-amazon-alexa-google-ne/6940206001/)
 
   This article discusses the prevalence of smart home tech as we progress into a digital age. The issue with
