@@ -2,6 +2,20 @@
 
 A collection of news articles about technology and its impact on society.
 
+* [Russia and Social Media Services Clash](https://www.reuters.com/technology/russia-invades-ukraine-moscow-battles-big-tech-control-narrative-2022-02-28/)
+
+Russia is fighting with several social media platforms (such as Meta and Twitter), because they are trying
+to restrict Russia's ability to spread false information about their recent invasion of Ukraine. Social
+Media platforms have been facing pressure to crack down on Russia, and many individuals are calling for platforms
+to straight out prohibit Russians from using these services. Interestingly, Russia is also starting to restrict
+the ability for its citizens to use services like Facebook and Twitter, probably to make it more difficult for
+its citizens to see outside information about the conflict with Ukraine. The question of whether companies like 
+Facebook and Twitter should ban Russian users brings up interesting ethical discussion, and the leaders of these
+companies are having to grapple with what to do in this situation. Meta's global affairs department determined
+that it would cause more detriment to ban Russians from using Facebook. This could be the case because much of the
+Russian media is spreading lots of propaganda. However, this is definitely an interesting issue because it shows
+how decisions by these tech companies have serious implications for real world issues. 
+
 * [Using artificial intelligence to find anomalies hiding in massive datasets](https://techxplore.com/news/2022-02-artificial-intelligence-anomalies-massive-datasets.html)
 
   Some MIT researchers have created a method that is able to point out anomalies in real time from data streams in an efficient way. This model does not need to be trained on annotated data on power grid anomalies, which makes it suitable for real life situations that don’t have cleaned up data of good quality. One possible use of the model includes monitoring traffic and water systems. Although other models do exist, the researchers conclude that their model performs better when it comes to pointing out anomalies. This is because their model was able to detect a higher percent of the true anomalies that existed in the datasets that were tested.
