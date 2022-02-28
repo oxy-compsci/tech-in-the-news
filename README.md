@@ -2,6 +2,10 @@
 
 A collection of news articles about technology and its impact on society.
 
+* [Ukraine invasion: Russia restricts social media access](https://www.bbc.com/news/technology-60533083)
+
+This article is discussing the news restriction sanctions being put in place by the Russian government as the invasion of Ukraine is currently happening. The article explains how these policies have severely limited the flow of information in a state of national crisis. The websites which have been most  restricted for many Russian citizens are Facebook, Instagram and Twitter. Fact checking by Meta— who owns media platforms like Facebook and Instagram— and the allowance of views that stand in opposition to Russian media outlets to persevere. Meta has restricted certain Russian officials on some platforms resulting in the state demanding these sanctions be lifted. Meta refused arguing that their apps are allowing many users to spread information and mobilize. Meta is currently trying to make their apps accessible and partnered with an outside organization , Reuters, to fact-check and stop the spread of disinformation. There is limited information still concerning how Russian will continue to limit other Meta apps, like WhatsApp. 
+
 * [Using artificial intelligence to find anomalies hiding in massive datasets](https://techxplore.com/news/2022-02-artificial-intelligence-anomalies-massive-datasets.html)
 
   Some MIT researchers have created a method that is able to point out anomalies in real time from data streams in an efficient way. This model does not need to be trained on annotated data on power grid anomalies, which makes it suitable for real life situations that don’t have cleaned up data of good quality. One possible use of the model includes monitoring traffic and water systems. Although other models do exist, the researchers conclude that their model performs better when it comes to pointing out anomalies. This is because their model was able to detect a higher percent of the true anomalies that existed in the datasets that were tested.
