@@ -486,3 +486,10 @@ A collection of news articles about technology and its impact on society.
   Nevertheless, it could also be in response to other huge acquisitions by Microsoft, including that
   of Zenimax Media Inc., the parent company of Bethesda.
 
+* [Maybe Green Energy Needs 'Information Batteries' Too](https://www.wired.com/story/maybe-green-energy-needs-information-batteries-too/)
+
+  To save on the large amount of energy used for computing, researchers suggest pre commuting information necessary and storing it away in "information batteries", during times when clean power is available and saving it for when it is not. Companies like Google and Facebook that use up alot of energy for pre computable things like search results or friend suggestions and by doing that work asynchronously and storing it, they reduce their consumption. Similar strategies are used by others who do their heavy processing at night when there is less usage by others. However, pre computing for information batteries would not be able to predict the future of what will be needed but only parts of it.
+
+* [Bionic eyes: Obsolete tech leaves patients in the dark](https://www.bbc.com/news/technology-60416058)
+
+  People who used retinal implants (Argus II) from Second Sight are being left figuratively and literally in the dark. Second sight almost went out of business and so they discontinued Argus II. This meant that people who currently have it have no one to go to for support or repairs of the retinal implant. The Argus is an implanted electrode array that stimulates the eye according to the video being recorded by the glasses of users. This showcases our vulnerability to tech and the continuance of it. 
