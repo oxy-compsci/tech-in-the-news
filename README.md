@@ -2,6 +2,42 @@
 
 A collection of news articles about technology and its impact on society.
 
+* [Syncing Alexa, Google Nest and Apple smart home tech is about to get easier with Matter](https://www.usatoday.com/story/tech/2022/02/27/smart-home-tech-apple-amazon-alexa-google-ne/6940206001/)
+
+  This article discusses the prevalence of smart home tech as we progress into a digital age. The issue with
+  smart home devices and appliances becoming more popular is beginning to become their lack of compatability
+  with one another. This issue is soon going to be resolved with the release of matter, a language/protocol
+  that allows different brands of smart home technology to communicate. Notable companies that are going to
+  implement matter include Amazon, Apple, Google, Samsung, Dyson, GE, and Sonos. One issue with the release
+  of matter is mass adoption is going to take some time due to the fact that not all current smart home
+  devices are going to be matter compatible. Some companies have said that they may release "bridge" devices
+  that will make old devices compatible with matter. Amazon has said that some Echo devices will simply need
+  a firmware update but this is not necessarily the case across companies. Overall, this is an interesting
+  step forward in tech as it shows that sometimes it is in big tech's best interest to work together.
+
+* [The US is unmasking Russian hackers faster than ever](https://www.technologyreview.com/2022/02/21/1046087/russian-hackers-ukraine/)
+
+  As tensions between Russia and Ukraine continue to escalate, the world watches and waits for information about
+  the conflict. On Feburary 15th and 16th, banks and government websites in Ukraine crashed after a DDos cyber attack.
+  Less than 48 hours later, the United States government was able to point their fingers at Russian spies. This quick
+  response is partially due to the pressing nature of the situation, as the world braces for what could be the largest
+  land conflict in Eurpoe since WWII. Increasingly advanced technology and information also plays a role in the
+  increased response time to the identification of cyber attackers. The article also cites politics as a reason
+  that the identification has lagged in the past. Beyond this current event, the article also discusses some
+  background of cyber security in the era of the internet.
+
+* [Tech Companies’ Super Bowl Ads Leaned Into Dystopia](https://www.wired.com/story/super-bowl-ads-dystopia/)
+
+  This article discusses the dystopian nature of some tech Super Bowl commercials, specifically
+  Meta's ad for a Quest 2 game. Meta's Quest 2 ad depicted an animatronic dog that gets thrown out
+  after the arcade he was a part of shut down. The dog is taken from a trash compactor and brought to
+  a facility where it is given Meta's VR headset, the Quest 2. The dog then virtually returns to the arcade
+  that he came from and digitally reunited with his old friends. This story, while uplifting, has some darker
+  undertones because not everybody has access to VR to escape tough living conditions. The ad reminds
+  us that as reality becomes bleak, the virtual world may soon be the only place for people to escape and feel
+  joy. The article is not all grim as it goes on to present a few weaker dystopian examples, and counter examples of other tech
+  companies airing more uplifting ads.
+
 * [Artificial intelligence and big data can help preserve wildlife](https://www.sciencedaily.com/releases/2022/02/220208105313.htm)
 
   AI and animal ecology experts have proposed a cross-disciplinary approach to better research wildlife species in the context of preservation. AI experts can work specifically on creating new models. On the other hand, ecologists can provide AI experts with knowledge on what attributes these said models should contain and how they relate to each other. Although a large amount of data has been collected on wildlife in the past, the models are not ideal for ecological understanding. This is because these models are not customizable, have bad quality control, and have ethical issues.
