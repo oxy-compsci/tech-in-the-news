@@ -350,3 +350,15 @@ this type of misleading content by monitoring and removing videos of this nature
   The Ukrainian technology minister has requested that Apple CEO Tim Cook block Russian citizens from accessing the App Store and stop supplying them Apple services and products. If this goes 
 through, Russian citizens could be blocked from ways they use to coordinate resistance. Mykhalio Fedorov posted his official letter to Cook on Twitter Feb 25.
 
+* [An Alternate Holographic Universe May Lead Us Into a Black Hole](https://www.cnet.com/news/an-alternate-holographic-universe-may-lead-us-into-a-black-hole/)
+
+  Algorithms are being developed to solve a theory in physics called 
+“holographic duality”. Holographic duality suggests that 
+three-dimensional space inside black holes is strung to the 
+two-dimensional universe. In other words, the fabric of spacetime as a 
+3D hologram projected by 2D webs. If this is accurate, scientists could 
+study 2D space around the black hole to extrapolate 3D space inside it 
+without having to “go in” it. Algorithms using quantum computing help 
+map out the strings of string theory which make up this 2D blueprint to 
+extrapolate 3D space.
+
