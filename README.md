@@ -2,6 +2,17 @@
 
 A collection of news articles about technology and its impact on society.
 
+* [Google Suspends Advertising in Russia](https://www.nytimes.com/2022/03/03/technology/google-ads-russia.html)
+
+  In response to calls by the Russian government on Google to take down ads that "spread
+  disinformation about the situation in Ukraine", Google has taken the rare step of suspending
+  all ad services in the country. Although they have not confirmed anything, it is speculated
+  that this is because they have several hundred employees in the country. Additionally, this
+  is one of a few different steps that Google has had to take in response to the ongoing
+  conflict. This is only one example of the broader way that tech now plays a large
+  role in conflict.
+
+
 * [Using artificial intelligence to find anomalies hiding in massive datasets](https://techxplore.com/news/2022-02-artificial-intelligence-anomalies-massive-datasets.html)
 
   Some MIT researchers have created a method that is able to point out anomalies in real time from data streams in an efficient way. This model does not need to be trained on annotated data on power grid anomalies, which makes it suitable for real life situations that don’t have cleaned up data of good quality. One possible use of the model includes monitoring traffic and water systems. Although other models do exist, the researchers conclude that their model performs better when it comes to pointing out anomalies. This is because their model was able to detect a higher percent of the true anomalies that existed in the datasets that were tested.
@@ -648,4 +659,3 @@ A collection of news articles about technology and its impact on society.
   and there is certainly more incentive for Sony to purchase a multi-platform game studio.
   Nevertheless, it could also be in response to other huge acquisitions by Microsoft, including that
   of Zenimax Media Inc., the parent company of Bethesda.
-
