@@ -2,6 +2,11 @@
 
 A collection of news articles about technology and its impact on society.
 
+* [TikTok limits services as Netflix pulls out of Russia](https://www.bbc.com/news/business-60641988)
+
+  The article focuses on how certain platforms, specifically Netflix and Tik Tok, have cut off their services in Russia amidst the invasion of Ukraine. Tik Tok has suspended live streaming and new content as the company tries to slow the spread of “fake news” regarding Russian armed forces. Tik tok explains this as a safety measure to ensure the protection of its staff and its users. According to the article, anyone reported writing “fake news” about the military can have upto 15 years in prison. There are approximately 36 million Russian Tik Tok-users, making it one of the company’s largest territories. Russian users can currently only view content; the restrictions on producing content is to protect people from being charged with “fake news”. Tik Tok has only recently released a statement regarding the invasion of Ukraine saying it was “devastating” and that it brought “pain to our community and our people”. Netflix has, since last week, halted all projects in Russia and stopped streaming services. Other companies have suspended operations: Burberry, H&M, Jaguar Land Rover, Apple. Visa, Mastercard and American Express have also suspended operations.
+
+
 * [Using artificial intelligence to find anomalies hiding in massive datasets](https://techxplore.com/news/2022-02-artificial-intelligence-anomalies-massive-datasets.html)
 
   Some MIT researchers have created a method that is able to point out anomalies in real time from data streams in an efficient way. This model does not need to be trained on annotated data on power grid anomalies, which makes it suitable for real life situations that don’t have cleaned up data of good quality. One possible use of the model includes monitoring traffic and water systems. Although other models do exist, the researchers conclude that their model performs better when it comes to pointing out anomalies. This is because their model was able to detect a higher percent of the true anomalies that existed in the datasets that were tested.
