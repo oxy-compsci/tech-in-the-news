@@ -2,6 +2,10 @@
 
 A collection of news articles about technology and its impact on society.
 
+[Cryptographers Achieve Perfect Secrecy With Imperfect Devices] (https://www.quantamagazine.org/cryptographers-achieve-perfect-secrecy-with-imperfect-devices-20220225/)
+reseachers from Oxford, Munich,Shanghai 's experiments lift the perfect secrecy inherent in the quantum realm — unknown and uncertain by nature — into the macroscopic world of the everyday. The technology is still too slow to be practical. Nevertheless, even the most paranoid now know it’s possible to communicate with perfect privacy. The researchers use a classical "Nonlocal game" to test if their theories is correct. This research culminated in a result from 2018, which proved that security could be achieved with winning percentages that seemed low enough that experimentalists might be able to reach them, even if the researcher made the devices herself. As long as the devices allowed Alice and Bob to win at a certain rate in the game, it was clear: They had obtained secrecy.
+
+
 * [Using artificial intelligence to find anomalies hiding in massive datasets](https://techxplore.com/news/2022-02-artificial-intelligence-anomalies-massive-datasets.html)
 
   Some MIT researchers have created a method that is able to point out anomalies in real time from data streams in an efficient way. This model does not need to be trained on annotated data on power grid anomalies, which makes it suitable for real life situations that don’t have cleaned up data of good quality. One possible use of the model includes monitoring traffic and water systems. Although other models do exist, the researchers conclude that their model performs better when it comes to pointing out anomalies. This is because their model was able to detect a higher percent of the true anomalies that existed in the datasets that were tested.
