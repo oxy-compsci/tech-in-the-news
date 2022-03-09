@@ -649,3 +649,11 @@ A collection of news articles about technology and its impact on society.
   Nevertheless, it could also be in response to other huge acquisitions by Microsoft, including that
   of Zenimax Media Inc., the parent company of Bethesda.
 
+* [Strong Compute wants to speed up your ML model training](https://techcrunch.com/2022/03/09/strong-compute-wants-speed-up-your-ml-model-training/)
+
+  Strong Compute is an Australia-based startup focused on optimizing the training of ML models 
+  by removing inefficiencies in the training process. They compliment the beauty of ML libraries such as 
+  PyTorch and TensorFlow, but argue these come at the cost of inefficiency. Many customer anecdotes second 
+  their claims that the training process can be sped up by 10x. This company promises a bright future for 
+  training ML models, a current problem many companies face when calculating the cost and training time for 
+  these core algorithms.
