@@ -684,3 +684,13 @@ without having to “go in” it. Algorithms using quantum computing help
 map out the strings of string theory which make up this 2D blueprint to 
 extrapolate 3D space.
 
+* [How Crypto and NFTs Are Funding Ukraine's Resistance Against Russia](https://www.cnet.com/news/how-crypto-nfts-are-funding-ukraines-resistance-against-russia/)
+
+   Alex Bornyakov, Ukraine’s deputy minister of digital transformation 
+set up a cryptocurrency relief fund which has raised over 53 million 
+dollars. Crypto is much easier to move around taking a few minutes for 
+transactions to clear as opposed to a wire transfer, which can take 
+days. Bornyakov also has a vision for how the country can distribute 
+NTFs to help raise more money. His vision includes a sort of war museum 
+which produces daily NFTs which can be sold to supporters.
+
