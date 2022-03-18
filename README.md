@@ -657,3 +657,15 @@ A collection of news articles about technology and its impact on society.
   their claims that the training process can be sped up by 10x. This company promises a bright future for 
   training ML models, a current problem many companies face when calculating the cost and training time for 
   these core algorithms.
+
+* [Google is leading a vast, covert human experiment. You may be one of the guinea pigs](https://theconversation.com/google-is-leading-a-vast-covert-human-experiment-you-may-be-one-of-the-guinea-pigs-154178)
+
+  Google is performing A/B testing on its user base without express user consent, leading to the questioning of 
+  Google's - and other tech giants' - ethics. In this specific example, Google displayed alternative news sources 
+  to approximately 1% of its Australia-based users to test "the impacts of new businesses and Google Search on 
+  each other". These differing results have led those selected users to alternative, often unreliable, news sources 
+  over trusted sites. Google has either failed to fully realize the ethical implications of their testing or operates 
+  with dubious ethics. The article questions Google's intent to manipulate its user base, referencing a more serious 
+  case when Facebook tested on its users by boosted either positive or negative news in their feed to see the effect 
+  on their peers, a study widely condemned, for comparison. We conclude noting the importance of disclosure when 
+  testing on users.
