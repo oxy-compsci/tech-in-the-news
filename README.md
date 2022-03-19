@@ -2,6 +2,19 @@
 
 A collection of news articles about technology and its impact on society.
 
+* [Scientists and farmers see ways to make AI useful to agriculture](https://news.ufl.edu/2022/03/innovations-in-agriculture-conference/)
+
+  A three-day conference was held recently, from March 9-11, entitled "Envisioning
+  2050 in the Southeast: AI-driven Innovations in Agriculture," with a focus on seeing
+  how artificial intelligence can help the agriculture field. At the core of the ideas shown
+  at the conference was an emphasis on collaborating with those who already work in the field
+  to find real ways to improve the quality of life. This is a very positive take on artificial
+  intelligence and how it can bring about an improvement to both the lives of growers and,
+  ideally, everyone else as access to fresh produce is increased. Far too often we discuss
+  the negatives that come with AI; while they are certainly there, it is also nice to see how
+  it is currently being used to solve important problems such as those found in the agricultural
+  sector.
+
 * [Using artificial intelligence to find anomalies hiding in massive datasets](https://techxplore.com/news/2022-02-artificial-intelligence-anomalies-massive-datasets.html)
 
   Some MIT researchers have created a method that is able to point out anomalies in real time from data streams in an efficient way. This model does not need to be trained on annotated data on power grid anomalies, which makes it suitable for real life situations that don’t have cleaned up data of good quality. One possible use of the model includes monitoring traffic and water systems. Although other models do exist, the researchers conclude that their model performs better when it comes to pointing out anomalies. This is because their model was able to detect a higher percent of the true anomalies that existed in the datasets that were tested.
@@ -648,4 +661,3 @@ A collection of news articles about technology and its impact on society.
   and there is certainly more incentive for Sony to purchase a multi-platform game studio.
   Nevertheless, it could also be in response to other huge acquisitions by Microsoft, including that
   of Zenimax Media Inc., the parent company of Bethesda.
-
