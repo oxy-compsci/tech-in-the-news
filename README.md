@@ -1,11 +1,14 @@
 # tech-in-the-news
 
 A collection of news articles about technology and its impact on society.
+<<<<<<< HEAD
 * [Russians liquidating crypto in the UAE to seek safe havens](https://www.cnbc.com/2022/03/11/russians-liquidating-crypto-in-the-uae-to-seek-safe-havens.html)
 
   Russians identified the United Arab Emirates (UAE) as a safe place to store their money, due to their neutral stance in the Russia-Ukraine conflict. Ultra-rich Russians and even Belarusians are coming to the UAE. Crypto firms have seen a large increase in requests to liquidate billions of dollars worth of crypto. Industry talk has indicated that a lot of the Russian money coming in is being invested into local UAE real estate. The incentive of liquidating crypto in the UAE is for protection against the recent pressures faced in the Russian economy. Some may be using crypto as a way around the sanctions in Russia. Major crypto exchanges are working with law enforcement to ensure that their sites are not being used to evade sanctions. However, the transparency of crypto transactions on the blockchain makes it difficult to identify any money laundering or related illegal activity. 
 
   This ongoing event sheds light into some of the existing issues with crypto and its role in the global economy. Crypto is relatively new in the global economy, so unpredictable events as such highlight security concerns that must be addressed. There may also be significance in the border crypto market if billions worth of crypto continue to be sold off.  
+=======
+>>>>>>> upstream/main
 
 * [Using artificial intelligence to find anomalies hiding in massive datasets](https://techxplore.com/news/2022-02-artificial-intelligence-anomalies-massive-datasets.html)
 
@@ -312,6 +315,7 @@ A collection of news articles about technology and its impact on society.
 * [Data breaches break record in 2021](https://www.cnet.com/tech/services-and-software/record-number-of-data-breaches-reported-in-2021-new-report-says/)
 
 <<<<<<< HEAD
+<<<<<<< HEAD
   The Identity Theft Resource Center has reported that 2021 saw the highest amount of data breaches to date. The record indicates a 68% increase from 2020’s total and a 23% increase from the previous all-time high. This is a crucial topic to address, as there is no indication that data breaches will slow down in the coming years. There is a general trend in which cybercriminals are shifting towards more focused attacks instead of massive data breaches. Following 2021’s trend, it is expected that ransomware will surpass phishing as the most likely data breach in 2022. It is encouraged that all individuals practice safe cyber practices to reduce their own risk of becoming the victim of these attacks. Interestingly, the military had no data breaches in 2021, despite an increase across all other sectors. 
 
 * [Bitcoin less green since China ban, research suggests](https://www.bbc.com/news/technology-60521975)
@@ -330,6 +334,8 @@ A collection of news articles about technology and its impact on society.
 
   It was announced that two offshore wind farm projects will be located off of Long Island. The materials will be sourced from a newly upgraded South Brooklyn Marine Terminal that will be capable of handling large wind turbine construction parts. Equinor, a wind developer company, will spend about $200 to $250 million to update the port hub. The city has encouraged Equinor to source and train local employees, as the project will also create 130,000 local jobs over time. New York intends to make NYC a major hub in the offshore wind industry, which is part of their larger climate goals of using 100% clean energy by 2040. Furthermore, NYC has pledged to get 70% of their electricity from renewable sources by 2030.
 =======
+=======
+>>>>>>> upstream/main
   The Identity Theft Resource Center has reported that 2021 saw the highest amount of data breaches to date. The record indicates a 68% increase from 2020’s total and a 23% increase from the previous all-time high. This is a crucial topic to address, as there is no indication that data breaches will slow down in the coming years. There is a general trend in which cybercriminals are shifting towards more focused attacks instead of massive data breaches. Following 2021’s trend, it is expected that ransomware will surpass phishing as the most likely data breach in 2022. It is encouraged that all individuals practice safe cyber practices to reduce their own risk of becoming the victim of these attacks. Interestingly, the military had no data breaches in 2021, despite an increase across all other sectors.
 
 * [Forget Zoom school. For some students, class is in session in VR](https://www.cnn.com/2022/01/27/tech/vr-classes/index.html)
@@ -673,4 +679,7 @@ A collection of news articles about technology and its impact on society.
   Nevertheless, it could also be in response to other huge acquisitions by Microsoft, including that
   of Zenimax Media Inc., the parent company of Bethesda.
 
+<<<<<<< HEAD
+>>>>>>> upstream/main
+=======
 >>>>>>> upstream/main
