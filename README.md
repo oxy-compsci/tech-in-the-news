@@ -11,6 +11,328 @@ A collection of news articles about technology and its impact on society.
   article then contrasts the strong desire of entering the metaverse to companies that were late to 
   joining the e-commerce movement.
 
+* [Using artificial intelligence to find anomalies hiding in massive datasets](https://techxplore.com/news/2022-02-artificial-intelligence-anomalies-massive-datasets.html)
+
+  Some MIT researchers have created a method that is able to point out anomalies in real time from data streams in an efficient way. This model does not need to be trained on annotated data on power grid anomalies, which makes it suitable for real life situations that don’t have cleaned up data of good quality. One possible use of the model includes monitoring traffic and water systems. Although other models do exist, the researchers conclude that their model performs better when it comes to pointing out anomalies. This is because their model was able to detect a higher percent of the true anomalies that existed in the datasets that were tested.
+
+* [Valve has no plans for a 'Steam Pass,' but would help Microsoft put Game Pass on Steam](https://www.pcgamer.com/valve-has-no-plans-for-a-steam-pass-but-would-help-microsoft-put-game-pass-on-steam/)
+
+  With the highly anticipated launch of the Steam Deck this taking place this week,
+  Valve has responded to speculations that they might release a competitor to Xbox
+  Game Pass. Although they shut down the rumors, they opened the door for Microsoft
+  to put their subscription service on the Steam platform, an anomaly in the console
+  space. Although Game Pass games are theoretically playable already by installing Windows,
+  putting Game Pass on Steam would open up a large library to casual gamers. Despite claims
+  that this would not make sense from Microsoft's viewpoint, the same was said about Xbox
+  games coming to Steam, which recently took place.
+
+* [Toward a stronger defense of personal data](https://news.mit.edu/2022/application-specific-integrated-circuit-iot-chip-0218)
+
+  Researchers at MIT have developed an "application-specific integrated circuit (ASIC) chip", with the power to defend against "side-channel" attacks, or attacks that seek to gather secret information via an exploitation of a system and/or its hardware. An example of a side attack is the exploitation of the hardware on a smartwatch by inspecting the device's power consumption to get private health data about the individual. The ASIC chip answers this issue by using "threshold computing", which splits the data into "unique, random components" which are then operated on in a random order as well before getting the final result. Their chip was a success as with the default implementation "they were able to recover hidden information... in about 1000 power waveforms (representations of power usage over time)". Whereas, with the new hardware, "even after collecting 2 million waveforms, they still could not recover the data". However, now the main issue that has come up is the design: while it provides significant security against these attacks, "the chip requires 5.5 times more power and 1.6 times more silicon area than a baseline insecure implementation." The researchers, however, argue that "[We're willing to trading] off some amount of energy consumption to make a more secure computation", arguing that it can be utilized while more energy-sustainable models are created in the future.
+
+* [Using artificial intelligence to find anomalies hiding in massive datasets](https://news.mit.edu/2022/artificial-intelligence-anomalies-data-0225)
+
+  In complex grid data such as power grid or water grid data, determining the probabilities of anomalies (such as a spike in voltage) is very difficult, as power grid data consists of many incoming data points very second from different sensors across the grid. At IBM-Watson's MIT AI Lab, researchers have devised an efficient method for determining these malfunctions in data streams in real time, and turning these complex probabilities into more managable ones. They argue that their artifical intelligence method is much better at detecting them than other popular techniques. Deriving this method involved using concepts in Baynesian networks, individual probabilities, probability density, and even techniques in deep learning like "normalizing form" which allow an artifical intelligence to see a complicated network of multidimensional data points as an interconnected Baynesian network or interconnected grid. As the AI learns the causal structure of the data it receives, it can begin to construct causal structures between sensors and convert otherwise complex probabilities into more managable ones for researchers to investigate.
+  In preparing and testing this method, they used previous data of grid networks such as power grid data, water grid data, and traffic data which contains anomalies that'd been previously identified and solved by humans. What they found was that their model "outperformed all the baselines by detecting a higher percentage of true anomalies in each dataset". To go further, their model involved no supervision, as the AI learns on its own this causal grid structure; the researchers hope that this solution can be mapped to other datasets and complex forms of data.
+
+* [Tesla’s reverse on battery cells signals shift for electric vehicles](https://www.ft.com/content/accde2e1-08a2-4bc3-bbb1-1a1e72eb4508)
+
+  This article by June Yoon delves into Tesla’s recent decision for
+  its cars to start using lithium iron phosphate batteries. This is
+  caused by the recent surge in prices for raw materials in the world
+  of batteries for electric cars. The article points out how this type
+  of battery is widely used for less sophisticated devices such as
+  golf carts and residential back-up power systems. But iron-based
+  batteries are a much less efficient option for electric cars as they
+  have a lower energy density than the nickel, cobalt, and manganese
+  batteries, which are currently used in most electric cars. Being
+  iron-based, these batteries will in turn offers less driving
+  distance on a single charge. The main advantage in switching towards
+  iron-based batteries is the price: they cost about 30 per cent per
+  battery cell than their nickel-rich counterparts. Another advantage
+  is that they are thermally more stable, meaning a lower risk of
+  fires. Battery-caused car fires have costed companies such as
+  General Motors upwards of $2 billion and Supplier LG Energy solution
+  an estimated $1.2 billion. Tesla’s decision to switch to iron-based
+  batteries has inspired other carmakers such as Volkswagen to plan to
+  use them as well. However, a switch to iron-based batteries would
+  mean a powershift for China, as the country produces more than 95%
+  of iron-based battery cells and controls more than 80% of the
+  world’s refining and mining aof electric car battery raw materials.
+
+* [NASA Offers Up to $200 Million to Help Push New Technologies to Market](https://www.nasa.gov/press-release/nasa-offers-up-to-200-million-to-help-push-new-technologies-to-market)
+
+  Through Tipping Point, NASA seeks to support space technologies that can foster
+  the growth of commercial space capabilities and benefit future agency missions.
+  “Public-private partnerships established through these opportunities will combine
+  agency resources with industry contributions, a benefit that will unlock new ideas to
+  advance how we live and work in space while providing greater value to the American
+  people.” These opportunities focus on technology development for space
+  infrastructure and capabilities for the Moon and near-Earth space. "Forging strong
+  partnerships with the commercial space economy is critical for driving our nation’s
+  space exploration further and faster," said Jim Reuter, associate administrator for the
+  Space Technology Mission Directorate (STMD) at NASA’s Headquarters in Washington,
+  which manages the new opportunities. More than half a billion dollars have been awarded to 50
+  projects since NASA announced the first Tipping Point opportunity in 2015. Space
+  x  technologies advanced through this funding are now part of current and future mission plans.
+
+* [China Is About to Regulate AI—and the World Is Watching](https://www.wired.com/story/china-regulate-ai-world-watching/)
+
+  Chinese government is on the move to regulate corperates' AI algorithm uses that set prices, control search results, recommend videos, and filter content. Some car hailing apps in china uses AI algorithm to provide different prices for different users. For instence, the platform may offer a lower price for the same ride based on users usage and price of the phone they use. In one of Prsident Xi jinping's speech in Octorber, he said there are "unhealthy and disorderly signals and trendds" regarding china's digital economy development. Based on the new 'INternet information Service Algorithmic Recommendatio Management Provisions' will enforce corperates and individual use Ai in unlawful and unhealfy ways online. Certain provisions of the new regulations may prove challenging or impossible to enforce. Controlling the behavior of an algorithm that is constantly changing due to new input, for example, might be technically tough.
+
+* [Why SNK shifted to Unreal Engine for its latest fighting games](https://www.unrealengine.com/en-US/developer-interviews/why-snk-shifted-to-unreal-engine-for-its-latest-fighting-games)
+
+  SNK decided to use the unreal engine for their latest game, The King of Fighters XV, which helped the development and quality of the final product. The unreal engine provided benefits to development such as easier time porting and enhanced shader capabilities. SNK used unreal engine for their previous title Samurai Shodown, which was a success and they are developing a future game with unreal engine. The King of Fighters XIV did not use unreal engine, but SNK was experimenting with unreal engine during that game's development, so the transition was easy.
+
+* [Tesla wants its cars to be Steam compatible](https://www.pcgamer.com/tesla-wants-its-cars-to-be-steam-compatible/)
+
+  In a tweet, Elon Musk reveals that Tesla is working towards making their cars Steam compatible. New Tesla models currently have an AMD GPU that is able to run demanding games on the dashboard. The dashboard makes use of a Linux operating system, which Steam currently is optimizing for things like the Steam Deck. The only confirmation of this happening is Elon Musk’s tweet. Also Tesla is currently being investigated by National Highway Traffic Safety Administration for some games being playable while driving, which has been disabled since last December.
+
+* [Google lowered its salaries in North Carolina. Now workers are protesting.](https://www.washingtonpost.com/technology/2022/02/18/google-raleigh-hbcu-salary/)
+
+  Google has lowered its employees salaries and stock benefits below national level for some of its North Carolina offices.
+  Representatives from Google claim this change was to readjust to offer competitive pay relative to the local market.
+  However, affected workers view the adjustment as problematic.
+  This is partly because many employees moved to the area before the salary cut for the lower cost of living, and Google had "record-breaking performance in the stock market, in spite of Covid-19," and so should be rewarding its workers rather than cutting salaries.
+  A larger reason for upset is also the cut happening simultaneously with Google's plans to make the company more diverse by hiring black engineers in areas like Durnham, North Carolina.
+  Thus, critics raise the question of if Google is exploiting the very hires that will make their company more diverse.
+
+* [Ransomware-Related Data Leaks Jump 82% in 2021](https://www.technewsworld.com/story/ransomware-related-data-leaks-jump-82-in-2021-87419.html)
+
+  This article goes over the alarming 2021 cyber security report about the prevalence and danger of ransomware attacks.
+  The report states that there were 2,686 attacks in 2021 compared to 1,474 attacks in 2020, which is an 82% increase.
+  Perpetrators are evolving their approaches with ransomware, such as accessing legitamite login credentials to takeover system functions,
+  as a way to bypass antivirus products. The report also notes that almost 49% of the attacks are financially motivated, and a prime example
+  was the "lock and leak" attacks observed where the data is not only encrypted for ransom but also stolen to sell online. Such attacks are growing
+  in popularity because of the many vulnerabilites in a company's cloud and server infrastructure that can be exploited by these attackers. It's
+  with a warning that "adversaries continue to adapt to security environments" and this will only continue in 2022.
+
+* [Losing Tech War To China? After Hypersonic Missiles, Ex-Google CEO Says US Far Behind In Another Critical Technology](https://eurasiantimes.com/google-ceo-says-us-far-behind-in-another-critical-technology/)
+
+  The article argues that China is rapidly overtaking the United States in the competition to develop and produce what the former Google CEO, Eric Schmidt, refers to as “strategically important technology”. One of these crucial advancements is in hypersonic technology. In July of last year China conducted a hypersonic weapon test that launched a missile around the world at a speed 5x faster than the speed of sound. China has also recently expanded greatly in its investment of 5G services. China has invested approximately 50x as much in 5G technology as the United States, with a total of $50 billion investment in the country. Schmidt goes on to criticize the United State’s failure to not only effectively allocate resources to hypersonic and 5G technology, but also to high tech manufacturing, green energy and AI. The primary concern is the security threat that technological stagnation poses to the United States. In recent news, Chinese researchers claim to have successfully reached a wireless transmission speed of 206.25 gigabits per second, suggesting 6G technology may be 100x faster than 5G. This combined with hypersonic missiles highlights the growing disparity in tech design as the United States struggles to rollout 5G across the country. The only solution provided is an increased  amount of funding into research to continue securing the United States position as a global leader in technological advancement.
+
+* [Google moves to make Android apps more private](https://www.bbc.com/news/technology-60403963)
+
+  Google plans to increase privacy on android apps alongside the Chrome browser. By 2023 the use of third party cookies is supposedly planned to be removed from Chrome. Overall, the sharing of user data will be more limited so that advertisers will not be able to gain much access to it. However, in the past, the article highlights that Google’s attempts to make up for third party cookies have been unsuccessful, such as in the case of Floc (Federated Learning of Cohorts). Additionally, details on specific implementation methods have not yet been provided.
+
+* [Texas Sues Meta's Facebook Over Facial-Recognition Practices](https://www.usnews.com/news/technology/articles/2022-02-14/texas-sues-meta-over-facebooks-facial-recognition-practices-report)
+
+  According to U.S. News, the state of Texas plans to sue Meta over the use of Texans' biometric data
+  without their consent. The lawsuit claims that Meta has allegedly used biometric data of the 20.5 million
+  Texans who use Meta "billions of times." A Meta spokesperson has since denied these allegations saying that
+  these claims are "without merit" and that they will fight to defend themselves. In November 2021, Meta said
+  that they were stopping their facial recognition system, and that the data collected was being deleted;
+  however, this data is supposedly being distributed to others without their consent, and was failed in being deleted.
+
+* [What is Edge AI and How Does It Work?](https://blogs.nvidia.com/blog/2022/02/17/what-is-edge-ai/)
+
+  This NVIDIA article explains new developments made in the area of Edge AI. It goes on to say that Edge AI is where
+  AI applications in devices are sent out into the physical world. The word “edge" is used because the AI computations
+  are done at the edge of the network, rather than centrally in something like a cloud computing facility.
+  These AI applications are learning to perform tasks in the midst of the "infinite circumstances" that humans are faced
+  with in everyday life. These AI have many uses, and it is claimed that they provide a "robust infrastructure" for general AI.
+
+* [Kanye West’s $200 Stem Player will be the only way to get his next album, Donda 2](https://www.theverge.com/2022/2/18/22940748/donda-2-stem-player-kanye-west-exclusive-music)
+
+  Kanye West announced this week that his upcoming album, Donda 2, would only be available on
+  his "stem Player" platform, and would not be coming to normal streaming platforms. He claims
+  that this is in response to the fact that artists only get 12% of the money that the industry
+  makes, with streaming platforms taking large percentages. Launched with his previous album, the
+  Stem Player is an interesting device that allows for the onboard music to be manipulated, although
+  it was nowhere near as functional as a proper mixing device, nor is it as convenient to use as
+  streaming platforms. Notably, this is not the first time Kanye has attempted to avoid mainstream
+  streaming platforms, since he tried something similar several years ago. However, it seems
+  less likely he will backtrack this time, unlike the last, given the current state of the music
+  industry and criticism of platforms such as Spotify.
+
+* [GitHub launches code scanning scheme to hunt down vulnerabilities](https://www.techradar.com/news/github-launches-code-scanning-scheme-to-hunt-down-vulnerabilities)
+
+  This TechRadar article discusses a new experimental feature that GitHub has released, which will automatically scan code to see if it has vulnerabilities that could enable SQL injection, cross-site scripting, or other exploits. The scanner is powered by machine learning and currently only processes JavaScript and TypeScript code. If a vulnerability is found, the user will be notified in the security tab of their repository. The article then goes on to contextualize how this feature is another way in which GitHub seeks to implement automation in its service, following the development of GitHub Copilot.
+
+* [We tested Apple's new option to unlock an iPhone while wearing a mask](https://www.cnn.com/2022/02/17/tech/apple-face-id-mask/index.html)
+
+  This article discusses Apple's new software update, which includes a new feature that enables users to unlock their phone with face id even while wearing a mask. There has been a loss of one Apple's most convenient features over the last couple years as face id does not work when people wear a mask. Apple also has stated that this update should allow for better results when wearing sunglasses and/or a hat and trying to unlock your phone. This upcoming update is big news, as it means we won't have the annoying issue of typing in our passcode or pulling off our mask in public to unlock our phones. The convenience of face id is a big feature that was revolutionary when it was first released, and these new updates should improve it more. It will be interesting to see how effective the new changes are. An initial test with the beta revealed that while it was able to unlock the device with a mask on, there were still some inconsistencies. There were times that they were prompted to input their passcode to unlock the phone, but Apple will likely address this issue before releasing fully in the next update.
+
+* [Google also enforcing rules to honor user privacy to detriment of advertisers](https://www.cnbc.com/2022/02/16/google-plans-android-privacy-change-similar-to-apples.html)
+
+  Google has also announced that they will enforce policies that limit advertisers' ability to track users' activity.
+  Currently, Google/Android users each have a unique ID that advertisers can use to track their activity. However,
+  Google plans to revise this in the future. However, there is an important difference between Google's approach and
+  that of Apple (who also recently announced changing to protect users' privacy from advertisers); Apple released their
+  changes immediately, allowing users to block advertisers from tracking their activity, while Google has announced
+  that their changes will not fully take effect for about two more years (they will continue supporting the user ID's
+  for at least two years). This gives advertisers/social media companies who rely on them time to adjust and come up
+  with new approaches. I think it is interesting that Apple and Google approached this differently, and I wonder
+  whether Google's softer approach was influenced by the fact that Apple's privacy changes were met with strong
+  backlash/criticism because of how abrupt their changes were.
+
+* [Maybe Green Energy Needs 'Information Batteries' Too](https://www.wired.com/story/maybe-green-energy-needs-information-batteries-too/)
+
+  To save on the large amount of energy used for computing, researchers suggest pre commuting information necessary and storing it away in "information batteries", during times when clean power is available and saving it for when it is not. Companies like Google and Facebook that use up alot of energy for pre computable things like search results or friend suggestions and by doing that work asynchronously and storing it, they reduce their consumption. Similar strategies are used by others who do their heavy processing at night when there is less usage by others. However, pre computing for information batteries would not be able to predict the future of what will be needed but only parts of it.
+
+* [Bionic eyes: Obsolete tech leaves patients in the dark](https://www.bbc.com/news/technology-60416058)
+
+  People who used retinal implants (Argus II) from Second Sight are being left figuratively and literally in the dark. Second sight almost went out of business and so they discontinued Argus II. This meant that people who currently have it have no one to go to for support or repairs of the retinal implant. The Argus is an implanted electrode array that stimulates the eye according to the video being recorded by the glasses of users. This showcases our vulnerability to tech and the continuance of it.
+
+* [Crypto money laundering rises 30%, report finds](https://www.bbc.com/news/technology-60072195)
+
+  In thie article, the author claims that more criminals chooses to use crypto currency to laundering money due to low transaction fees with while decentralisation offers criminals greater anonymity and security protection from the authorities. Chainalysis says that after tracking cryto currency wallets controleed by criminals they found that they have laundered over $8.6 billions of cryptocurrency in 2021, "up by 30%" since 2020.  According to the research, cryptocurrency laundering accounts for 17% of all monies sent from unlawful wallets, up from 2% in 2016. Money from offline crime, such as drug trafficking funds converted to cryptocurrencies to be laundered, is not covered, and the report warns that this could be a growing area. The paper claims that this is low in comparison to more traditional ways of money laundering, "suggesting that Bitcoin-based laundering could become increasingly attractive to traditional criminals."
+
+* [Silicon Valley is no longer the edgy tech frontier as workers flee Google and Amazon for crypto and Web3 startups, recruiters say]( https://www.businessinsider.com/tech-workers-leaving-for-crypto-web3-startups-silicon-valley-recruiters-2022-2)
+
+  Katie Canales’ Business Insider article details how recently there
+  has been a trend of high-profile executives and developers leaving
+  established firms to find jobs in crypto and other decentralized
+  tech ventures. A leading example of this is how the former CMO of
+  Meta’s digital wallet project, Novi, has left the company to pursue
+  a position at the blockchain-focused payments company Circle. This
+  effect is similar to that of the wave of job switching in the early
+  2010s that saw the arrival of companies such as Uber and Lyft.
+  Whether or not this is just a trend in Silicon Valley or a lasting
+  impact, only the future will know what is in store for the workers
+  who leave for crypto and Web3 startups.
+
+* [Watching Me, Watching You: How Eye Tracking Is Coming to VR and Beyond](https://www.cnet.com/tech/computing/watching-me-watching-you-how-eye-tracking-is-coming-to-vr-and-beyond/)
+
+  Experts at Tobii, an eye tracking tech company, believe that eye tracking is the next big leap
+  in VR and AR technology. By integrating eye tracking into AR and VR, software engineers can redistribute
+  graphics processing power, allow avatars to make eye contact, and integrate new eye controls.  However,
+  there is a big security concern regarding the data that will be collected from users' eye movements.
+  Fortunately, software companies like Tobii, are brainstorming user agreements that will explain
+  what data is being collected to better inform users before they allow thier data to be tracked.
+
+* [Cryptocurrency is akin to 'Ponzi scheme' and banning it is 'perhaps the most advisable choice', says India's Central Bank](https://techcrunch.com/2022/02/15/india-central-bank-cryptocurrency-ponzi-banning/)
+
+  This TechCrunch article is about a high up official of India's central bank calling cryptocurrencies
+  akin to ponzi schemes just after the Indian government began legalizing cryptocurrencies through its
+  aim to tax them. He advocates for banning cryptocurrencies, saying, "They threaten the financial
+  sovereignty of a country and make it susceptible to strategic manipulation by private corporates creating
+  these currencies or governments that control them". This article highlights the acceptance and rejection
+  of cryptocurrencies worldwide, specifically in India.
+
+* [Reface, a viral face-swap app from Ukraine, adds anti-war push notifications](https://techcrunch.com/2022/02/27/reface-a-viral-face-swap-app-from-ukraine-adds-anti-war-push-notifications/)
+
+  Reface, a Ukrainian face-swap app, is sending push notifications to its user base of approximately 200 million
+  asking them to stand with the Ukraine against Russian invasion with the hashtag #StandWithUkraine and by
+  watermarking videos made on their app with a Ukrainian flag. Moreover, an image of sheltering civilians in Kyiv
+  has replaced the home page and displays messages for Russia to be excluded from a banking system in addition to
+  info on how to help Ukrainians during this time. In light of Russia's invasion, this app is trying to highlight
+  these wrongdoings and bring attention and help to the situation in Ukraine.
+
+* [Alex Frangi created an AI to predict heart attack risk fromo a retina scan](https://spectrum.ieee.org/retina-scan)
+
+  A professor at the University of Leeds in England and his research assistants have been conducting research on pre-heart-attack symptoms, and how to notify the patient that they are at risk.  Data was collected from tens of thousands of individuals who had gotten recent retina scans, as well as over 5,000 cases of people who had both a retina and cardiac magnetic resnoance scan.  The data was split into 10 parts for training, and by the end the AI was able to correctly predict a heart attack 70-80% of the time.  This is a major upgrade from a doctors diagnosis for a few reasons.  First, it is much quicker.  Current methods for determining heart attack risk required blood samples as well as use of an electrocardiogram, while yhe AI only needs a retina scan, which is much faster and more patient friendly.  This is also a much cheaper option since the technology required for a retina scan is much simpler than that of CMR scans.  Retina scans will also be much more available to the general public through the use of phones.  Eventually each phone will be capable of performing a retina scan, which when mixed with this AI will give everyone the ability to test their own risk of a heart attack without requiring a doctors involvement. Finally in testing, the AI performed 10% better than any previous methods did, suggesting that this AI is capable of determining risk of a heart attack quicker, cheaper, more conveniently, and more accurately than current methods.
+
+* [Microsoft purchasing Activision](https://news.microsoft.com/2022/01/18/microsoft-to-acquire-activision-blizzard-to-bring-the-joy-and-community-of-gaming-to-everyone-across-every-device/)
+
+  This is an article about Microsoft recently purchasing the game developing company Activision Blizzard. They are responsible for many popular games such as Overwatch, Call of Duty World of Warcraft, the Diablo franchise, and many others.  In recent years the company has seen its profits dropping as their games fall out of relevancy, with no new releases gaining widespread popularity.  On January 18th, Microsoft that they would purchase Blizzard for an estimated $70 billion which is now the largest video game purchase of all time. After this sale, Microsoft will become the third biggest game developing company in the world, behind Tencent and Sony.  Currently the videogame market is extremely profitable, with an estimated 3 billion people actively engaged in at least one game.  While this new ownership would likely reignight Blizzards popularity, it is concerning how Microsoft is slowly purchasing all smaller game dev comapines. Continuing this could make it much more difficult for future game dev companies to enter the market, and further strengthen the oligopoly that top companies share today.
+
+* [Synthetic Data Usage in AI](https://spectrum.ieee.org/synthetic-data-ai)
+
+  This segment from IEEE talks about a company called Omniverse which is pushing for the usage of synthetic data in training AI.  Omniverse is meant to be a simulated version of reality with the minimum amount of important physics aspects implemented in order to simulate a real world setting in VR. This would allow the user to create environments to perform tests, such as on the top of a frozen mountain or middle of a desert without actually having to go to that location to gather data.  While creating "fake data" may seem like it would not be as impactful as data recorded in the real world, it would allow AI training in areas where data cannot be gathered morally or easily.  For example, Omniverse simulated a series of dangerous environments to gather data for self-driving cars.  Data was gathered on icy roads, sudden sharp turns, when animals/people run into the road, broken brakes, etc.  Most of this data would be very dangerous and immoral to gather legitimately, but training for these situations allows the self-driving cars to react approopriately to emergencies.  As the VR simulation of reality becomes more accurate data can be gathered easier and more efficiently, which could pave the way for widespread synthetic data usage in future AI.
+
+* [To protect consumers, Congress should secure the app store supply chain](https://techcrunch.com/2022/02/15/to-protect-consumers-congress-should-secure-the-app-store-supply-chain/)
+
+  Earlier this month, the U.S. Senate Judiciary Committee approved the Open App Market Act, a bill mandating that smartphone makers allow users to install unvetted applications on their devices.
+  This bill is a big change from the "walled garden" distribution model of today that only allows app installation from official app stores.
+  The "walled garden" model ensures higher levels of safety through basic safety screening, but cuts down on the amount of available free apps for users.
+  Allowing users to install unvetted apps poses bigger security risks especially for individuals and smaller businesses that do not have the necessary security features to monitor software.
+  With that said, Congress has the ability to enforce regulations that mitigate those risks, including requiring all app stores to have base levels of security, moving away from unrestricted "side-loading", and educating users on good device hygiene.
+
+* [White Castle to hire 100 robots to flip burgers](https://www.today.com/food/restaurants/white-castle-hire-100-robots-flip-burgers-rcna16770)
+
+  Having first experimented with 'Flippy 1' robotic cooks back in September 2020, White Castle has plans to roll out the upgraded 'Flippy 2' at over 100 locations.
+  The robots, made and manufactured by Miso Robotics, have the capability to take over the entire fry station, allowing employees to focus on customer-facing duties.
+  The combination of fast food and AI is not novel to White Castle, as other popular chains like McDonald's, Sonic, and Checkers have been working to streamline their drive-thru operations with AI tools.
+  Nonetheless, White Castle's program is being phased in by region, with hopes to be in over a third of the 350 locations they have across the Midwest, Southwest, and New York area.
+
+* [AI could be the perfect tool for exploring the universe](https://www.theverge.com/2017/11/15/16654352/ai-astronomy-space-exploration-data)
+
+  Astronomers have begun using AI to detect gravitational lenses in images. Gravitational lenses occur when a massive object like a galaxy or a black hole comes between an observer on Earth and a
+  light source, which bends space and light allowing astronomers to see parts of the universe they normally would be unable to see. Finding these lenses among massive amounts of data is very time
+  consuming to do by hand, but by using machine learning, they’ve gotten a detection rate of roughly one per minute as opposed to five or six lenses found for a week of work by hand. This data
+  sorting has the potential to extract more information from data we already have, and collect significantly more information quicker, and more accurately.
+
+* [Record-high seizure of $4bn in stolen Bitcoin](https://www.bbc.com/news/world-us-canada-60310783)
+
+  The US Department of Justice confiscated a record high amount of Bitcoin last week. Two people were caught attempting to launder the stolen money from a hack in 2016 that resulted in around
+  120,000 Bitcoin being stolen from the crypto exchange Bitfinex. Around 94,000 Bitcoin have been recovered and the pair could serve up to 25 years in prison if found guilty.
+
+* [How Misleading Videos About Russia's Invasion of Ukraine Spread on Twitter](https://www.cnet.com/news/how-misleading-videos-about-russias-invasion-of-ukraine-spread-on-twitter/)
+
+  A video posted on Twitter as news of Russia's invasion of Ukraine circulated the internet shows buildings being lit up by a bright flash followed by a loud boom. “Mariupol”, a city in south
+  eastern Ukraine and the misleading caption of the video, implies a relation to the invasion, but the actual video shows lightning striking buildings in January. Twitter says it’s trying to combat
+  this type of misleading content by monitoring and removing videos of this nature, but this goes to show how not everything we see on the internet can be trusted.
+
+* [Ukraine Tech Minister Begs Tim Cook to Cut Off App Store Access in Russia](https://www.cnet.com/news/ukraine-tech-minister-begs-tim-cook-to-cut-off-app-store-access-in-russia/)
+
+  The Ukrainian technology minister has requested that Apple CEO Tim Cook block Russian citizens from accessing the App Store and stop supplying them Apple services and products. If this goes
+  through, Russian citizens could be blocked from ways they use to coordinate resistance. Mykhalio Fedorov posted his official letter to Cook on Twitter Feb 25.
+
+* [Google Drive’s new filters that make search easier are rolling out to everyone](https://www.theverge.com/2022/2/15/22935837/google-drive-search-chips-filters-available-all-users)
+
+  Chips is a feature that makes searching in Google Drive easier and it is being made available to all Workspace users. Chips were introduced to Gmail in 2020 and is now being applied to Google Drive. Chips allows you to filter search results by location, file type, date modified, people, tasks, and shared label. To use it, type a keywork into the search bar as usual and you will see the chips right above the search results.
+
+* [Syncing Alexa, Google Nest and Apple smart home tech is about to get easier with Matter](https://www.usatoday.com/story/tech/2022/02/27/smart-home-tech-apple-amazon-alexa-google-ne/6940206001/)
+
+  This article discusses the prevalence of smart home tech as we progress into a digital age. The issue with
+  smart home devices and appliances becoming more popular is beginning to become their lack of compatability
+  with one another. This issue is soon going to be resolved with the release of matter, a language/protocol
+  that allows different brands of smart home technology to communicate. Notable companies that are going to
+  implement matter include Amazon, Apple, Google, Samsung, Dyson, GE, and Sonos. One issue with the release
+  of matter is mass adoption is going to take some time due to the fact that not all current smart home
+  devices are going to be matter compatible. Some companies have said that they may release "bridge" devices
+  that will make old devices compatible with matter. Amazon has said that some Echo devices will simply need
+  a firmware update but this is not necessarily the case across companies. Overall, this is an interesting
+  step forward in tech as it shows that sometimes it is in big tech's best interest to work together.
+
+* [The US is unmasking Russian hackers faster than ever](https://www.technologyreview.com/2022/02/21/1046087/russian-hackers-ukraine/)
+
+  As tensions between Russia and Ukraine continue to escalate, the world watches and waits for information about
+  the conflict. On Feburary 15th and 16th, banks and government websites in Ukraine crashed after a DDos cyber attack.
+  Less than 48 hours later, the United States government was able to point their fingers at Russian spies. This quick
+  response is partially due to the pressing nature of the situation, as the world braces for what could be the largest
+  land conflict in Eurpoe since WWII. Increasingly advanced technology and information also plays a role in the
+  increased response time to the identification of cyber attackers. The article also cites politics as a reason
+  that the identification has lagged in the past. Beyond this current event, the article also discusses some
+  background of cyber security in the era of the internet.
+
+* [Tech Companies’ Super Bowl Ads Leaned Into Dystopia](https://www.wired.com/story/super-bowl-ads-dystopia/)
+
+  This article discusses the dystopian nature of some tech Super Bowl commercials, specifically
+  Meta's ad for a Quest 2 game. Meta's Quest 2 ad depicted an animatronic dog that gets thrown out
+  after the arcade he was a part of shut down. The dog is taken from a trash compactor and brought to
+  a facility where it is given Meta's VR headset, the Quest 2. The dog then virtually returns to the arcade
+  that he came from and digitally reunited with his old friends. This story, while uplifting, has some darker
+  undertones because not everybody has access to VR to escape tough living conditions. The ad reminds
+  us that as reality becomes bleak, the virtual world may soon be the only place for people to escape and feel
+  joy. The article is not all grim as it goes on to present a few weaker dystopian examples, and counter examples of other tech
+  companies airing more uplifting ads.
+
+* [Artificial intelligence and big data can help preserve wildlife](https://www.sciencedaily.com/releases/2022/02/220208105313.htm)
+
+  AI and animal ecology experts have proposed a cross-disciplinary approach to better research wildlife species in the context of preservation. AI experts can work specifically on creating new models. On the other hand, ecologists can provide AI experts with knowledge on what attributes these said models should contain and how they relate to each other. Although a large amount of data has been collected on wildlife in the past, the models are not ideal for ecological understanding. This is because these models are not customizable, have bad quality control, and have ethical issues.
+
+* [Data breaches break record in 2021](https://www.cnet.com/tech/services-and-software/record-number-of-data-breaches-reported-in-2021-new-report-says/)
+
+  The Identity Theft Resource Center has reported that 2021 saw the highest amount of data breaches to date. The record indicates a 68% increase from 2020’s total and a 23% increase from the previous all-time high. This is a crucial topic to address, as there is no indication that data breaches will slow down in the coming years. There is a general trend in which cybercriminals are shifting towards more focused attacks instead of massive data breaches. Following 2021’s trend, it is expected that ransomware will surpass phishing as the most likely data breach in 2022. It is encouraged that all individuals practice safe cyber practices to reduce their own risk of becoming the victim of these attacks. Interestingly, the military had no data breaches in 2021, despite an increase across all other sectors.
+
+* [Forget Zoom school. For some students, class is in session in VR](https://www.cnn.com/2022/01/27/tech/vr-classes/index.html)
+
+  Virtual Reality classes are more engaging and effective at teaching than Zoom or other video based remote learning platforms. The article first starts by describing how a professor at Stanford University used VR to teach his class and how it helped his students remain more engaged with the content. VR learning is also being implemented in Longview School for gym classes and to help students learn about war and trade through the use of games like  Civilization V. Even though headsets like the Oculus Quest 2 are becoming more affordable they are still too expensive to buy a set for a whole class in many schools. Still, students who took VR classes say they remember more from the class than video based remote classes.
+
+* [Disney+ Just Ran its First Test of Live Streaming in the US](https://apple.news/AdFPIWvUeQCSaMwSjob7F5g)
+
+  Just recently Disney+ made its attempt at live streaming to the U.S, to perform this innovation on a smaller scale they chose to live stream the Oscar nominations for this year. Despite Disney already possessing live streaming services like Hulu or ESPN, this has yet to be applied to Disney+. For this event, Disney+ chose to also stream on their other streaming platforms they own such as ABC News Live, and Hulu, this helped increase the spread of viewers and lessen the burden on Disney+ for this text.
+
+* [Texas Sues Meta Over Facebook's Facial-Recognition Practices](https://apple.news/AwffePCR2SMuMM66R2DBWdQ)
+
+  Facebook's facial recognition technology was found to violate state's privacy protections for personal biometric data and now is discontinued. Facebook was said to be harvesting Texan's personal information witch is strictly against the laws seeing as there was not informed consent. However Meta has come forward to say the claims are without merit and they will work to fight for themselves, they argued that before the facial recognition was shut down that users were informed when those services were used.
+
+* [Apple broke Facebook's ad Machine. Who's going to fix it?](https://apple.news/AKYkntY6NTiq4QEsV8JkVDA)
+
+  Apple has updated the  ads work onios apps, by doing this it is harder for facebook to track user data for personalized ads. This change is said to cost ten billion in revenue. Facebook is estimated to still generate $129 billion from ads however the ad buisness will only grow 12% as opposed to its prevous years growth of 36%. The issues with ads comes about with apples update to let users choose if they want app-folowers tracking them.
+
 * [Mozilla and Meta working to provide info to advertisers in non-invasive ways](https://blog.mozilla.org/en/mozilla/privacy-preserving-attribution-for-advertising/)
 
   This blog article from Mozilla talks about how they have been working with Meta to create new ways for advertisers to
@@ -128,7 +450,7 @@ A collection of news articles about technology and its impact on society.
   While the company has no planned date for public release, a spokesperson for the company believes its "really not that far away."
   Concurrently, Zoox has also equipped several Toyota Highlanders with their autonomous driving system, testing them out in San Francisco, Las Vegas, Seattle, and Foster City with human safety drivers behind the wheel monitoring the vehicles.
 
-* [Silicon Valley is no longer the edgy tech frontier as workers flee Google and Amazon for crypto and Web3 startups, recruiters say]( https://www.businessinsider.com/tech-workers-leaving-for-crypto-web3-startups-silicon-valley-recruiters-2022-2)
+* [Silicon Valley is no longer the edgy tech frontier as workers flee Google and Amazon for crypto and Web3 startups, recruiters say](https://www.businessinsider.com/tech-workers-leaving-for-crypto-web3-startups-silicon-valley-recruiters-2022-2)
 
   Katie Canales’ Business Insider article details how recently there
   has been a trend of high-profile executives and developers leaving
