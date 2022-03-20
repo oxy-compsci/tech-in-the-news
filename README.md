@@ -649,3 +649,5 @@ A collection of news articles about technology and its impact on society.
   Nevertheless, it could also be in response to other huge acquisitions by Microsoft, including that
   of Zenimax Media Inc., the parent company of Bethesda.
 
+* [Deepfake presidents used in Russia-Ukraine war](https://www.bbc.com/news/technology-60780142)
+Deepfake videos of Ukraine and Russia’s presidents have surfaced amidst the war. However, these videos were quickly debunked since they were not well made. Even if these specific instances of deepfakes weren’t convincing, it is still important to pay attention to this type of technology. Later, more time and money may go into deep fakes, making them appear closer and closer to the real people they were created to emulate. This possibility is highly dangerous, since deepfakes have the potential to incite conflict due to misinformation and harm society in that way.
