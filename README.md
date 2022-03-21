@@ -2,6 +2,10 @@
 
 A collection of news articles about technology and its impact on society.
 
+* [Ukraine Tech Startups Pivot From Software Code to Rescue Plans](https://www.wsj.com/articles/ukraine-tech-startups-pivot-from-software-code-to-rescue-plans-11647781202)
+
+  As a result of Russia's invasion of Ukraine, Ukrainian tech startups used the resources they had availible to them to help defend Ukraine. Tech companies are fleixble and profitable companies, even in times of war and as a result, employees can be based in other safer countries and still complete their work. This flexibility allows them to provide relief for their employees and Ukrainians as a whole, notably in the form of assistance with logistical planning and financial aid.StarWind, a data storage company doubled the salary of employees in the army, while Lemon<span></span>.io (another startup) is donating their profits to the army at the end of each month. 
+
 * [Using artificial intelligence to find anomalies hiding in massive datasets](https://techxplore.com/news/2022-02-artificial-intelligence-anomalies-massive-datasets.html)
 
   Some MIT researchers have created a method that is able to point out anomalies in real time from data streams in an efficient way. This model does not need to be trained on annotated data on power grid anomalies, which makes it suitable for real life situations that don’t have cleaned up data of good quality. One possible use of the model includes monitoring traffic and water systems. Although other models do exist, the researchers conclude that their model performs better when it comes to pointing out anomalies. This is because their model was able to detect a higher percent of the true anomalies that existed in the datasets that were tested.
