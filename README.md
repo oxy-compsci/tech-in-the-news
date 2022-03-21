@@ -2,6 +2,10 @@
 
 A collection of news articles about technology and its impact on society.
 
+* [Lune offers an API to calculate carbon emissions at checkout](https://techcrunch.com/2022/03/20/lune-offers-an-api-to-calculate-carbon-emissions-at-checkout/)
+
+  The company  Lune claims that their newly created API is important to combat climate change. This is because companies usually only have their sustainability reports hidden somewhere in their website and very few people end up reading it. That is why Lune is offering an API that exposes CO2 emissions calculations of products at checkout so that customers are better informed of the enviomental impacts of purchasing things online. By having a CO2 emmision calculation at checkout, it will allow people to be more conscious of their enviormental impact of the good they are purchasing.  Additionally, companies can let their customers donate money to finance a carbon neutralization project at checkout. It can be argued that the best way to reduce carbon emmsions is to not purchase the product in the first place. However, by providing the CO2 emmsion calulation, it is possible that people will be less inclined to purchase the good. Additionally, if they have to purchase the good, it is useful that customers can help contribute to carbon offset projects.
+
 * [Using artificial intelligence to find anomalies hiding in massive datasets](https://techxplore.com/news/2022-02-artificial-intelligence-anomalies-massive-datasets.html)
 
   Some MIT researchers have created a method that is able to point out anomalies in real time from data streams in an efficient way. This model does not need to be trained on annotated data on power grid anomalies, which makes it suitable for real life situations that don’t have cleaned up data of good quality. One possible use of the model includes monitoring traffic and water systems. Although other models do exist, the researchers conclude that their model performs better when it comes to pointing out anomalies. This is because their model was able to detect a higher percent of the true anomalies that existed in the datasets that were tested.
