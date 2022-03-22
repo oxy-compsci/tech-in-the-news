@@ -2,6 +2,22 @@
 
 A collection of news articles about technology and its impact on society.
 
+* [California creating agency to regulate tech companies to protect user privacy](https://www.nytimes.com/2022/03/15/technology/california-privacy-agency-ccpa-gdpr.html)
+
+  This article talks about how California is creating a government agency for regulating tech companies
+  to try to ensure that user privacy is protected. This is a good idea, although it will be interesting
+  to see if this will have any effect. The article discusses how there is not really much of an
+  established precedent for how such an agency should behave and what it can really do. This makes sense,
+  because technology has moved so rapidly that the laws have not been able to keep up, and there is no
+  established way of enforcing or even knowing what rules to place on tech companies. This is where the
+  main concern with such an agency might arise. I think for such an agency to be effective, it is important
+  that the individuals involved in enforcing privacy protections have some sort of technical background to
+  be able to have an understanding of what exactly they are trying to regulate. I think this brings up an
+  important general point; given the slow moving nature of our legislative systems in the US, it is difficult
+  for our laws to keep up with how quickly technology is advancing. I think this emphasizes the importance
+  of having individuals who are well versed in technology involved in making new regulations, as opposed to
+  people who don't have much experience in these fields. 
+  
 * [Using artificial intelligence to find anomalies hiding in massive datasets](https://techxplore.com/news/2022-02-artificial-intelligence-anomalies-massive-datasets.html)
 
   Some MIT researchers have created a method that is able to point out anomalies in real time from data streams in an efficient way. This model does not need to be trained on annotated data on power grid anomalies, which makes it suitable for real life situations that don’t have cleaned up data of good quality. One possible use of the model includes monitoring traffic and water systems. Although other models do exist, the researchers conclude that their model performs better when it comes to pointing out anomalies. This is because their model was able to detect a higher percent of the true anomalies that existed in the datasets that were tested.
