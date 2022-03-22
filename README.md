@@ -3,11 +3,6 @@
 A collection of news articles about technology and its impact on society.
 
 
-* [Nvidia Unveils Latest Chips, Technology to Speed up AI Computing](https://www.usnews.com/news/technology/articles/2022-03-22/nvidia-unveils-latest-chip-to-speed-up-ai-computing)
-
-  Tech company, Nvidia Corp, has recently announced the arrival of new chips and other technology that would improve computing efficiency of more complicated artificial intelligence algorithms. The company claims that their latest GPU is capable of shortening computational time for training AI models from weeks to mere days. This GPU will be used for Nvidia's new supercomputer, which the company claims will be the fastest AI system. Nvidia also introduced The Grace CPU Superchip. Additionally, they’ve been developing their own self-driving technology. 
-
-
 * [San Francisco International Airport to implement new landing technology](https://www.internationalairportreview.com/news/175093/san-francisco-international-airport-to-implement-new-landing-technology/)
 
   Recently, the federal aviation administration has approved the use of new landing technology, GBAS (Ground-based Augmentation System), that would enable San Francisco Airport to reduce aircraft noise over nearby communities. This new technology corrects errors in satellite-based GPS using receivers and broadcasting antennae. It improves accuracy to about 38m to 37m from the previous 40m. This new technology will improve safety and performance (especially during bad weather). San Francisco Airport hopes to develop innovative GBAS procedures for other airline use in the next few years.
