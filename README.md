@@ -2,6 +2,14 @@
 
 A collection of news articles about technology and its impact on society.
 
+* ['50% of transactions were fraudulent' when Steam accepted Bitcoin for payments, says Gabe Newell](https://www.pcgamer.com/uk/50-of-transactions-were-fraudulent-when-steam-accepted-bitcoin-for-payments-says-gabe-newell/)
+
+  Recently, Steam has banned blockchain and NFT games, to the annoyance of gamers who are fans of crypto.
+  The decision is precedented by Steam's short-lived experiment with accepting Bitcoin as payment, which started in Apr 2016 and ended Dec 2017.
+  Steam's reasoning for dropping support for Bitcoin was the extreme fluctuation it caused in the price of a game by the day, and the high amount of fraud that came with the crypto scene.
+  Gabe Newell, president of Steam's parent company Valve, comments, "There's a lot of really interesting technology in blockchains... but I think that people haven't figured out why you actually need a distributed ledger."
+  Newell's comment reflects rising concerns around the "overhype" of blockchain technology, and critiques on appropriate use and limitations of crypto.
+
 * [What You Need to Know About Facial Recognition at Airports](https://www.nytimes.com/2022/02/26/travel/facial-recognition-airports-customs.html)
 
   The U.S. Customs and Border Protection agency is aiming to incorporate biometric facial recognition with its new identification system. The technology they use (Simple Arrival) uses facial recognition which compares a current photo of the person being identified and their passport photo using a computer algorithm. There are a few concerns regarding this automated method of identification, the first one having to do with privacy. Some privacy advocates have voiced their skepticism regarding this process, demanding insurance that "flagged individuals are treated in a safe, fair and noninvasive manner given the imperfection of facial recognition software.” Another worry that surfaced was regarding bias in the programming that could lead to higher rates of errors for some groups, including people of color. The article claims that the C.B.P. has partnered up with the National Institute of Standards and Technology and the algorithm shows “virtually no demonstrable difference when it comes to demographics.”
@@ -701,12 +709,4 @@ A collection of news articles about technology and its impact on society.
   and there is certainly more incentive for Sony to purchase a multi-platform game studio.
   Nevertheless, it could also be in response to other huge acquisitions by Microsoft, including that
   of Zenimax Media Inc., the parent company of Bethesda.
-
-* ['50% of transactions were fraudulent' when Steam accepted Bitcoin for payments, says Gabe Newell](https://www.pcgamer.com/uk/50-of-transactions-were-fraudulent-when-steam-accepted-bitcoin-for-payments-says-gabe-newell/)  
-  
-  Recently, Steam has banned blockchain and NFT games, to the annoyance of gamers who are fans of crypto. 
-  The decision is precedented by Steam's short-lived experiment with accepting Bitcoin as payment, which started in Apr 2016 and ended Dec 2017. 
-  Steam's reasoning for dropping support for Bitcoin was the extreme fluctuation it caused in the price of a game by the day, and the high amount of fraud that came with the crypto scene.
-  Gabe Newell, president of Steam's parent company Valve, comments, "There's a lot of really interesting technology in blockchains... but I think that people haven't figured out why you actually need a distributed ledger."
-  Newell's comment reflects rising concerns around the "overhype" of blockchain technology, and critiques on appropriate use and limitations of crypto.
 
