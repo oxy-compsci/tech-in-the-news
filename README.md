@@ -2,6 +2,10 @@
 
 A collection of news articles about technology and its impact on society.
 
+* [Deepfake presidents used in Russia-Ukraine war](https://www.bbc.com/news/technology-60780142)
+
+  Deepfake videos of Ukraine and Russia’s presidents have surfaced amidst the war. However, these videos were quickly debunked since they were not well made. Even if these specific instances of deepfakes weren’t convincing, it is still important to pay attention to this type of technology. Later, more time and money may go into deep fakes, making them appear closer and closer to the real people they were created to emulate. This possibility is highly dangerous, since deepfakes have the potential to incite conflict due to misinformation and harm society in that way.
+
 * [3 Questions: Fotini Christia on racial equity and data science](https://news.mit.edu/2022/3-questions-fotini-christia-racial-equity-and-data-science-0303)
 
   Recently, a MIT-wide effort was launched to address systemic racism with the help of social science and computation. By using lots of data, they hope to develop tools that can create "structural and normative change toward equity". As of recently, existing data has shown racial discrimination in many avenues of the job market, including education and healthcare. Data science tools "can not only identify, but also contribute to, proposing fixes on racially inequitable outcomes that result from implicit or explicit biases [from]... the use of AI and algorithmic methods in decision-making". After creating these tools, they will place them in neighborhoods where indirect systemic racism exists (e.g. neighborhoods with minorities) and test these tools for their racial equity. Computation comes into play with "causal analysis" of these racial disparities and how the several structures and institutions within society have all played a role in systemic racism (both now and overtime). As a whole, this movement (ICSR) is a part of the IDSS and Fotini Christia, who looks to research issues of conflict and cooperation in the Muslim world, but has since extended to investigating systemic racism with the help of social sciences, data science, and computation.
@@ -852,5 +856,3 @@ A collection of news articles about technology and its impact on society.
   Nevertheless, it could also be in response to other huge acquisitions by Microsoft, including that
   of Zenimax Media Inc., the parent company of Bethesda.
 
-* [Deepfake presidents used in Russia-Ukraine war](https://www.bbc.com/news/technology-60780142)
-Deepfake videos of Ukraine and Russia’s presidents have surfaced amidst the war. However, these videos were quickly debunked since they were not well made. Even if these specific instances of deepfakes weren’t convincing, it is still important to pay attention to this type of technology. Later, more time and money may go into deep fakes, making them appear closer and closer to the real people they were created to emulate. This possibility is highly dangerous, since deepfakes have the potential to incite conflict due to misinformation and harm society in that way.
