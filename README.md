@@ -2,6 +2,22 @@
 
 A collection of news articles about technology and its impact on society.
 
+* [California creating agency to regulate tech companies to protect user privacy](https://www.nytimes.com/2022/03/15/technology/california-privacy-agency-ccpa-gdpr.html)
+
+  This article talks about how California is creating a government agency for regulating tech companies
+  to try to ensure that user privacy is protected. This is a good idea, although it will be interesting
+  to see if this will have any effect. The article discusses how there is not really much of an
+  established precedent for how such an agency should behave and what it can really do. This makes sense,
+  because technology has moved so rapidly that the laws have not been able to keep up, and there is no
+  established way of enforcing or even knowing what rules to place on tech companies. This is where the
+  main concern with such an agency might arise. I think for such an agency to be effective, it is important
+  that the individuals involved in enforcing privacy protections have some sort of technical background to
+  be able to have an understanding of what exactly they are trying to regulate. I think this brings up an
+  important general point; given the slow moving nature of our legislative systems in the US, it is difficult
+  for our laws to keep up with how quickly technology is advancing. I think this emphasizes the importance
+  of having individuals who are well versed in technology involved in making new regulations, as opposed to
+  people who don't have much experience in these fields.
+
 * [Ukraine Tech Startups Pivot From Software Code to Rescue Plans](https://www.wsj.com/articles/ukraine-tech-startups-pivot-from-software-code-to-rescue-plans-11647781202)
 
   As a result of Russia's invasion of Ukraine, Ukrainian tech startups used the resources they had availible to them to help defend Ukraine. Tech companies are fleixble and profitable companies, even in times of war and as a result, employees can be based in other safer countries and still complete their work. This flexibility allows them to provide relief for their employees and Ukrainians as a whole, notably in the form of assistance with logistical planning and financial aid.StarWind, a data storage company doubled the salary of employees in the army, while Lemon<span></span>.io (another startup) is donating their profits to the army at the end of each month.
