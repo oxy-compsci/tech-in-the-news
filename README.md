@@ -2,6 +2,39 @@
 
 A collection of news articles about technology and its impact on society.
 
+* [Texas sues Meta for collecting facial recogniion data](https://www.cnn.com/2022/02/14/tech/texas-meta-suit/index.html)
+
+  Texas is suing Meta over allegations that the social media giant illegally harvested the facial
+  recognition data of tens of millions of state residents for a decade. The lawsuit argues that a
+  now-shuttered Facebook photo-tagging feature failed to get Texans’ informed consent before
+  gathering their facial recognition data. The feature worked by analyzing faces in photos,
+  including those of non-Facebook users and recommending that Facebook users tag the people
+  that the tool identified. Facebook announced it would discontinue the tool in November 2021
+  and that it would also delete the data it had collected from at least 600 million users who had
+  been a part of the program.
+
+* [Zuckerberg reveals AI projects to power Metaverse](https://www.bbc.com/news/technology-60492199)
+
+  Meta founder Mark Zuckerberg has unveiled several artificial intelligence projects describing AI
+  as “the key to unlocking the Metaverse.” In a live streamed demonstration, he created a basic
+  brutal world with an island, trees, and a beach, using an AI feature Builder Bot. He also
+  announced plans to build a universal speech translator. He made sure to promise the AI
+  systems driving Meta’s virtual worlds would preserve privacy and be transparent and
+  responsible. Facebook has been investing in AI for the past 10 years and in January, it
+  announced that it had built a new AI supercomputer that it aims to be the fastest in the world
+  when completed mid 2022.
+
+* ['Full Self-Driving' Clips show owners of Teslas fighting for control, and experts see deep flaws](https://www.washingtonpost.com/technology/2022/02/10/video-tesla-full-self-driving-beta/)
+
+  Tesla has made the greatest strides of any auto manufacturer when it comes to making
+  self-driving vehicles. However, their technology isn’t perfect, which shows how difficult it is to
+  create an autonomous robot. Videos show Teslas driving down light-rail tracks, failing to stop for
+  pedestrians at crosswalks, and slamming into bike lane bollard at 11 mph. Each of these
+  examples reveals a fundamental weakness in Tesla’s “Full Self-Driving” technology. According
+  to experts, these problems have no easy solution because patching one issue might introduce
+  new complications and the nearly infinite array of possible real-life scenarios is simply too much
+  for Tesla’s algorithm to master.
+
 * [TikTok limits services as Netflix pulls out of Russia](https://www.bbc.com/news/business-60641988)
 
   The article focuses on how certain platforms, specifically Netflix and Tik Tok, have cut off their services in Russia amidst the invasion of Ukraine. Tik Tok has suspended live streaming and new content as the company tries to slow the spread of “fake news” regarding Russian armed forces. Tik tok explains this as a safety measure to ensure the protection of its staff and its users. According to the article, anyone reported writing “fake news” about the military can have upto 15 years in prison. There are approximately 36 million Russian Tik Tok-users, making it one of the company’s largest territories. Russian users can currently only view content; the restrictions on producing content is to protect people from being charged with “fake news”. Tik Tok has only recently released a statement regarding the invasion of Ukraine saying it was “devastating” and that it brought “pain to our community and our people”. Netflix has, since last week, halted all projects in Russia and stopped streaming services. Other companies have suspended operations: Burberry, H&M, Jaguar Land Rover, Apple. Visa, Mastercard and American Express have also suspended operations.
@@ -728,48 +761,3 @@ A collection of news articles about technology and its impact on society.
   Nevertheless, it could also be in response to other huge acquisitions by Microsoft, including that
   of Zenimax Media Inc., the parent company of Bethesda.
 
-* [Apple moves to stop AirTag tracking misuse](https://www.bbc.com/news/technology-60333771)
-  
-  Apple plans to introduce updates to their AirTag product to make it harder to misuse them to
-  track people. The devices have been used to track people and when they launched, Apple
-  introduced a software feature that would notify people with iPhones if a suspicious AirTag
-  that doesn't belong to them, was tracking them. Now Apple is working even harder on preventing
-  misuse. When users open up their AirTags for the first time, they will get a message that using
-  AirTags to track people is illegal. Apple also claims that now people will be alerted earlier if a 
-  suspicious AirTag is tracking them. Additionally, users with an iPhone 11 or newer will be able to
-  use "precision finding" to locate the AirTag. They can also activate the AirTag to ring to help
-  them find it.
-
-* [Texas sues Meta for collecting facial recogniion data](https://www.cnn.com/2022/02/14/tech/texas-meta-suit/index.html)
-
-  Texas is suing Meta over allegations that the social media giant illegally harvested the facial 
-  recognition data of tens of millions of state residents for a decade. The lawsuit argues that a
-  now-shuttered Facebook photo-tagging feature failed to get Texans’ informed consent before
-  gathering their facial recognition data. The feature worked by analyzing faces in photos,
-  including those of non-Facebook users and recommending that Facebook users tag the people
-  that the tool identified. Facebook announced it would discontinue the tool in November 2021
-  and that it would also delete the data it had collected from at least 600 million users who had 
-  been a part of the program. 
-
-* [Zuckerberg reveals AI projects to power Metaverse](https://www.bbc.com/news/technology-60492199)
-
-  Meta founder Mark Zuckerberg has unveiled several artificial intelligence projects describing AI 
-  as “the key to unlocking the Metaverse.” In a live streamed demonstration, he created a basic 
-  brutal world with an island, trees, and a beach, using an AI feature Builder Bot. He also 
-  announced plans to build a universal speech translator. He made sure to promise the AI 
-  systems driving Meta’s virtual worlds would preserve privacy and be transparent and
-  responsible. Facebook has been investing in AI for the past 10 years and in January, it 
-  announced that it had built a new AI supercomputer that it aims to be the fastest in the world
-  when completed mid 2022. 
-
-* ['Full Self-Driving' Clips show owners of Teslas fighting for control, and experts see deep flaws](https://www.washingtonpost.com/technology/2022/02/10/video-tesla-full-self-driving-beta/)
-  
-  Tesla has made the greatest strides of any auto manufacturer when it comes to making
-  self-driving vehicles. However, their technology isn’t perfect, which shows how difficult it is to 
-  create an autonomous robot. Videos show Teslas driving down light-rail tracks, failing to stop for 
-  pedestrians at crosswalks, and slamming into bike lane bollard at 11 mph. Each of these 
-  examples reveals a fundamental weakness in Tesla’s “Full Self-Driving” technology. According 
-  to experts, these problems have no easy solution because patching one issue might introduce 
-  new complications and the nearly infinite array of possible real-life scenarios is simply too much 
-  for Tesla’s algorithm to master. 
-  
