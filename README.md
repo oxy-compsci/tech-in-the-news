@@ -2,6 +2,16 @@
 
 A collection of news articles about technology and its impact on society.
 
+* [Chip sanctions aim for Russia’s military and its tech industry hopes](https://www.ft.com/content/1d0e97dd-b7e3-416c-98a0-a823838fbc96)
+
+  This article discusses US sanctions against Russia's tech-economy to disrupt its military capabilities. The sanctions include the ban of exporting
+  chip technology to Russia by US based companies, such as Intel and Nvidia. The sanction is specifically targeted for chip technology meant for
+  military purposes and would not stop Russian citizens from buying normal technology goods, such as mobile phones. This move mirrors that of US sanctions
+  against Huawei a couple years before due to security concerns, but use of the same sanctions today brings concern of Chinese companies moving in to
+  supply Russia the chip technology instead. However, a senior Biden official remarks "China alone can't supply all of Russia's critical needs" and this
+  seems reasonable given that China accounts for only 16 percent of global semiconductor prodcution, so such an outcome is unlikely. Nonetheless, the tech
+  sanctions reflect a US response in limiting Russia's military aggression with the ongoing Russia-Ukraine conflict.
+
 * [Ukraine invasion: Russia restricts social media access](https://www.bbc.com/news/technology-60533083)
 
   This article is discussing the news restriction sanctions being put in place by the Russian government as the invasion of Ukraine is currently happening. The article explains how these policies have severely limited the flow of information in a state of national crisis. The websites which have been most  restricted for many Russian citizens are Facebook, Instagram and Twitter. Fact checking by Meta— who owns media platforms like Facebook and Instagram— and the allowance of views that stand in opposition to Russian media outlets to persevere. Meta has restricted certain Russian officials on some platforms resulting in the state demanding these sanctions be lifted. Meta refused arguing that their apps are allowing many users to spread information and mobilize. Meta is currently trying to make their apps accessible and partnered with an outside organization , Reuters, to fact-check and stop the spread of disinformation. There is limited information still concerning how Russian will continue to limit other Meta apps, like WhatsApp.
