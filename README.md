@@ -2,6 +2,10 @@
 
 A collection of news articles about technology and its impact on society.
 
+* [What You Need to Know About Facial Recognition at Airports](https://www.nytimes.com/2022/02/26/travel/facial-recognition-airports-customs.html)
+
+  The U.S. Customs and Border Protection agency is aiming to incorporate biometric facial recognition with its new identification system. The technology they use (Simple Arrival) uses facial recognition which compares a current photo of the person being identified and their passport photo using a computer algorithm. There are a few concerns regarding this automated method of identification, the first one having to do with privacy. Some privacy advocates have voiced their skepticism regarding this process, demanding insurance that "flagged individuals are treated in a safe, fair and noninvasive manner given the imperfection of facial recognition software.” Another worry that surfaced was regarding bias in the programming that could lead to higher rates of errors for some groups, including people of color. The article claims that the C.B.P. has partnered up with the National Institute of Standards and Technology and the algorithm shows “virtually no demonstrable difference when it comes to demographics.”
+
 * [Chip sanctions aim for Russia’s military and its tech industry hopes](https://www.ft.com/content/1d0e97dd-b7e3-416c-98a0-a823838fbc96)
 
   This article discusses US sanctions against Russia's tech-economy to disrupt its military capabilities. The sanctions include the ban of exporting
