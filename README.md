@@ -2,6 +2,10 @@
 
 A collection of news articles about technology and its impact on society.
 
+* [Apple, Microsoft and Other Tech Companies Stop Sales in Russia](https://www.cnet.com/news/apple-microsoft-and-other-tech-companies-stop-sales-in-russia/)
+
+  Many tech companies, such as Apple, Microsoft, and Samsung, are either limiting or completely stopping sales of their products in Russia. This is largely due to the political tensions between Ukraine that have taken root there. Additionally, companies have also ceased advertisements on social media sites, and streaming services are holding off on releasing movies and tv shows. This will overall make it difficult to purchase phones, games, and more in Russia, perhaps leading to inflated prices of these products in the market.
+
 * [Google Suspends Advertising in Russia](https://www.nytimes.com/2022/03/03/technology/google-ads-russia.html)
 
   In response to calls by the Russian government on Google to take down ads that "spread
@@ -720,5 +724,3 @@ A collection of news articles about technology and its impact on society.
   Nevertheless, it could also be in response to other huge acquisitions by Microsoft, including that
   of Zenimax Media Inc., the parent company of Bethesda.
 
-* [Apple, Microsoft and Other Tech Companies Stop Sales in Russia](https://www.cnet.com/news/apple-microsoft-and-other-tech-companies-stop-sales-in-russia/) 
-Many tech companies, such as Apple, Microsoft, and Samsung, are either limiting or completely stopping sales of their products in Russia. This is largely due to the political tensions between Ukraine that have taken root there. Additionally, companies have also ceased advertisements on social media sites, and streaming services are holding off on releasing movies and tv shows. This will overall make it difficult to purchase phones, games, and more in Russia, perhaps leading to inflated prices of these products in the market. 
