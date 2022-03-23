@@ -2,6 +2,19 @@
 
 A collection of news articles about technology and its impact on society.
 
+* [Scientists and farmers see ways to make AI useful to agriculture](https://news.ufl.edu/2022/03/innovations-in-agriculture-conference/)
+
+  A three-day conference was held recently, from March 9-11, entitled "Envisioning
+  2050 in the Southeast: AI-driven Innovations in Agriculture," with a focus on seeing
+  how artificial intelligence can help the agriculture field. At the core of the ideas shown
+  at the conference was an emphasis on collaborating with those who already work in the field
+  to find real ways to improve the quality of life. This is a very positive take on artificial
+  intelligence and how it can bring about an improvement to both the lives of growers and,
+  ideally, everyone else as access to fresh produce is increased. Far too often we discuss
+  the negatives that come with AI; while they are certainly there, it is also nice to see how
+  it is currently being used to solve important problems such as those found in the agricultural
+  sector.
+
 * [Injectsense collects $1.7M grant for its eye implant smaller than a grain of rice](https://techcrunch.com/2022/03/17/injectsense-collects-1-7m-grant-for-its-eye-implant-smaller-than-a-grain-of-rice/)
 
   Tech startup Injectsense has been developing an eye implant built to measure intraocular pressure, a significant risk factor for glaucoma.
