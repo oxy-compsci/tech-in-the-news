@@ -773,3 +773,22 @@ A collection of news articles about technology and its impact on society.
   Nevertheless, it could also be in response to other huge acquisitions by Microsoft, including that
   of Zenimax Media Inc., the parent company of Bethesda.
 
+* [Google Drive’s new filters that make search easier are rolling out to everyone](https://www.theverge.com/2022/2/15/22935837/google-drive-search-chips-filters-available-all-users)
+  
+  Chips is a feature that makes searching in Google Drive easier and it is being made available to all Workspace users. Chips were introduced to Gmail in 2020 and is now being applied to Google Drive. Chips allows you to filter search results by location, file type, date modified, people, tasks, and shared label. To use it, type a keywork into the search bar as usual and you will see the chips right above the search results. 
+
+* [Google Cloud gets more expensive](https://techcrunch.com/2022/03/14/inflation-is-real-google-cloud-raises-its-storage-prices/)
+
+  Google cloud will significantly increase prices for several services beginning October 1, 2022. Specifically, multi-region Nearline storage and Coldline Storage Class A will increase by 50%. Additionally, cloud services in a region on the same continent will now be priced instead of free, as it was previously. Furthermore, load balancing will increase from $0.008 to $0.012 depending on the region. Google justifies these changes by claiming that they are providing “more flexible pricing models and options.”
+
+* [Restaurants Sue Google for Allegedly Prioritizing Delivery Apps in Search](https://www.cnet.com/tech/services-and-software/restaurants-sue-google-for-allegedly-prioritizing-delivery-apps-in-search/)
+  
+  A restaurant group in Florida sues Google for directing users to food delivery apps instead of restaurants’ own delivery services. They claim that Google never obtained permission from restaurants to sell their food via third party delivery services and is purposely making it appear as though it has. Google defends itself by stating that restaurants can opt out of, and even choose, their preferred delivery service. Additionally, Google does not profit from prioritizing certain delivery apps so there is no reason to believe that they would be doing it on purpose. 
+
+* [iOS 15.4 now live as Universal Control comes to iPads and Macs 23](https://www.theverge.com/2022/3/14/22976606/ios-15-4-mask-compatible-face-id-emoji-tap-to-pay-airtags-stalking-update-release-date-features)
+
+  Apple’s latest version of their iPhone operating system, iOS 15.4, includes minor updates like the addition of new emojis, anti-stalking feature for AirTags, and a more gender-neutral Siri voice. The two major updates are the ability to use Face ID while wearing a mask, although less accurate, and the Universal Control feature. Universal Control lets users wirelessly control an iPad with their Mac’s keyboard and mouse. iOS 15.4 is already out and available for download.
+
+* [The US dollar could go digital. Here's what you need to know](https://www.cnn.com/2022/03/11/tech/us-digital-dollar-cbdc/index.html)
+
+  According to an accompanying fact sheet released by the White House, there’s an executive order "placing urgency on research and development of a potential United States CBDC, should issuance be deemed in the national interest." CBDC stands for Central Bank Digital Currency, a way to issue digital dollars backed by the federal government. Advantages of CBDC include convenience, ability to repress fraud, and efficient dispersion of taxes/government funds. Disadvantages of CBDC include privacy concerns, cybersecurity risks, policy debates, and threats to independence of the Fed.  
