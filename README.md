@@ -2,6 +2,10 @@
 
 A collection of news articles about technology and its impact on society.
 
+* [Ukraine Tech Startups Pivot From Software Code to Rescue Plans](https://www.wsj.com/articles/ukraine-tech-startups-pivot-from-software-code-to-rescue-plans-11647781202)
+
+  As a result of Russia's invasion of Ukraine, Ukrainian tech startups used the resources they had availible to them to help defend Ukraine. Tech companies are fleixble and profitable companies, even in times of war and as a result, employees can be based in other safer countries and still complete their work. This flexibility allows them to provide relief for their employees and Ukrainians as a whole, notably in the form of assistance with logistical planning and financial aid.StarWind, a data storage company doubled the salary of employees in the army, while Lemon<span></span>.io (another startup) is donating their profits to the army at the end of each month.
+
 * [Lune offers an API to calculate carbon emissions at checkout](https://techcrunch.com/2022/03/20/lune-offers-an-api-to-calculate-carbon-emissions-at-checkout/)
 
   The company  Lune claims that their newly created API is important to combat climate change. This is because companies usually only have their sustainability reports hidden somewhere in their website and very few people end up reading it. That is why Lune is offering an API that exposes CO2 emissions calculations of products at checkout so that customers are better informed of the enviomental impacts of purchasing things online. By having a CO2 emmision calculation at checkout, it will allow people to be more conscious of their enviormental impact of the good they are purchasing.  Additionally, companies can let their customers donate money to finance a carbon neutralization project at checkout. It can be argued that the best way to reduce carbon emmsions is to not purchase the product in the first place. However, by providing the CO2 emmsion calulation, it is possible that people will be less inclined to purchase the good. Additionally, if they have to purchase the good, it is useful that customers can help contribute to carbon offset projects.
