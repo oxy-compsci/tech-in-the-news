@@ -2,6 +2,27 @@
 
 A collection of news articles about technology and its impact on society.
 
+* [Strong Compute wants to speed up your ML model training](https://techcrunch.com/2022/03/09/strong-compute-wants-speed-up-your-ml-model-training/)
+
+  Strong Compute is an Australia-based startup focused on optimizing the training of ML models
+  by removing inefficiencies in the training process. They compliment the beauty of ML libraries such as
+  PyTorch and TensorFlow, but argue these come at the cost of inefficiency. Many customer anecdotes second
+  their claims that the training process can be sped up by 10x. This company promises a bright future for
+  training ML models, a current problem many companies face when calculating the cost and training time for
+  these core algorithms.
+
+* [Google is leading a vast, covert human experiment. You may be one of the guinea pigs](https://theconversation.com/google-is-leading-a-vast-covert-human-experiment-you-may-be-one-of-the-guinea-pigs-154178)
+
+  Google is performing A/B testing on its user base without express user consent, leading to the questioning of
+  Google's - and other tech giants' - ethics. In this specific example, Google displayed alternative news sources
+  to approximately 1% of its Australia-based users to test "the impacts of new businesses and Google Search on
+  each other". These differing results have led those selected users to alternative, often unreliable, news sources
+  over trusted sites. Google has either failed to fully realize the ethical implications of their testing or operates
+  with dubious ethics. The article questions Google's intent to manipulate its user base, referencing a more serious
+  case when Facebook tested on its users by boosted either positive or negative news in their feed to see the effect
+  on their peers, a study widely condemned, for comparison. We conclude noting the importance of disclosure when
+  testing on users.
+
 * [Using artificial intelligence to find anomalies hiding in massive datasets](https://techxplore.com/news/2022-02-artificial-intelligence-anomalies-massive-datasets.html)
 
   Some MIT researchers have created a method that is able to point out anomalies in real time from data streams in an efficient way. This model does not need to be trained on annotated data on power grid anomalies, which makes it suitable for real life situations that don’t have cleaned up data of good quality. One possible use of the model includes monitoring traffic and water systems. Although other models do exist, the researchers conclude that their model performs better when it comes to pointing out anomalies. This is because their model was able to detect a higher percent of the true anomalies that existed in the datasets that were tested.
@@ -649,23 +670,3 @@ A collection of news articles about technology and its impact on society.
   Nevertheless, it could also be in response to other huge acquisitions by Microsoft, including that
   of Zenimax Media Inc., the parent company of Bethesda.
 
-* [Strong Compute wants to speed up your ML model training](https://techcrunch.com/2022/03/09/strong-compute-wants-speed-up-your-ml-model-training/)
-
-  Strong Compute is an Australia-based startup focused on optimizing the training of ML models 
-  by removing inefficiencies in the training process. They compliment the beauty of ML libraries such as 
-  PyTorch and TensorFlow, but argue these come at the cost of inefficiency. Many customer anecdotes second 
-  their claims that the training process can be sped up by 10x. This company promises a bright future for 
-  training ML models, a current problem many companies face when calculating the cost and training time for 
-  these core algorithms.
-
-* [Google is leading a vast, covert human experiment. You may be one of the guinea pigs](https://theconversation.com/google-is-leading-a-vast-covert-human-experiment-you-may-be-one-of-the-guinea-pigs-154178)
-
-  Google is performing A/B testing on its user base without express user consent, leading to the questioning of 
-  Google's - and other tech giants' - ethics. In this specific example, Google displayed alternative news sources 
-  to approximately 1% of its Australia-based users to test "the impacts of new businesses and Google Search on 
-  each other". These differing results have led those selected users to alternative, often unreliable, news sources 
-  over trusted sites. Google has either failed to fully realize the ethical implications of their testing or operates 
-  with dubious ethics. The article questions Google's intent to manipulate its user base, referencing a more serious 
-  case when Facebook tested on its users by boosted either positive or negative news in their feed to see the effect 
-  on their peers, a study widely condemned, for comparison. We conclude noting the importance of disclosure when 
-  testing on users.
