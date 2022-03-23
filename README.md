@@ -2,6 +2,10 @@
 
 A collection of news articles about technology and its impact on society.
 
+* [Ukraine invasion: Russia restricts social media access](https://www.bbc.com/news/technology-60533083)
+
+  This article is discussing the news restriction sanctions being put in place by the Russian government as the invasion of Ukraine is currently happening. The article explains how these policies have severely limited the flow of information in a state of national crisis. The websites which have been most  restricted for many Russian citizens are Facebook, Instagram and Twitter. Fact checking by Meta— who owns media platforms like Facebook and Instagram— and the allowance of views that stand in opposition to Russian media outlets to persevere. Meta has restricted certain Russian officials on some platforms resulting in the state demanding these sanctions be lifted. Meta refused arguing that their apps are allowing many users to spread information and mobilize. Meta is currently trying to make their apps accessible and partnered with an outside organization , Reuters, to fact-check and stop the spread of disinformation. There is limited information still concerning how Russian will continue to limit other Meta apps, like WhatsApp.
+
 * [Russia and Social Media Services Clash](https://www.reuters.com/technology/russia-invades-ukraine-moscow-battles-big-tech-control-narrative-2022-02-28/)
 
   Russia is fighting with several social media platforms (such as Meta and Twitter), because they are trying
