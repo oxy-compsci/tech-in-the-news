@@ -2,6 +2,16 @@
 
 A collection of news articles about technology and its impact on society.
 
+* [Google Suspends Advertising in Russia](https://www.nytimes.com/2022/03/03/technology/google-ads-russia.html)
+
+  In response to calls by the Russian government on Google to take down ads that "spread
+  disinformation about the situation in Ukraine", Google has taken the rare step of suspending
+  all ad services in the country. Although they have not confirmed anything, it is speculated
+  that this is because they have several hundred employees in the country. Additionally, this
+  is one of a few different steps that Google has had to take in response to the ongoing
+  conflict. This is only one example of the broader way that tech now plays a large
+  role in conflict.
+
 * ['50% of transactions were fraudulent' when Steam accepted Bitcoin for payments, says Gabe Newell](https://www.pcgamer.com/uk/50-of-transactions-were-fraudulent-when-steam-accepted-bitcoin-for-payments-says-gabe-newell/)
 
   Recently, Steam has banned blockchain and NFT games, to the annoyance of gamers who are fans of crypto.
