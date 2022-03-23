@@ -2,6 +2,14 @@
 
 A collection of news articles about technology and its impact on society.
 
+* [San Francisco International Airport to implement new landing technology](https://www.internationalairportreview.com/news/175093/san-francisco-international-airport-to-implement-new-landing-technology/)
+
+  Recently, the federal aviation administration has approved the use of new landing technology, GBAS (Ground-based Augmentation System), that would enable San Francisco Airport to reduce aircraft noise over nearby communities. This new technology corrects errors in satellite-based GPS using receivers and broadcasting antennae. It improves accuracy to about 38m to 37m from the previous 40m. This new technology will improve safety and performance (especially during bad weather). San Francisco Airport hopes to develop innovative GBAS procedures for other airline use in the next few years.
+
+* [Breastcancer.org Announces Website Launch With New Design, Technology, and Features to Empower People With Breast Cancer](https://www.prnewswire.com/news-releases/breastcancerorg-announces-website-launch-with-new-design-technology-and-features-to-empower-people-with-breast-cancer-301502909.html)
+
+  Breastcancer.org is a nonprofit organization that aims to provide support as well as reliable and relevant information about breast cancer and health. Recently, they have redesigned their website to implement experiences that reflect the various experiences and needs of people with breast cancer and encompass all aspects of the user experience. This allows site visitors to benefit from peer support through viewing articles, videos, photo galleries, checklists. The new design provides aid for patients who are newly diagnosed, in treatment, finished treatment, as well as people who are living with metastatic disease, concerned about breast cancer risk, and caring for someone with breast cancer. This digital front-end development and quality assurance implement a more user-friendly and personalized guide by incorporating the experiences of others.
+
 * [An Alternate Holographic Universe May Lead Us Into a Black Hole](https://www.cnet.com/news/an-alternate-holographic-universe-may-lead-us-into-a-black-hole/)
 
   Algorithms are being developed to solve a theory in physics called
