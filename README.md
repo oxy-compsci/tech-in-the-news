@@ -880,3 +880,11 @@ A collection of news articles about technology and its impact on society.
   Nevertheless, it could also be in response to other huge acquisitions by Microsoft, including that
   of Zenimax Media Inc., the parent company of Bethesda.
 
+* [Doctors often turn to Google Translate to talk to patients. They want a better option](https://www.statnews.com/2022/03/16/google-translate-health-care-english/)
+
+  When doctors see a patient who only speaks a less common language, Google Translate is oftentimes their best option to communicate important information like discharge instructions. 
+  However, Google Translate was not built to be used for medical translation. 
+  Medical translation is distinct from other types of translation because there are many domain-specific terms and any small mistranslation could have huge effect on the patient's health. 
+  Thus, there is a pressing need in the medical field for a real-time translation tool specifically trained on medical records, that would be used alongside human translators. 
+  This article identifies a couple of teams that are working on different approaches to this task, including independent researchers and a Microsoft subsidary.
+  
