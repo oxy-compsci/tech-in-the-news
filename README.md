@@ -2,6 +2,10 @@
 
 A collection of news articles about technology and its impact on society.
 
+* [Russian internet users are learning how to beat Putin's internet crackdown](https://www.cnn.com/2022/03/12/tech/russia-internet-censorship-circumvention/index.html)
+
+  Russian Internet users VPNs to view world's opion on the ukraine war while putin controls the media within russia and limit their freedom of speech using violent force and new technologies. Russian internet users are increasingly relying on virtual private networks (VPNs) and encrypted messaging applications to circumvent government restrictions. According to experts, Putin may have unintentionally triggered a significant, long-lasting shift in computer literacy that will work against him for years. Since March 1, Russian internet traffic to Signal has increased by a "substantial amount." Since the Ukraine invasion, Tor, a service that directs internet traffic through government firewalls, has witnessed a 2,000 percent surge in downloads from Russia. Telegram and Lantern, two private chat apps, are also thriving in Russia in the aftermath of the invasion. Russian internet users face grave dangers as the Kremlin cracks down on social media. For years, some Russian internet users have used secure communication programs. Kremlin supporters can still attempt to lure them into Russia's broader information war. If only a small proportion of citizens use such tools, Putin may be able to monopolize the country's information arena. The proliferation of anti-censorship technologies may herald the start of a "J-curve" in Russia, according to security expert Meinrath.
+
 * [Texas sues Meta for collecting facial recogniion data](https://www.cnn.com/2022/02/14/tech/texas-meta-suit/index.html)
 
   Texas is suing Meta over allegations that the social media giant illegally harvested the facial
