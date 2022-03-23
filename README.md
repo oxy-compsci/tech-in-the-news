@@ -2,6 +2,20 @@
 
 A collection of news articles about technology and its impact on society.
 
+* [Russia and Social Media Services Clash](https://www.reuters.com/technology/russia-invades-ukraine-moscow-battles-big-tech-control-narrative-2022-02-28/)
+
+  Russia is fighting with several social media platforms (such as Meta and Twitter), because they are trying
+  to restrict Russia's ability to spread false information about their recent invasion of Ukraine. Social
+  Media platforms have been facing pressure to crack down on Russia, and many individuals are calling for platforms
+  to straight out prohibit Russians from using these services. Interestingly, Russia is also starting to restrict
+  the ability for its citizens to use services like Facebook and Twitter, probably to make it more difficult for
+  its citizens to see outside information about the conflict with Ukraine. The question of whether companies like
+  Facebook and Twitter should ban Russian users brings up interesting ethical discussion, and the leaders of these
+  companies are having to grapple with what to do in this situation. Meta's global affairs department determined
+  that it would cause more detriment to ban Russians from using Facebook. This could be the case because much of the
+  Russian media is spreading lots of propaganda. However, this is definitely an interesting issue because it shows
+  how decisions by these tech companies have serious implications for real world issues.
+
 * [Strong Compute wants to speed up your ML model training](https://techcrunch.com/2022/03/09/strong-compute-wants-speed-up-your-ml-model-training/)
 
   Strong Compute is an Australia-based startup focused on optimizing the training of ML models
