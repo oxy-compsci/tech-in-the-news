@@ -2,6 +2,10 @@
 
 A collection of news articles about technology and its impact on society.
 
+* [TikTok limits services as Netflix pulls out of Russia](https://www.bbc.com/news/business-60641988)
+
+  The article focuses on how certain platforms, specifically Netflix and Tik Tok, have cut off their services in Russia amidst the invasion of Ukraine. Tik Tok has suspended live streaming and new content as the company tries to slow the spread of “fake news” regarding Russian armed forces. Tik tok explains this as a safety measure to ensure the protection of its staff and its users. According to the article, anyone reported writing “fake news” about the military can have upto 15 years in prison. There are approximately 36 million Russian Tik Tok-users, making it one of the company’s largest territories. Russian users can currently only view content; the restrictions on producing content is to protect people from being charged with “fake news”. Tik Tok has only recently released a statement regarding the invasion of Ukraine saying it was “devastating” and that it brought “pain to our community and our people”. Netflix has, since last week, halted all projects in Russia and stopped streaming services. Other companies have suspended operations: Burberry, H&M, Jaguar Land Rover, Apple. Visa, Mastercard and American Express have also suspended operations.
+
 * [Apple, Microsoft and Other Tech Companies Stop Sales in Russia](https://www.cnet.com/news/apple-microsoft-and-other-tech-companies-stop-sales-in-russia/)
 
   Many tech companies, such as Apple, Microsoft, and Samsung, are either limiting or completely stopping sales of their products in Russia. This is largely due to the political tensions between Ukraine that have taken root there. Additionally, companies have also ceased advertisements on social media sites, and streaming services are holding off on releasing movies and tv shows. This will overall make it difficult to purchase phones, games, and more in Russia, perhaps leading to inflated prices of these products in the market.
