@@ -2,6 +2,10 @@
 
 A collection of news articles about technology and its impact on society.
 
+* [Lune offers an API to calculate carbon emissions at checkout](https://techcrunch.com/2022/03/20/lune-offers-an-api-to-calculate-carbon-emissions-at-checkout/)
+
+  The company  Lune claims that their newly created API is important to combat climate change. This is because companies usually only have their sustainability reports hidden somewhere in their website and very few people end up reading it. That is why Lune is offering an API that exposes CO2 emissions calculations of products at checkout so that customers are better informed of the enviomental impacts of purchasing things online. By having a CO2 emmision calculation at checkout, it will allow people to be more conscious of their enviormental impact of the good they are purchasing.  Additionally, companies can let their customers donate money to finance a carbon neutralization project at checkout. It can be argued that the best way to reduce carbon emmsions is to not purchase the product in the first place. However, by providing the CO2 emmsion calulation, it is possible that people will be less inclined to purchase the good. Additionally, if they have to purchase the good, it is useful that customers can help contribute to carbon offset projects.
+
 * [Deepfake presidents used in Russia-Ukraine war](https://www.bbc.com/news/technology-60780142)
 
   Deepfake videos of Ukraine and Russia’s presidents have surfaced amidst the war. However, these videos were quickly debunked since they were not well made. Even if these specific instances of deepfakes weren’t convincing, it is still important to pay attention to this type of technology. Later, more time and money may go into deep fakes, making them appear closer and closer to the real people they were created to emulate. This possibility is highly dangerous, since deepfakes have the potential to incite conflict due to misinformation and harm society in that way.
