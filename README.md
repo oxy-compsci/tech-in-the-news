@@ -2,6 +2,28 @@
 
 A collection of news articles about technology and its impact on society.
 
+* [An Alternate Holographic Universe May Lead Us Into a Black Hole](https://www.cnet.com/news/an-alternate-holographic-universe-may-lead-us-into-a-black-hole/)
+
+  Algorithms are being developed to solve a theory in physics called
+  “holographic duality”. Holographic duality suggests that
+  three-dimensional space inside black holes is strung to the
+  two-dimensional universe. In other words, the fabric of spacetime as a
+  3D hologram projected by 2D webs. If this is accurate, scientists could
+  study 2D space around the black hole to extrapolate 3D space inside it
+  without having to “go in” it. Algorithms using quantum computing help
+  map out the strings of string theory which make up this 2D blueprint to
+  extrapolate 3D space.
+
+* [How Crypto and NFTs Are Funding Ukraine's Resistance Against Russia](https://www.cnet.com/news/how-crypto-nfts-are-funding-ukraines-resistance-against-russia/)
+
+  Alex Bornyakov, Ukraine’s deputy minister of digital transformation
+  set up a cryptocurrency relief fund which has raised over 53 million
+  dollars. Crypto is much easier to move around taking a few minutes for
+  transactions to clear as opposed to a wire transfer, which can take
+  days. Bornyakov also has a vision for how the country can distribute
+  NTFs to help raise more money. His vision includes a sort of war museum
+  which produces daily NFTs which can be sold to supporters.
+
 * [Google Cloud gets more expensive](https://techcrunch.com/2022/03/14/inflation-is-real-google-cloud-raises-its-storage-prices/)
 
   Google cloud will significantly increase prices for several services beginning October 1, 2022. Specifically, multi-region Nearline storage and Coldline Storage Class A will increase by 50%. Additionally, cloud services in a region on the same continent will now be priced instead of free, as it was previously. Furthermore, load balancing will increase from $0.008 to $0.012 depending on the region. Google justifies these changes by claiming that they are providing “more flexible pricing models and options.”
@@ -788,49 +810,4 @@ A collection of news articles about technology and its impact on society.
   and there is certainly more incentive for Sony to purchase a multi-platform game studio.
   Nevertheless, it could also be in response to other huge acquisitions by Microsoft, including that
   of Zenimax Media Inc., the parent company of Bethesda.
-
-* [AI could be the perfect tool for exploring the universe](https://www.theverge.com/2017/11/15/16654352/ai-astronomy-space-exploration-data)
-
-  Astronomers have begun using AI to detect gravitational lenses in images. Gravitational lenses occur when a massive object like a galaxy or a black hole comes between an observer on Earth and a 
-light source, which bends space and light allowing astronomers to see parts of the universe they normally would be unable to see. Finding these lenses among massive amounts of data is very time 
-consuming to do by hand, but by using machine learning, they’ve gotten a detection rate of roughly one per minute as opposed to five or six lenses found for a week of work by hand. This data 
-sorting has the potential to extract more information from data we already have, and collect significantly more information quicker, and more accurately.
-
-* [Record-high seizure of $4bn in stolen Bitcoin](https://www.bbc.com/news/world-us-canada-60310783)
-
-  The US Department of Justice confiscated a record high amount of Bitcoin last week. Two people were caught attempting to launder the stolen money from a hack in 2016 that resulted in around 
-120,000 Bitcoin being stolen from the crypto exchange Bitfinex. Around 94,000 Bitcoin have been recovered and the pair could serve up to 25 years in prison if found guilty.
-
-* [How Misleading Videos About Russia's Invasion of Ukraine Spread on Twitter](https://www.cnet.com/news/how-misleading-videos-about-russias-invasion-of-ukraine-spread-on-twitter/)
-
-  A video posted on Twitter as news of Russia's invasion of Ukraine circulated the internet shows buildings being lit up by a bright flash followed by a loud boom. “Mariupol”, a city in south 
-eastern Ukraine and the misleading caption of the video, implies a relation to the invasion, but the actual video shows lightning striking buildings in January. Twitter says it’s trying to combat 
-this type of misleading content by monitoring and removing videos of this nature, but this goes to show how not everything we see on the internet can be trusted.
-
-* [Ukraine Tech Minister Begs Tim Cook to Cut Off App Store Access in Russia](https://www.cnet.com/news/ukraine-tech-minister-begs-tim-cook-to-cut-off-app-store-access-in-russia/)
-
-  The Ukrainian technology minister has requested that Apple CEO Tim Cook block Russian citizens from accessing the App Store and stop supplying them Apple services and products. If this goes 
-through, Russian citizens could be blocked from ways they use to coordinate resistance. Mykhalio Fedorov posted his official letter to Cook on Twitter Feb 25.
-
-* [An Alternate Holographic Universe May Lead Us Into a Black Hole](https://www.cnet.com/news/an-alternate-holographic-universe-may-lead-us-into-a-black-hole/)
-
-  Algorithms are being developed to solve a theory in physics called 
-“holographic duality”. Holographic duality suggests that 
-three-dimensional space inside black holes is strung to the 
-two-dimensional universe. In other words, the fabric of spacetime as a 
-3D hologram projected by 2D webs. If this is accurate, scientists could 
-study 2D space around the black hole to extrapolate 3D space inside it 
-without having to “go in” it. Algorithms using quantum computing help 
-map out the strings of string theory which make up this 2D blueprint to 
-extrapolate 3D space.
-
-* [How Crypto and NFTs Are Funding Ukraine's Resistance Against Russia](https://www.cnet.com/news/how-crypto-nfts-are-funding-ukraines-resistance-against-russia/)
-
-   Alex Bornyakov, Ukraine’s deputy minister of digital transformation 
-set up a cryptocurrency relief fund which has raised over 53 million 
-dollars. Crypto is much easier to move around taking a few minutes for 
-transactions to clear as opposed to a wire transfer, which can take 
-days. Bornyakov also has a vision for how the country can distribute 
-NTFs to help raise more money. His vision includes a sort of war museum 
-which produces daily NFTs which can be sold to supporters.
 
