@@ -892,3 +892,11 @@ A collection of news articles about technology and its impact on society.
   Nevertheless, it could also be in response to other huge acquisitions by Microsoft, including that
   of Zenimax Media Inc., the parent company of Bethesda.
 
+* [After being pushed out of Google, Timnit Gebru forms her own AI research institute: DAIR](https://techcrunch.com/2021/12/02/google-timnit-gebru-ai-research-dair/)
+
+  Timnit Gebru, a leader and expert in AI ethics, has started the DAIR research institute to address ethics in AI topics 
+  after being fired from Google. This institution will be independently funded, producing academic papers free of the 
+  traditional pressures in academia and the overhead of corporate research. The institute has raised $3.7 million, 
+  enough to keep the institution afloat for the foreseeable future. This move notes the need for research on the ethics 
+  of AI separate from companies implementing AI who might influence the research and findings based on their own 
+  desires.
