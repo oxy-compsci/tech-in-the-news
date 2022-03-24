@@ -2,6 +2,253 @@
 
 A collection of news articles about technology and its impact on society.
 
+* [Why Vanderbilt baseball calls pitches on electronic wristbands and how they could improve the game](https://www.tennessean.com/story/sports/college/vanderbilt/2022/03/14/vanderbilt-baseball-pitchers-electronic-wristbands-pitch-calling-new-college-rule/9409722002/)
+
+  The Vanderbilt baseball has implemented a new piece of technology this season in order to not only improve the pace of play of the game of baseball, but also to improve communication between players on their team. Basically, the players on the field all wear a wristband that has a screen that will display the pitch that the pitcher is supposed to throw. The pitcher knows what pitch he is supposed to throw instantly and so does the catcher and the rest of the fielder behind him. This means that the time it took for a catcher to relay signs from the coach to a pitcher is cut in half while also allowing for every other player on the team to know what will be thrown as well. The device works as the coach presses a button and it sends a short secure signal to each device. This device is a sign that the sports world is becoming more tech involved as for the first time we are seeing players with an electronic device on their bodies. The pitcher and catcher are able to communicate without the use of words or even hand signals. The players are able to be told what to do by their coach without the coach having to be vocal enough for the other team to hear him. These devices do not use bluetooth and have a range of about 500 feet, so even players on the opposite side of the field are able to still receive the sign from the coach.
+
+* [Nvidia Unveils Latest Chips, Technology to Speed up AI Computing](https://www.usnews.com/news/technology/articles/2022-03-22/nvidia-unveils-latest-chip-to-speed-up-ai-computing)
+
+  Tech company, Nvidia Corp, has recently announced the arrival of new chips and other technology that would improve computing efficiency of more complicated artificial intelligence algorithms. The company claims that their latest GPU is capable of shortening computational time for training AI models from weeks to mere days. This GPU will be used for Nvidia's new supercomputer, which the company claims will be the fastest AI system. Nvidia also introduced The Grace CPU Superchip. Additionally, they’ve been developing their own self-driving technology.
+
+* [Doctors often turn to Google Translate to talk to patients. They want a better option](https://www.statnews.com/2022/03/16/google-translate-health-care-english/)
+
+  When doctors see a patient who only speaks a less common language, Google Translate is oftentimes their best option to communicate important information like discharge instructions.
+  However, Google Translate was not built to be used for medical translation.
+  Medical translation is distinct from other types of translation because there are many domain-specific terms and any small mistranslation could have huge effect on the patient's health.
+  Thus, there is a pressing need in the medical field for a real-time translation tool specifically trained on medical records, that would be used alongside human translators.
+  This article identifies a couple of teams that are working on different approaches to this task, including independent researchers and a Microsoft subsidary.
+
+* [California creating agency to regulate tech companies to protect user privacy](https://www.nytimes.com/2022/03/15/technology/california-privacy-agency-ccpa-gdpr.html)
+
+  This article talks about how California is creating a government agency for regulating tech companies
+  to try to ensure that user privacy is protected. This is a good idea, although it will be interesting
+  to see if this will have any effect. The article discusses how there is not really much of an
+  established precedent for how such an agency should behave and what it can really do. This makes sense,
+  because technology has moved so rapidly that the laws have not been able to keep up, and there is no
+  established way of enforcing or even knowing what rules to place on tech companies. This is where the
+  main concern with such an agency might arise. I think for such an agency to be effective, it is important
+  that the individuals involved in enforcing privacy protections have some sort of technical background to
+  be able to have an understanding of what exactly they are trying to regulate. I think this brings up an
+  important general point; given the slow moving nature of our legislative systems in the US, it is difficult
+  for our laws to keep up with how quickly technology is advancing. I think this emphasizes the importance
+  of having individuals who are well versed in technology involved in making new regulations, as opposed to
+  people who don't have much experience in these fields.
+
+* [Ukraine Tech Startups Pivot From Software Code to Rescue Plans](https://www.wsj.com/articles/ukraine-tech-startups-pivot-from-software-code-to-rescue-plans-11647781202)
+
+  As a result of Russia's invasion of Ukraine, Ukrainian tech startups used the resources they had availible to them to help defend Ukraine. Tech companies are fleixble and profitable companies, even in times of war and as a result, employees can be based in other safer countries and still complete their work. This flexibility allows them to provide relief for their employees and Ukrainians as a whole, notably in the form of assistance with logistical planning and financial aid.StarWind, a data storage company doubled the salary of employees in the army, while Lemon<span></span>.io (another startup) is donating their profits to the army at the end of each month.
+
+* [Lune offers an API to calculate carbon emissions at checkout](https://techcrunch.com/2022/03/20/lune-offers-an-api-to-calculate-carbon-emissions-at-checkout/)
+
+  The company  Lune claims that their newly created API is important to combat climate change. This is because companies usually only have their sustainability reports hidden somewhere in their website and very few people end up reading it. That is why Lune is offering an API that exposes CO2 emissions calculations of products at checkout so that customers are better informed of the enviomental impacts of purchasing things online. By having a CO2 emmision calculation at checkout, it will allow people to be more conscious of their enviormental impact of the good they are purchasing.  Additionally, companies can let their customers donate money to finance a carbon neutralization project at checkout. It can be argued that the best way to reduce carbon emmsions is to not purchase the product in the first place. However, by providing the CO2 emmsion calulation, it is possible that people will be less inclined to purchase the good. Additionally, if they have to purchase the good, it is useful that customers can help contribute to carbon offset projects.
+
+* [Deepfake presidents used in Russia-Ukraine war](https://www.bbc.com/news/technology-60780142)
+
+  Deepfake videos of Ukraine and Russia’s presidents have surfaced amidst the war. However, these videos were quickly debunked since they were not well made. Even if these specific instances of deepfakes weren’t convincing, it is still important to pay attention to this type of technology. Later, more time and money may go into deep fakes, making them appear closer and closer to the real people they were created to emulate. This possibility is highly dangerous, since deepfakes have the potential to incite conflict due to misinformation and harm society in that way.
+
+* [3 Questions: Fotini Christia on racial equity and data science](https://news.mit.edu/2022/3-questions-fotini-christia-racial-equity-and-data-science-0303)
+
+  Recently, a MIT-wide effort was launched to address systemic racism with the help of social science and computation. By using lots of data, they hope to develop tools that can create "structural and normative change toward equity". As of recently, existing data has shown racial discrimination in many avenues of the job market, including education and healthcare. Data science tools "can not only identify, but also contribute to, proposing fixes on racially inequitable outcomes that result from implicit or explicit biases [from]... the use of AI and algorithmic methods in decision-making". After creating these tools, they will place them in neighborhoods where indirect systemic racism exists (e.g. neighborhoods with minorities) and test these tools for their racial equity. Computation comes into play with "causal analysis" of these racial disparities and how the several structures and institutions within society have all played a role in systemic racism (both now and overtime). As a whole, this movement (ICSR) is a part of the IDSS and Fotini Christia, who looks to research issues of conflict and cooperation in the Muslim world, but has since extended to investigating systemic racism with the help of social sciences, data science, and computation.
+
+* [3 Questions: How the MIT mini cheetah learns to run](https://news.mit.edu/2022/3-questions-how-mit-mini-cheetah-learns-run-fast-0317)
+
+  Running for robots has been a huge (and very difficult) leap to accomplish; CSAIL scientists at MIT came up with a "learning pipeline" for a four-legged robot which can learn to run "entirely by trial and error in simulation." To break down why running for robots is so difficult, has to do with how humans adapt to the ground they traverse; if a robot were to only walk like it would on ice everywhere, it's not very inefficient. As well as, running everywhere not only increases the chances of falling, but pushes the hardware of the robot to its limits (such as with "near[ing] the maximum torque output of motors."). To finalize the issue, a normal approach of "programming how a robot should act in every possible situation is simply very hard [and tedious]." With the new approach by these scientists, the robot can accumulate "100 days’ worth of experience on diverse terrains in just three hours of actual time...[where] the robot's behavior improves from simulated experience." With all the environments the robot sees (while simulated), the controller will be able to identify, execute, and learn new skills to conquer these simulated environments (i.e. run and traverse without falling). While skeptics may argue the scalability of this approach, however the scientists argue that their apporach is far more scalable than the normal apporach for teaching robots. The "learning pipeline" is meant to build a diverse set of skills which the robot can utilize, rather than just having the coder hardcode every situation into the robot. With scalability in mind, the scientists continue to apply this approach on other systems, including "hands that can pick up and manipulate other objects".
+
+* [Scientists and farmers see ways to make AI useful to agriculture](https://news.ufl.edu/2022/03/innovations-in-agriculture-conference/)
+
+  A three-day conference was held recently, from March 9-11, entitled "Envisioning
+  2050 in the Southeast: AI-driven Innovations in Agriculture," with a focus on seeing
+  how artificial intelligence can help the agriculture field. At the core of the ideas shown
+  at the conference was an emphasis on collaborating with those who already work in the field
+  to find real ways to improve the quality of life. This is a very positive take on artificial
+  intelligence and how it can bring about an improvement to both the lives of growers and,
+  ideally, everyone else as access to fresh produce is increased. Far too often we discuss
+  the negatives that come with AI; while they are certainly there, it is also nice to see how
+  it is currently being used to solve important problems such as those found in the agricultural
+  sector.
+
+* [Injectsense collects $1.7M grant for its eye implant smaller than a grain of rice](https://techcrunch.com/2022/03/17/injectsense-collects-1-7m-grant-for-its-eye-implant-smaller-than-a-grain-of-rice/)
+
+  Tech startup Injectsense has been developing an eye implant built to measure intraocular pressure, a significant risk factor for glaucoma.
+  The device is injected into the eye painlessely and is capable of staying in your eye for over 80 years, charged by a pair of special glasses.
+  Based on recent animal studies performed by the company that showed high levels of success and no major issues, the National Eye institute recently awarded Injectsense with a 1.7 million dollar grant.
+  While eye pressure is something routinely measured by an eye doctor, the device stands out because it can transmit the eye pressure data continously, which allows for better insight into the daily fluctuations in eye pressure that most people experience.
+  Although the device is not necessarily a "flashy" implementation of injectable technology, the possibility of continous sensing means people at risk for or living with glaucoma can gain a better picture of the progression of the condition and build better plans of care with their doctor.
+
+* [China lockdowns create latest supply chain shock to global tech](https://www.ft.com/content/483ef3bc-e600-4c2d-bbf3-15208e52020c)
+
+  After the new restrictions were announced, more than 70 Taiwanese companies operating in the city and dozens of local Chinese manufacturers said they had suspended production. "China is digging itself into a deep hole with its zero Covid policy," said Olaf Schatteman, a supply chain expert at Bain, the consultancy. "As the restrictions are hurting suppliers and logistics operations, companies are moving beyond containing the current crisis and towards diversifying production locations, undermining China as the supply chain hub of the world". Analysts said the impact on Apple remained limited because the main iPhone production site at Foxconn, its largest supplier, was in Zhengzhou, a central Chinese city not affected at this time. "We think this is a manageable issue especially if it's limited to one week, the challenges could be more supply chain problems for the tech ecosystem and further pressure on supply/logistics overall," Evercore ISI said in a research note. An internal report from a technology company in Shenzhen obtained by the Financial Times called the domestic epidemic control situation "very serious" and said it had a cascading effect on shipments. Phelix Lee, a technology analyst at Morningstar in Hong Kong, said the migration of many technology manufacturing plants from Shenzhen to several other hubs in China and elsewhere meant the widespread factory closures in the city were less catastrophic than they would have been a few years ago. Luxshare, a Chinese contract electronics manufacturer with a rapidly growing share of Apple orders, makes some cables and interconnectors in its Shenzhen plants. "They are being disrupted because they could not ship to Foxconn," Lee said. "It could be quite significant".
+
+* [San Francisco International Airport to implement new landing technology](https://www.internationalairportreview.com/news/175093/san-francisco-international-airport-to-implement-new-landing-technology/)
+
+  Recently, the federal aviation administration has approved the use of new landing technology, GBAS (Ground-based Augmentation System), that would enable San Francisco Airport to reduce aircraft noise over nearby communities. This new technology corrects errors in satellite-based GPS using receivers and broadcasting antennae. It improves accuracy to about 38m to 37m from the previous 40m. This new technology will improve safety and performance (especially during bad weather). San Francisco Airport hopes to develop innovative GBAS procedures for other airline use in the next few years.
+
+* [Breastcancer.org Announces Website Launch With New Design, Technology, and Features to Empower People With Breast Cancer](https://www.prnewswire.com/news-releases/breastcancerorg-announces-website-launch-with-new-design-technology-and-features-to-empower-people-with-breast-cancer-301502909.html)
+
+  Breastcancer.org is a nonprofit organization that aims to provide support as well as reliable and relevant information about breast cancer and health. Recently, they have redesigned their website to implement experiences that reflect the various experiences and needs of people with breast cancer and encompass all aspects of the user experience. This allows site visitors to benefit from peer support through viewing articles, videos, photo galleries, checklists. The new design provides aid for patients who are newly diagnosed, in treatment, finished treatment, as well as people who are living with metastatic disease, concerned about breast cancer risk, and caring for someone with breast cancer. This digital front-end development and quality assurance implement a more user-friendly and personalized guide by incorporating the experiences of others.
+
+* [An Alternate Holographic Universe May Lead Us Into a Black Hole](https://www.cnet.com/news/an-alternate-holographic-universe-may-lead-us-into-a-black-hole/)
+
+  Algorithms are being developed to solve a theory in physics called
+  “holographic duality”. Holographic duality suggests that
+  three-dimensional space inside black holes is strung to the
+  two-dimensional universe. In other words, the fabric of spacetime as a
+  3D hologram projected by 2D webs. If this is accurate, scientists could
+  study 2D space around the black hole to extrapolate 3D space inside it
+  without having to “go in” it. Algorithms using quantum computing help
+  map out the strings of string theory which make up this 2D blueprint to
+  extrapolate 3D space.
+
+* [How Crypto and NFTs Are Funding Ukraine's Resistance Against Russia](https://www.cnet.com/news/how-crypto-nfts-are-funding-ukraines-resistance-against-russia/)
+
+  Alex Bornyakov, Ukraine’s deputy minister of digital transformation
+  set up a cryptocurrency relief fund which has raised over 53 million
+  dollars. Crypto is much easier to move around taking a few minutes for
+  transactions to clear as opposed to a wire transfer, which can take
+  days. Bornyakov also has a vision for how the country can distribute
+  NTFs to help raise more money. His vision includes a sort of war museum
+  which produces daily NFTs which can be sold to supporters.
+
+* [Google Cloud gets more expensive](https://techcrunch.com/2022/03/14/inflation-is-real-google-cloud-raises-its-storage-prices/)
+
+  Google cloud will significantly increase prices for several services beginning October 1, 2022. Specifically, multi-region Nearline storage and Coldline Storage Class A will increase by 50%. Additionally, cloud services in a region on the same continent will now be priced instead of free, as it was previously. Furthermore, load balancing will increase from $0.008 to $0.012 depending on the region. Google justifies these changes by claiming that they are providing “more flexible pricing models and options.”
+
+* [Restaurants Sue Google for Allegedly Prioritizing Delivery Apps in Search](https://www.cnet.com/tech/services-and-software/restaurants-sue-google-for-allegedly-prioritizing-delivery-apps-in-search/)
+
+  A restaurant group in Florida sues Google for directing users to food delivery apps instead of restaurants’ own delivery services. They claim that Google never obtained permission from restaurants to sell their food via third party delivery services and is purposely making it appear as though it has. Google defends itself by stating that restaurants can opt out of, and even choose, their preferred delivery service. Additionally, Google does not profit from prioritizing certain delivery apps so there is no reason to believe that they would be doing it on purpose.
+
+* [iOS 15.4 now live as Universal Control comes to iPads and Macs 23](https://www.theverge.com/2022/3/14/22976606/ios-15-4-mask-compatible-face-id-emoji-tap-to-pay-airtags-stalking-update-release-date-features)
+
+  Apple’s latest version of their iPhone operating system, iOS 15.4, includes minor updates like the addition of new emojis, anti-stalking feature for AirTags, and a more gender-neutral Siri voice. The two major updates are the ability to use Face ID while wearing a mask, although less accurate, and the Universal Control feature. Universal Control lets users wirelessly control an iPad with their Mac’s keyboard and mouse. iOS 15.4 is already out and available for download.
+
+* [The US dollar could go digital. Here's what you need to know](https://www.cnn.com/2022/03/11/tech/us-digital-dollar-cbdc/index.html)
+
+  According to an accompanying fact sheet released by the White House, there’s an executive order "placing urgency on research and development of a potential United States CBDC, should issuance be deemed in the national interest." CBDC stands for Central Bank Digital Currency, a way to issue digital dollars backed by the federal government. Advantages of CBDC include convenience, ability to repress fraud, and efficient dispersion of taxes/government funds. Disadvantages of CBDC include privacy concerns, cybersecurity risks, policy debates, and threats to independence of the Fed.
+
+* [Didi’s 44% stock plunge leaves SoftBank and Uber with diminishing returns](https://www.cnbc.com/2022/03/11/didi-44percent-stock-plunge-leaves-softbank-and-uber-with-weak-returns.html)
+
+  Didi shares tumbled 44% on Friday, the biggest one-day drop since the Chinese ride-hailing company went public in the U.S. in June. The stock is now 87% below its IPO price, leaving its two top shareholders — SoftBank and Uber — facing the potential for steep losses. The shares were already in freefall amid a crackdown by the Chinese government on domestic companies listed in the U.S. Didi said in December that it would delist from the New York Stock Exchange and instead list in Hong Kong. On Friday, Bloomberg reported that Didi hadn’t complied with data-security requirements necessary to proceed with a share sale in Hong Kong. Uber said in its latest annual report that in 2021 it recognized an unrealized $3 billion loss on its Didi investment. Last year CNBC reported that SoftBank was selling part of its Uber position partly to cover its Didi losses. “Since we invested in Didi, we have seen a huge loss of value,” Masayoshi Son, SoftBank’s CEO, said in a February call to discuss results for the nine months ended Dec. 31. Didi wasn’t the only Chinese tech stock to drop on Friday, though its decline was the heftiest.
+
+* [China’s tech platforms become propaganda tools in Putin’s war](https://www.ft.com/content/d460c6f6-ffc7-4d61-9350-bef378fcc5c5)
+
+  The Ukraine invasion is casting an unflattering light on the role of China's private technology groups, including Tencent, Sina Weibo and ByteDance, in disseminating official misinformation, posing difficult compliance issues for the companies' foreign investors. The internet platforms of tech giants in China are promoting content backing Russian president Vladimir Putin's attack on Ukraine while suppressing posts that are sympathetic to Kyiv, potentially conflicting with international funds' corporate and social responsibility commitments and public statements against the war. This week, Russian disinformation reports of US-run biological laboratories in Ukraine with "large quantities of dangerous viruses" were repeated by China's foreign ministry spokesperson and state media. "The Chinese market is uninvestable from an ESG perspective," said Felix Boudreault, managing director of Sustainable Market Strategies, an environmental, social and corporate governance investment research group. Many of the companies most popular with investors were subject to strict state controls, said Boudreault, adding that tech and media companies were "extremely vulnerable to the strike of a pen from a Chinese bureaucrat". Moscow's talking points are frequently adopted from Russian state media and run on China's platforms as well as being parroted by Chinese officials, state media and a chorus of nationalist influencers. Investments in Chinese platforms are becoming "problematic" from a social responsibility perspective, said one Hong Kong-based executive at an international fund whose portfolio includes Chinese internet company shares. "It is a tough market, getting tougher," said the investor, who asked not to be named citing Hong Kong's national security laws, which target criticism of China. "Investors should be able to engage with companies on these issues. The focus on China's tech giants and their investors comes as western governments push international social media companies to remove Russian state-backed media from their platforms. He added that investors had also largely ignored the sector's alleged ties to surveillance in China's western Xinjiang region where one million Muslims have been imprisoned. "One of the issues which is most concerning is the sheer level of passive investment in these companies, particularly Tencent and Alibaba.
+
+* [Russian internet users are learning how to beat Putin's internet crackdown](https://www.cnn.com/2022/03/12/tech/russia-internet-censorship-circumvention/index.html)
+
+  Russian Internet users VPNs to view world's opion on the ukraine war while putin controls the media within russia and limit their freedom of speech using violent force and new technologies. Russian internet users are increasingly relying on virtual private networks (VPNs) and encrypted messaging applications to circumvent government restrictions. According to experts, Putin may have unintentionally triggered a significant, long-lasting shift in computer literacy that will work against him for years. Since March 1, Russian internet traffic to Signal has increased by a "substantial amount." Since the Ukraine invasion, Tor, a service that directs internet traffic through government firewalls, has witnessed a 2,000 percent surge in downloads from Russia. Telegram and Lantern, two private chat apps, are also thriving in Russia in the aftermath of the invasion. Russian internet users face grave dangers as the Kremlin cracks down on social media. For years, some Russian internet users have used secure communication programs. Kremlin supporters can still attempt to lure them into Russia's broader information war. If only a small proportion of citizens use such tools, Putin may be able to monopolize the country's information arena. The proliferation of anti-censorship technologies may herald the start of a "J-curve" in Russia, according to security expert Meinrath.
+
+* [Texas sues Meta for collecting facial recogniion data](https://www.cnn.com/2022/02/14/tech/texas-meta-suit/index.html)
+
+  Texas is suing Meta over allegations that the social media giant illegally harvested the facial
+  recognition data of tens of millions of state residents for a decade. The lawsuit argues that a
+  now-shuttered Facebook photo-tagging feature failed to get Texans’ informed consent before
+  gathering their facial recognition data. The feature worked by analyzing faces in photos,
+  including those of non-Facebook users and recommending that Facebook users tag the people
+  that the tool identified. Facebook announced it would discontinue the tool in November 2021
+  and that it would also delete the data it had collected from at least 600 million users who had
+  been a part of the program.
+
+* [Zuckerberg reveals AI projects to power Metaverse](https://www.bbc.com/news/technology-60492199)
+
+  Meta founder Mark Zuckerberg has unveiled several artificial intelligence projects describing AI
+  as “the key to unlocking the Metaverse.” In a live streamed demonstration, he created a basic
+  brutal world with an island, trees, and a beach, using an AI feature Builder Bot. He also
+  announced plans to build a universal speech translator. He made sure to promise the AI
+  systems driving Meta’s virtual worlds would preserve privacy and be transparent and
+  responsible. Facebook has been investing in AI for the past 10 years and in January, it
+  announced that it had built a new AI supercomputer that it aims to be the fastest in the world
+  when completed mid 2022.
+
+* ['Full Self-Driving' Clips show owners of Teslas fighting for control, and experts see deep flaws](https://www.washingtonpost.com/technology/2022/02/10/video-tesla-full-self-driving-beta/)
+
+  Tesla has made the greatest strides of any auto manufacturer when it comes to making
+  self-driving vehicles. However, their technology isn’t perfect, which shows how difficult it is to
+  create an autonomous robot. Videos show Teslas driving down light-rail tracks, failing to stop for
+  pedestrians at crosswalks, and slamming into bike lane bollard at 11 mph. Each of these
+  examples reveals a fundamental weakness in Tesla’s “Full Self-Driving” technology. According
+  to experts, these problems have no easy solution because patching one issue might introduce
+  new complications and the nearly infinite array of possible real-life scenarios is simply too much
+  for Tesla’s algorithm to master.
+
+* [TikTok limits services as Netflix pulls out of Russia](https://www.bbc.com/news/business-60641988)
+
+  The article focuses on how certain platforms, specifically Netflix and Tik Tok, have cut off their services in Russia amidst the invasion of Ukraine. Tik Tok has suspended live streaming and new content as the company tries to slow the spread of “fake news” regarding Russian armed forces. Tik tok explains this as a safety measure to ensure the protection of its staff and its users. According to the article, anyone reported writing “fake news” about the military can have upto 15 years in prison. There are approximately 36 million Russian Tik Tok-users, making it one of the company’s largest territories. Russian users can currently only view content; the restrictions on producing content is to protect people from being charged with “fake news”. Tik Tok has only recently released a statement regarding the invasion of Ukraine saying it was “devastating” and that it brought “pain to our community and our people”. Netflix has, since last week, halted all projects in Russia and stopped streaming services. Other companies have suspended operations: Burberry, H&M, Jaguar Land Rover, Apple. Visa, Mastercard and American Express have also suspended operations.
+
+* [Apple, Microsoft and Other Tech Companies Stop Sales in Russia](https://www.cnet.com/news/apple-microsoft-and-other-tech-companies-stop-sales-in-russia/)
+
+  Many tech companies, such as Apple, Microsoft, and Samsung, are either limiting or completely stopping sales of their products in Russia. This is largely due to the political tensions between Ukraine that have taken root there. Additionally, companies have also ceased advertisements on social media sites, and streaming services are holding off on releasing movies and tv shows. This will overall make it difficult to purchase phones, games, and more in Russia, perhaps leading to inflated prices of these products in the market.
+
+* [Google Suspends Advertising in Russia](https://www.nytimes.com/2022/03/03/technology/google-ads-russia.html)
+
+  In response to calls by the Russian government on Google to take down ads that "spread
+  disinformation about the situation in Ukraine", Google has taken the rare step of suspending
+  all ad services in the country. Although they have not confirmed anything, it is speculated
+  that this is because they have several hundred employees in the country. Additionally, this
+  is one of a few different steps that Google has had to take in response to the ongoing
+  conflict. This is only one example of the broader way that tech now plays a large
+  role in conflict.
+
+* ['50% of transactions were fraudulent' when Steam accepted Bitcoin for payments, says Gabe Newell](https://www.pcgamer.com/uk/50-of-transactions-were-fraudulent-when-steam-accepted-bitcoin-for-payments-says-gabe-newell/)
+
+  Recently, Steam has banned blockchain and NFT games, to the annoyance of gamers who are fans of crypto.
+  The decision is precedented by Steam's short-lived experiment with accepting Bitcoin as payment, which started in Apr 2016 and ended Dec 2017.
+  Steam's reasoning for dropping support for Bitcoin was the extreme fluctuation it caused in the price of a game by the day, and the high amount of fraud that came with the crypto scene.
+  Gabe Newell, president of Steam's parent company Valve, comments, "There's a lot of really interesting technology in blockchains... but I think that people haven't figured out why you actually need a distributed ledger."
+  Newell's comment reflects rising concerns around the "overhype" of blockchain technology, and critiques on appropriate use and limitations of crypto.
+
+* [What You Need to Know About Facial Recognition at Airports](https://www.nytimes.com/2022/02/26/travel/facial-recognition-airports-customs.html)
+
+  The U.S. Customs and Border Protection agency is aiming to incorporate biometric facial recognition with its new identification system. The technology they use (Simple Arrival) uses facial recognition which compares a current photo of the person being identified and their passport photo using a computer algorithm. There are a few concerns regarding this automated method of identification, the first one having to do with privacy. Some privacy advocates have voiced their skepticism regarding this process, demanding insurance that "flagged individuals are treated in a safe, fair and noninvasive manner given the imperfection of facial recognition software.” Another worry that surfaced was regarding bias in the programming that could lead to higher rates of errors for some groups, including people of color. The article claims that the C.B.P. has partnered up with the National Institute of Standards and Technology and the algorithm shows “virtually no demonstrable difference when it comes to demographics.”
+
+* [Chip sanctions aim for Russia’s military and its tech industry hopes](https://www.ft.com/content/1d0e97dd-b7e3-416c-98a0-a823838fbc96)
+
+  This article discusses US sanctions against Russia's tech-economy to disrupt its military capabilities. The sanctions include the ban of exporting
+  chip technology to Russia by US based companies, such as Intel and Nvidia. The sanction is specifically targeted for chip technology meant for
+  military purposes and would not stop Russian citizens from buying normal technology goods, such as mobile phones. This move mirrors that of US sanctions
+  against Huawei a couple years before due to security concerns, but use of the same sanctions today brings concern of Chinese companies moving in to
+  supply Russia the chip technology instead. However, a senior Biden official remarks "China alone can't supply all of Russia's critical needs" and this
+  seems reasonable given that China accounts for only 16 percent of global semiconductor prodcution, so such an outcome is unlikely. Nonetheless, the tech
+  sanctions reflect a US response in limiting Russia's military aggression with the ongoing Russia-Ukraine conflict.
+
+* [Ukraine invasion: Russia restricts social media access](https://www.bbc.com/news/technology-60533083)
+
+  This article is discussing the news restriction sanctions being put in place by the Russian government as the invasion of Ukraine is currently happening. The article explains how these policies have severely limited the flow of information in a state of national crisis. The websites which have been most  restricted for many Russian citizens are Facebook, Instagram and Twitter. Fact checking by Meta— who owns media platforms like Facebook and Instagram— and the allowance of views that stand in opposition to Russian media outlets to persevere. Meta has restricted certain Russian officials on some platforms resulting in the state demanding these sanctions be lifted. Meta refused arguing that their apps are allowing many users to spread information and mobilize. Meta is currently trying to make their apps accessible and partnered with an outside organization , Reuters, to fact-check and stop the spread of disinformation. There is limited information still concerning how Russian will continue to limit other Meta apps, like WhatsApp.
+
+* [Russia and Social Media Services Clash](https://www.reuters.com/technology/russia-invades-ukraine-moscow-battles-big-tech-control-narrative-2022-02-28/)
+
+  Russia is fighting with several social media platforms (such as Meta and Twitter), because they are trying
+  to restrict Russia's ability to spread false information about their recent invasion of Ukraine. Social
+  Media platforms have been facing pressure to crack down on Russia, and many individuals are calling for platforms
+  to straight out prohibit Russians from using these services. Interestingly, Russia is also starting to restrict
+  the ability for its citizens to use services like Facebook and Twitter, probably to make it more difficult for
+  its citizens to see outside information about the conflict with Ukraine. The question of whether companies like
+  Facebook and Twitter should ban Russian users brings up interesting ethical discussion, and the leaders of these
+  companies are having to grapple with what to do in this situation. Meta's global affairs department determined
+  that it would cause more detriment to ban Russians from using Facebook. This could be the case because much of the
+  Russian media is spreading lots of propaganda. However, this is definitely an interesting issue because it shows
+  how decisions by these tech companies have serious implications for real world issues.
+
+* [Strong Compute wants to speed up your ML model training](https://techcrunch.com/2022/03/09/strong-compute-wants-speed-up-your-ml-model-training/)
+
+  Strong Compute is an Australia-based startup focused on optimizing the training of ML models
+  by removing inefficiencies in the training process. They compliment the beauty of ML libraries such as
+  PyTorch and TensorFlow, but argue these come at the cost of inefficiency. Many customer anecdotes second
+  their claims that the training process can be sped up by 10x. This company promises a bright future for
+  training ML models, a current problem many companies face when calculating the cost and training time for
+  these core algorithms.
+
+* [Google is leading a vast, covert human experiment. You may be one of the guinea pigs](https://theconversation.com/google-is-leading-a-vast-covert-human-experiment-you-may-be-one-of-the-guinea-pigs-154178)
+
+  Google is performing A/B testing on its user base without express user consent, leading to the questioning of
+  Google's - and other tech giants' - ethics. In this specific example, Google displayed alternative news sources
+  to approximately 1% of its Australia-based users to test "the impacts of new businesses and Google Search on
+  each other". These differing results have led those selected users to alternative, often unreliable, news sources
+  over trusted sites. Google has either failed to fully realize the ethical implications of their testing or operates
+  with dubious ethics. The article questions Google's intent to manipulate its user base, referencing a more serious
+  case when Facebook tested on its users by boosted either positive or negative news in their feed to see the effect
+  on their peers, a study widely condemned, for comparison. We conclude noting the importance of disclosure when
+  testing on users.
+
 * [Using artificial intelligence to find anomalies hiding in massive datasets](https://techxplore.com/news/2022-02-artificial-intelligence-anomalies-massive-datasets.html)
 
   Some MIT researchers have created a method that is able to point out anomalies in real time from data streams in an efficient way. This model does not need to be trained on annotated data on power grid anomalies, which makes it suitable for real life situations that don’t have cleaned up data of good quality. One possible use of the model includes monitoring traffic and water systems. Although other models do exist, the researchers conclude that their model performs better when it comes to pointing out anomalies. This is because their model was able to detect a higher percent of the true anomalies that existed in the datasets that were tested.
