@@ -2,6 +2,15 @@
 
 A collection of news articles about technology and its impact on society.
 
+* [US Braces for Cyberwarfare Amid Fears of Russian Assault](https://www.technewsworld.com/story/us-braces-for-cyberwarfare-amid-fears-of-russian-assault-87462.html)
+
+  This article provides an overview of the US government recommendations to the public and private sector on the threat of cybersecurity with the ongoing Russia-Ukraine War.
+  A comissioner from the Cyberspace Solarium Commission states that Russia isn't currently conducting a major cyber attack against the US, but that vigilance must be taken
+  to be prepared on the cyberwar front. The Federal Cybersecurity Agency known as CISA has increased guidance in collaboration with companies and local government to upgrade
+  the baseline of good cybersecurity measures, from basic security protocol to mitigation responses. However, CISA's chief of staff remarked that the responsibility of implementing 
+  cybersecurity measures is by the public and private sector entities, as the government plays a support role with giving recommendations and guidelines. Nonetheless, experts remind
+  the industry sector to be more resilient with their IT and cybersecurity operations.
+
 * [Why Vanderbilt baseball calls pitches on electronic wristbands and how they could improve the game](https://www.tennessean.com/story/sports/college/vanderbilt/2022/03/14/vanderbilt-baseball-pitchers-electronic-wristbands-pitch-calling-new-college-rule/9409722002/)
 
   The Vanderbilt baseball has implemented a new piece of technology this season in order to not only improve the pace of play of the game of baseball, but also to improve communication between players on their team. Basically, the players on the field all wear a wristband that has a screen that will display the pitch that the pitcher is supposed to throw. The pitcher knows what pitch he is supposed to throw instantly and so does the catcher and the rest of the fielder behind him. This means that the time it took for a catcher to relay signs from the coach to a pitcher is cut in half while also allowing for every other player on the team to know what will be thrown as well. The device works as the coach presses a button and it sends a short secure signal to each device. This device is a sign that the sports world is becoming more tech involved as for the first time we are seeing players with an electronic device on their bodies. The pitcher and catcher are able to communicate without the use of words or even hand signals. The players are able to be told what to do by their coach without the coach having to be vocal enough for the other team to hear him. These devices do not use bluetooth and have a range of about 500 feet, so even players on the opposite side of the field are able to still receive the sign from the coach.
