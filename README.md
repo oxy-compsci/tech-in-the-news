@@ -655,3 +655,7 @@ A collection of news articles about technology and its impact on society.
 
 [Cryptographers Achieve Perfect Secrecy With Imperfect Devices] https://www.quantamagazine.org/cryptographers-achieve-perfect-secrecy-with-imperfect-devices-20220225/
 reseachers from Oxford, Munich,Shanghai 's experiments lift the perfect secrecy inherent in the quantum realm — unknown and uncertain by nature — into the macroscopic world of the everyday. The technology is still too slow to be practical. Nevertheless, even the most paranoid now know it’s possible to communicate with perfect privacy. The researchers use a classical "Nonlocal game" to test if their theories is correct. This research culminated in a result from 2018, which proved that security could be achieved with winning percentages that seemed low enough that experimentalists might be able to reach them, even if the researcher made the devices herself. As long as the devices allowed Alice and Bob to win at a certain rate in the game, it was clear: They had obtained secrecy.
+
+[Digital Data Could Be Altering Earth's Mass Just a Tiny Bit, Claims Physicist]https://www.sciencealert.com/physicist-claims-information-has-mass-and-might-be-considered-a-state-of-matter
+According to calculations made a few years ago by University of Portsmouth physicist Melvin Vopson, this literal mass of visual imagery  could be making our planet a touch heavier. We as a human have many impact on the plant. if this hyposis is true then all the information we created are not eco-impact free. We must rethink our actions
+
