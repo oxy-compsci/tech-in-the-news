@@ -904,3 +904,13 @@ A collection of news articles about technology and its impact on society.
   enough to keep the institution afloat for the foreseeable future. This move notes the need for research on the ethics 
   of AI separate from companies implementing AI who might influence the research and findings based on their own 
   desires.
+
+* [Flawed data is putting people with disabilities at risk](https://techcrunch.com/2021/04/19/flawed-data-is-putting-people-with-disabilities-at-risk/)
+
+  This article articulates that AI is trained to look for patterns and groups, disregarding outliers as noise, which is 
+  incredibly problematic for the disabled community, whose disabilities are diverse and, in turn, require a nuanced 
+  approach to understand and address. This article uses anecdotes to convey this point, addressing the case of Elaine 
+  Herzberg, a woman who was hit and killed from a self-driving car when she was pushing a bicycle and the self-driving 
+  vehicle failed to categorize her, leading others in the disabled community to worry about how such cars will address 
+  wheelchairs and scooters. AI is trained on data, and if this data isn't fully inclusive, it lends itself to 
+  problematic AI which threatens to exclude minority groups and overlook important societal issues.
