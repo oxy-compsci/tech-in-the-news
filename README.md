@@ -40,4 +40,8 @@ A collection of news articles about technology and its impact on society.
 	Based on recent animal studies performed by the company that showed high levels of success and no major issues, the National Eye institute recently awarded Injectsense with a 1.7 million dollar grant.
 	While eye pressure is something routinely measured by an eye doctor, the device stands out because it can transmit the eye pressure data continously, which allows for better insight into the daily fluctuations in eye pressure that most people experience.
 	Although the device is not necessarily a "flashy" implementation of injectable technology, the possibility of continous sensing means people at risk for or living with glaucoma can gain a better picture of the progression of the condition and build better plans of care with their doctor.
-	
+
+
+* [We met the founder of Europe's largest vertical farm] (https://thechoice.escp.eu/their-choice/we-met-the-founder-of-europes-largest-vertical-farm/amp/)
+
+	Nordic Harvest, Europe's largest vertical farm, is located in the Danish city of Taastrup, and spans over 7,000 square feet with 14 levels of agriculture. Providing about 5% of Denmark's consumption, the farm produces over 1,000 tons of salad and herbs each year, powered entirely by wind energy and low-energy LEDs. Vertical farming is an incredible tool for resource optimization, providing crops that can be harvested much more frequently than regular, keep for longer without rotting, use zero pesticides, and maintain the same flavor and nutritional profile. Because of this effectivness, vertical farming has the potential to greatly supplement the food supply chain, reduce food waste, and reduce food transportation. Thus, even though the intial cost of vertical farming infrastructure is hefty, vertical farming is in a position to support the never-ending rise in human population alongside booming urbanization while still reducing energy consumption and waste.
