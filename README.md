@@ -896,3 +896,6 @@ A collection of news articles about technology and its impact on society.
   Nevertheless, it could also be in response to other huge acquisitions by Microsoft, including that
   of Zenimax Media Inc., the parent company of Bethesda.
 
+* [Europe agrees new law to curb Big Tech dominance](https://www.bbc.com/news/technology-60870287)
+
+The BBC reports that under the Digital Markets Act (DMA), big tech companies like Google and Apple will be forced to make some major changes. Such changes include opening up their services to other businesses in order to keep the markets fair. Specifically for Apple, they will need to begin to allow users to have third party payment option; and, additionally allow people to delete "company-imposed apps" such as Safari. European spokespeople say they want to create a new generation of tech regulation. Apple and Google have commented that they have concerns about privacy and security vulnerability from the proposed regulations.
