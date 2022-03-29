@@ -1,13 +1,10 @@
-* [Super Bowl ads boosted crypto app downloads by 279%, led by Coinbase](https://techcrunch.com/2022/02/17/super-bowl-ads-boosted-crypto-app-downloads-by-279-led-by-coinbase/)
+* [Uber Close to Deal for Partnership With San Francisco Taxi Outfit](https://www.nytimes.com/2022/03/28/technology/uber-taxis-san-francisco-deal.html/)
 
-Sensor Tower revealed that Tech companies' Super Bowl ads majorly boosted app downloads/installs
-in the US with Coinbase having the best results.
-Coinbase's installs jumped 309% week-over-week after the ad aired when their ad was a QR code 
-bouncing around on the screen like the DVD logo. 
-eToro and FTX had increased downloads with eToro app installs increasing
-by 132% week-over-week and FTX app installs receiving a 
-130% boost week-over-week in downloads. Even with this huge increase in downloads, some apps did not benefit as much
-like the Oculus app moving down in the US App store ranks from #102 to #175 on Monday. 
-Despite some ads not working out as intended, the Super Bowl ads still boosted
-installs for other apps like YouTube TV, Disney+, HBO MAX, and DraftKings 
-which saw a jump up in US App store ranks.
+Uber is close to completing an agreement with a San Francisco partner Flywheel Technologies and the partnership would allow Uber passengers to call a taxi through the Uber app. 
+If this agreement is approved by SF Municipal Transportation Agency’s board of directors, Uber's upfront cost would not need to be the same as a traditional meter-based service. 
+The program pursues to help taxi drivers earn more money by countering meter anxiety which the ride based companies have combated because they made a set price of the person's trip before going on the ride.
+Despite this deal, Taxi drivers are not happy because they are not going to get paid a per-ride fare which helps them make a decent living wage.
+Taxi drivers deel like people are conditioned to order Ubers because of the tought that it is a cheaper option.
+
+
+
