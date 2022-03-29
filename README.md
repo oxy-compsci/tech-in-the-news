@@ -136,3 +136,16 @@ A collection of news articles about technology and its impact on society.
   Nevertheless, it could also be in response to other huge acquisitions by Microsoft, including that
   of Zenimax Media Inc., the parent company of Bethesda.
 
+* [Talk with your dead loved ones – through a chatbot](https://www.cnet.com/culture/hereafter-ai-lets-you-talk-with-your-dead-loved-ones-through-a-chatbot/)
+  A man named James Vlahos lost his father to cancer in 2017 but still chats with him all the time 
+  thanks to a chatbot he created called “Dadbot.” Vlahos spent months recording his dad’s life 
+  stories, then turned them into an interactive AI that speaks in his father’s voice. Vlahos is 
+  bringing his technology to HereAfter AI, one of many startups promising digital immortality 
+  through chatbots, AI, and even holograms. The prospect of communicating with virtual versions 
+  of dead family members of friends is certainly controversial. On the one had this can be a great 
+  initiative, helping people through their grieving process. On the other hand, it can be considered 
+  creepy and can be potentially dangerous if the AI reveals information about the person, that 
+  wasn't communicated while they were alive, which can create confusion or even resentment. 
+  This also poses ethical concerns and begs philosophical questions.
+
+
