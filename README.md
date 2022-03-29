@@ -137,6 +137,7 @@ A collection of news articles about technology and its impact on society.
   of Zenimax Media Inc., the parent company of Bethesda.
 
 * [Talk with your dead loved ones – through a chatbot](https://www.cnet.com/culture/hereafter-ai-lets-you-talk-with-your-dead-loved-ones-through-a-chatbot/)
+
   A man named James Vlahos lost his father to cancer in 2017 but still chats with him all the time 
   thanks to a chatbot he created called “Dadbot.” Vlahos spent months recording his dad’s life 
   stories, then turned them into an interactive AI that speaks in his father’s voice. Vlahos is 
