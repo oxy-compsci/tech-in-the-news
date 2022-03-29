@@ -1,8 +1,6 @@
-* [Ukraine government raises over $10 million in cryptocurrency donations](https://www.cnbc.com/2022/02/27/ukraine-government-raises-over-10-million-in-cryptocurrency-donations.html)
+* [Apple Maps UK ground surveys begin, using backpack-mounted cameras and sensors](https://9to5mac.com/2022/03/28/apple-maps-uk-ground-surveys-begin-using-backpack-mounted-cameras-and-sensors/)
 
-The Ukraine government raised $10.2 million in bitcoin, tether, and ether cryptocurrency
-for assistance because of how Russia started to invade them.
-A non-governmental organization named Come Back Alive hs helped raised millions of dollars
-in crypto on Patreon since Russia started to invade Ukraine.
-NFTs have also helped raise $1.86 million in crypto for Ukraine's government and in total the donations stand at $16.7 million.
-Even though the Ukrainian government's national legislation doesn't allow the Ministry of Defense to use Bitcoin and PayPal, they relaxed their stance and allowed crypto donations.
+Apple has launched ground surveys on the streets of London, Birmingham and Manchester to gather pedestrian data for its Apple Maps service using special backpacks.
+Apple cars are not able to reach some parts of these cities because of how the cities are pedestrianizing areas to make it more appealing and reduce car usage.
+The backpacks will feature cameras and other sensors for mapping data collection that cars can't reach and be able to show people what these cities look like in 3D view.
+This surveying help with people's privacy as well because Apple won't have to track people for this information that they are getting from this survey.
