@@ -2,6 +2,17 @@
 
 A collection of news articles about technology and its impact on society.
 
+* [How Robots Can Assist Students With Disabilities?](https://www.nytimes.com/2022/03/29/technology/ai-robots-students-disabilities.html)
+
+  Social robots are robots used to teach social and educational skills and children with disabilities respond to robots differently than puppets or pet therapy.
+  This article the ways that social robots can be used to help these children.
+  Two examples of these robots are Jibo and [QTRobot](https://www.youtube.com/watch?v=3TJx5zX_RDo), in-home social robots for children with Autism Spectrum Disorder (ASD) in the form of a glowing table lamp developed as part of a [research study](https://www.science.org/doi/10.1126/scirobotics.aat7544) and a small full bodied robot commercially developed by LuxAI.
+  There is some questions around if robots are effective at mimicking the body language and social cues which are essential for the development of social skills.
+  Lastly, Maithile Kunda created a videogame, ["Film Detective"](https://engineering.vanderbilt.edu/news/2020/film-detective-helps-kids-with-autism-interpret-actors-actions/), to help children with autism, many whom hace superior visual thinking, by giving them visual ways to imagine theory of mind.
+  These developments introduce developments in interesting support technologies for the home and classroom, but are they as effective in the development of social skills as interacting with people are?
+  It would seem intuitive that the best way for these children to develop social skills is to socialize.
+  I liked "Film Detective" the most out of all these technologies because it seems to be the one with the least barriers. A videogame usually costs less than $50 USD, which is much more financially feasable for families than the $2000 cost of a QTRobot, not including the $129 "software subscription" cost. Will technologies that are supposed to increase accesibility to children with disabilities be financially accessible to these families?
+
 * [Why Vanderbilt baseball calls pitches on electronic wristbands and how they could improve the game](https://www.tennessean.com/story/sports/college/vanderbilt/2022/03/14/vanderbilt-baseball-pitchers-electronic-wristbands-pitch-calling-new-college-rule/9409722002/)
 
   The Vanderbilt baseball has implemented a new piece of technology this season in order to not only improve the pace of play of the game of baseball, but also to improve communication between players on their team. Basically, the players on the field all wear a wristband that has a screen that will display the pitch that the pitcher is supposed to throw. The pitcher knows what pitch he is supposed to throw instantly and so does the catcher and the rest of the fielder behind him. This means that the time it took for a catcher to relay signs from the coach to a pitcher is cut in half while also allowing for every other player on the team to know what will be thrown as well. The device works as the coach presses a button and it sends a short secure signal to each device. This device is a sign that the sports world is becoming more tech involved as for the first time we are seeing players with an electronic device on their bodies. The pitcher and catcher are able to communicate without the use of words or even hand signals. The players are able to be told what to do by their coach without the coach having to be vocal enough for the other team to hear him. These devices do not use bluetooth and have a range of about 500 feet, so even players on the opposite side of the field are able to still receive the sign from the coach.
@@ -895,4 +906,3 @@ A collection of news articles about technology and its impact on society.
   and there is certainly more incentive for Sony to purchase a multi-platform game studio.
   Nevertheless, it could also be in response to other huge acquisitions by Microsoft, including that
   of Zenimax Media Inc., the parent company of Bethesda.
-
