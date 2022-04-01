@@ -896,3 +896,13 @@ A collection of news articles about technology and its impact on society.
   Nevertheless, it could also be in response to other huge acquisitions by Microsoft, including that
   of Zenimax Media Inc., the parent company of Bethesda.
 
+* [The AI Illusion--State-of-the-Art Chatbots Aren't What They Seem](https://mindmatters.ai/2022/03/the-ai-illusion-state-of-the-art-chatbots-arent-what-they-seem/)
+
+  In this article, the author, Smith, provides several examples of conversations he had with the GPT-3 chatbot that appear to indicate human labelers manually fixed GPT-3's initial faulty response. 
+  In each of his examples, Smith asks GPT-3 an absurd question to which GPT-3 responds with either an illogical or a formatted, evasive response. 
+  The next day, Smith asks the same question, but GPT-3 now gives a sensible answer. 
+  Although OpenAI does publicize on its website that it hires 40 human contractors to clean up answers from GPT-3 that are flagged as bad, many still take GPT-3's abilities at face value. 
+  I believe the over-inflation of GPT-3's level of understanding is just one manifestation of society's general optimism and mystisism toward AI. 
+  In the case of GPT-3, these feelings are also exasperated by GPT being seen a spearhead of modern AI, a position which may also put pressure on OpenAI to uphold grand expectations.
+  
+  
