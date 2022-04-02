@@ -2,6 +2,20 @@
 
 A collection of news articles about technology and its impact on society.
 
+* ['No-Code' Brings the Power of A.I. to the Masses](https://www.nytimes.com/2022/03/15/technology/ai-no-code.html)
+
+  Sean Cusack is a Software Engineer at Microsoft who used Microsoft's [Lobe.AI](https://www.lobe.ai/) to train a computer-vision system to recognize non-bee insects in his beehive.
+  This process involved no coding and consisted of him dragging and dropping images of his bees to train the model.
+  There is a growing movement of "No Code" that makes complex computer system accessible to the public.
+  Craig Wisneski, co-founder of [Akkio](https://www.akkio.com/), created his starup to allow anyone to make prediction using data.
+  Similarly, [Juji](https://juji.io/), founded by Michelle Zhou, makes creating AI chatbots "as easy as creating a PowerPoint presentation."
+  I like the idea of bringing these technologies to the public because as it grows to more people, the limits get pushed as new ideas and needs arise.
+  With that said, I find an area of concern to be the fact that many of the popular algorithms, and the datasets used to train them, are biased in their representation of the public.
+  By bringing these tools into the hands of the public, we might be giving more power to groups that benefit from current structures of power, further disadvantaging marginalized groups.
+  If these technologies are going to be able to be used by everyone, they must do such as that.
+  They must be made for the public - must be representative of the public.
+  If these technologies aren't taking into account the vast amount of users that could use it, then it might be best to put a hold on giving out AI tools to the public who doesn't understand the deficits it may have.
+
 * [Why Vanderbilt baseball calls pitches on electronic wristbands and how they could improve the game](https://www.tennessean.com/story/sports/college/vanderbilt/2022/03/14/vanderbilt-baseball-pitchers-electronic-wristbands-pitch-calling-new-college-rule/9409722002/)
 
   The Vanderbilt baseball has implemented a new piece of technology this season in order to not only improve the pace of play of the game of baseball, but also to improve communication between players on their team. Basically, the players on the field all wear a wristband that has a screen that will display the pitch that the pitcher is supposed to throw. The pitcher knows what pitch he is supposed to throw instantly and so does the catcher and the rest of the fielder behind him. This means that the time it took for a catcher to relay signs from the coach to a pitcher is cut in half while also allowing for every other player on the team to know what will be thrown as well. The device works as the coach presses a button and it sends a short secure signal to each device. This device is a sign that the sports world is becoming more tech involved as for the first time we are seeing players with an electronic device on their bodies. The pitcher and catcher are able to communicate without the use of words or even hand signals. The players are able to be told what to do by their coach without the coach having to be vocal enough for the other team to hear him. These devices do not use bluetooth and have a range of about 500 feet, so even players on the opposite side of the field are able to still receive the sign from the coach.
@@ -895,4 +909,3 @@ A collection of news articles about technology and its impact on society.
   and there is certainly more incentive for Sony to purchase a multi-platform game studio.
   Nevertheless, it could also be in response to other huge acquisitions by Microsoft, including that
   of Zenimax Media Inc., the parent company of Bethesda.
-
