@@ -2,6 +2,21 @@
 
 A collection of news articles about technology and its impact on society.
 
+* [Can A.I. Help Casinos Cut Down on Problem Gambling?](https://www.nytimes.com/2022/03/08/technology/ai-casinos-gambling-problems.html)
+
+  Alan Feldman, a 30+ year executive with MGM Resorts International, focuses on problem gambling.
+  A few years ago, at ICE London, a mjor event in the gaming industry, showcased an AI model to identify problem gambling.
+  However, Feldman is skeptical of using AI to identify problem gambling.
+  Contrary to intuition, problem gamblers are not desirable to gambling operators since they can be fined or have their license revoked for not identifying problem gamblers.
+  So [Mindway Ai](https://mindway.ai/) developed a model to predict problem gambling using 14 factors, given a score from 1-100, such as canceled bank withdrawals, shifts in the time of day a player plays, erratic changes in wagers, and money and time spent.
+  Their motivation is that the model "predicts and catches players as their play devolves."
+  However, there is a debate of how to communicate the model's results to a player so that the behavior can be changed.
+  Feldman believes that at this stage, he is skeptical of AI's ability to do that.
+  In my opinion, the idea of tracking people's gambling behavior to catch them before they devlop a problem sounds fascinating.
+  I do believe that there is a major benefit in flaggin players who might have these problems and it is difficult to see the downside of doing so.
+  I think that if a network between gambling operators, both physically and online, were created, people with these problems would be able to be tracked so that they don't just go to a different place once one has stopped letting them play.
+  I am interested to see what kind of investments go into the actually getting people help because if the result of this is just not allowing people with problems to play they will find other options and little progress will be made.
+
 * [Why Vanderbilt baseball calls pitches on electronic wristbands and how they could improve the game](https://www.tennessean.com/story/sports/college/vanderbilt/2022/03/14/vanderbilt-baseball-pitchers-electronic-wristbands-pitch-calling-new-college-rule/9409722002/)
 
   The Vanderbilt baseball has implemented a new piece of technology this season in order to not only improve the pace of play of the game of baseball, but also to improve communication between players on their team. Basically, the players on the field all wear a wristband that has a screen that will display the pitch that the pitcher is supposed to throw. The pitcher knows what pitch he is supposed to throw instantly and so does the catcher and the rest of the fielder behind him. This means that the time it took for a catcher to relay signs from the coach to a pitcher is cut in half while also allowing for every other player on the team to know what will be thrown as well. The device works as the coach presses a button and it sends a short secure signal to each device. This device is a sign that the sports world is becoming more tech involved as for the first time we are seeing players with an electronic device on their bodies. The pitcher and catcher are able to communicate without the use of words or even hand signals. The players are able to be told what to do by their coach without the coach having to be vocal enough for the other team to hear him. These devices do not use bluetooth and have a range of about 500 feet, so even players on the opposite side of the field are able to still receive the sign from the coach.
@@ -895,4 +910,3 @@ A collection of news articles about technology and its impact on society.
   and there is certainly more incentive for Sony to purchase a multi-platform game studio.
   Nevertheless, it could also be in response to other huge acquisitions by Microsoft, including that
   of Zenimax Media Inc., the parent company of Bethesda.
-
