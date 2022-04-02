@@ -2,6 +2,21 @@
 
 A collection of news articles about technology and its impact on society.
 
+* [Google Docs will start nudging some users to write less dumbly](https://www.theverge.com/2022/4/1/23005972/google-docs-assisting-writing-active-voice-concise-inclusive-language-inappropriate-words)
+
+  Google recently began trialing a feature that would suggest ways to improve the
+  quality of writing of the user, similar to the way that applications such as
+  Grammarly already do. Although this feature already exists in other applications,
+  there has been major pushback against this feature becoming available to free
+  users as many believe that making such a feature easily accessible will decrease
+  the writing ability of the general population. Personally, I kind of agree with
+  this stance; I think that such tools do have the possibility of decreasing the
+  amount of work that we have to do as individuals. However, while the current
+  implementation might not be the best, I could see a way where Google or some
+  other company could provide explanation for the suggestion, which can help
+  improve the writing ability of users, and similar functionality could be added
+  to other apps that make tasks easier
+
 * [Using artificial intelligence to find anomalies hiding in massive datasets](https://techxplore.com/news/2022-02-artificial-intelligence-anomalies-massive-datasets.html)
 
   Some MIT researchers have created a method that is able to point out anomalies in real time from data streams in an efficient way. This model does not need to be trained on annotated data on power grid anomalies, which makes it suitable for real life situations that don’t have cleaned up data of good quality. One possible use of the model includes monitoring traffic and water systems. Although other models do exist, the researchers conclude that their model performs better when it comes to pointing out anomalies. This is because their model was able to detect a higher percent of the true anomalies that existed in the datasets that were tested.
@@ -648,4 +663,3 @@ A collection of news articles about technology and its impact on society.
   and there is certainly more incentive for Sony to purchase a multi-platform game studio.
   Nevertheless, it could also be in response to other huge acquisitions by Microsoft, including that
   of Zenimax Media Inc., the parent company of Bethesda.
-
