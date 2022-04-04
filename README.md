@@ -2,6 +2,18 @@
 
 A collection of news articles about technology and its impact on society.
 
+* [Blockchains Have a ‘Bridge’ Problem, and Hackers Know It](https://www.wired.com/story/blockchain-network-bridge-hacks/)
+
+  This article highlights the issue of hacker attacks against Blockchain bridges. A recent attack happened against Ronin Network, a blockchain transaction
+  platform, that saw $540 million worth of cryptocurrency stolen. Related attacks happened in early 2022 with attackers stealing millions from other blockchain bridges,
+  such as from Quibit Bridge and Wormhole bridge. Experts highlight that part of the hacker's success stems from poor security practice and monitoring of these blockchain bridges, 
+  which is what happened with Ronin when they were not aware of their security compromise on March 23 before the actual attack. Though I am not a blockchain enthusiast,
+  it's clear that blockchain technology will continue to grow if people and entities are willing to put millions of dollars in digital currency in the hands of these blockchain platforms.
+  However, I believe these hacker attacks should be seen as something to expect, since these blockchain bridges do keep storage of cryptocurrency, much like a reserve currency, making them
+  digital banks. As such, there should be standardized security protocols for these platforms to perform and follow, since preparation provides a good measure to better withstand these attacks. 
+  Nonetheless, being proactive in the security of blockchain technology will better serve the people and companies that choose to invest in digital currency as the relationship between finance 
+  and technology continues to evolve.
+
 * [Why Vanderbilt baseball calls pitches on electronic wristbands and how they could improve the game](https://www.tennessean.com/story/sports/college/vanderbilt/2022/03/14/vanderbilt-baseball-pitchers-electronic-wristbands-pitch-calling-new-college-rule/9409722002/)
 
   The Vanderbilt baseball has implemented a new piece of technology this season in order to not only improve the pace of play of the game of baseball, but also to improve communication between players on their team. Basically, the players on the field all wear a wristband that has a screen that will display the pitch that the pitcher is supposed to throw. The pitcher knows what pitch he is supposed to throw instantly and so does the catcher and the rest of the fielder behind him. This means that the time it took for a catcher to relay signs from the coach to a pitcher is cut in half while also allowing for every other player on the team to know what will be thrown as well. The device works as the coach presses a button and it sends a short secure signal to each device. This device is a sign that the sports world is becoming more tech involved as for the first time we are seeing players with an electronic device on their bodies. The pitcher and catcher are able to communicate without the use of words or even hand signals. The players are able to be told what to do by their coach without the coach having to be vocal enough for the other team to hear him. These devices do not use bluetooth and have a range of about 500 feet, so even players on the opposite side of the field are able to still receive the sign from the coach.
