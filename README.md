@@ -2,6 +2,21 @@
 
 A collection of news articles about technology and its impact on society.
 
+* [A New City, Built Upon Data, Takes Shape in South Korea](https://www.nytimes.com/2022/03/28/technology/eco-delta-smart-village-busan-south-korea.html)
+
+  In Busan, South Korea, 54 volunteers are part of a five year study in the Eco Delta Smart Village.
+  At the end of the development, "the Eco Delta Smart City development will total 30,000 homes across 11.8 square kilometers, or 4.5 square miles, of coastal wetlands, in the Nakdong River delta, at a cost of about 6.6 trillion Korean won, or about $5.6 billion."
+  Unlike in other places, the attempt here is to build a smart city from scratch.
+  The current residents, the 54 volunteers, live there rent free, only having to pay for electricity and water, in exchange for there data, to be studied by "developers, appliance manufacturers, the government and health care experts."
+  The goal is to be as sustainable as possible by watering green spaces with recylcled water and powering the village with hydroelectic and solar power.
+  I find the idea interesting but have reservations about the scalability of this idea.
+  Sustainability in urban areas is incredibly important and the methods they chose are good ones, however, the surrounding area is still being converted from wetlands to urban developments.
+  With the fact that this is a model for creating more sustainable, technology-heavy cities in the future, I think about the cost associated with living in a smart home.
+  How financially accessible will these be for people?
+  Will is cause a geographic stratification of people with enough money to live in a smart city and those who must remain, or leave to, a traditional one?
+  Also, it seems that this city is influenced by the day-to-day patterns of its residents but how does that work when you have a large city with a multitude of different routines?
+  This concept is fascinating, but I maintain an amount of skepticism.
+
 * [Why Vanderbilt baseball calls pitches on electronic wristbands and how they could improve the game](https://www.tennessean.com/story/sports/college/vanderbilt/2022/03/14/vanderbilt-baseball-pitchers-electronic-wristbands-pitch-calling-new-college-rule/9409722002/)
 
   The Vanderbilt baseball has implemented a new piece of technology this season in order to not only improve the pace of play of the game of baseball, but also to improve communication between players on their team. Basically, the players on the field all wear a wristband that has a screen that will display the pitch that the pitcher is supposed to throw. The pitcher knows what pitch he is supposed to throw instantly and so does the catcher and the rest of the fielder behind him. This means that the time it took for a catcher to relay signs from the coach to a pitcher is cut in half while also allowing for every other player on the team to know what will be thrown as well. The device works as the coach presses a button and it sends a short secure signal to each device. This device is a sign that the sports world is becoming more tech involved as for the first time we are seeing players with an electronic device on their bodies. The pitcher and catcher are able to communicate without the use of words or even hand signals. The players are able to be told what to do by their coach without the coach having to be vocal enough for the other team to hear him. These devices do not use bluetooth and have a range of about 500 feet, so even players on the opposite side of the field are able to still receive the sign from the coach.
@@ -895,4 +910,3 @@ A collection of news articles about technology and its impact on society.
   and there is certainly more incentive for Sony to purchase a multi-platform game studio.
   Nevertheless, it could also be in response to other huge acquisitions by Microsoft, including that
   of Zenimax Media Inc., the parent company of Bethesda.
-
