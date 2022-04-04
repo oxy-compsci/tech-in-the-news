@@ -2,6 +2,19 @@
 
 A collection of news articles about technology and its impact on society.
 
+* [Hugs to Boring: The Tech That Holds Us Up](https://www.nytimes.com/2022/03/31/technology/hugs-to-boring.html)
+
+  It's easy to forget the technologies that are no longer new but core to how our daily lives run.
+  The week this article came out HP, a company that sells printers and computers, aquired Poly, a company that sells office audio equipment.
+  These things aren't as flashy as the new technologies coming out of Silicon Valley but are integral for companies to run.
+  People are very unlikely to be familiar with all the technologies intertwined in their life, such as the server that streams their movie from Netflix, the [Epic](https://www.epic.com/) software that holds their healthcare records, or the software that processes their paychecks.
+  However, much of this important technology is outdated but the dullness of this technology limits interest in making it better despite the fact that it will outlast many of the new startups (e.g. food delivery services).
+  I found topic of this article quite interesting because I hadn't thought about the legacy technologies that help to run our daily lives in quite some time.
+  There is little to know glamour in the "regular" technologies but I feel that they are the areas where the most investments should be made.
+  In recent years, California residents may have noticed the [redesigned DMV website](https://www.dmv.ca.gov/portal/news-and-media/dmv-launches-redesigned-website/) which now has many more services and resources.
+  Now this website is not without its faults but having working and secure technology for people to submit and manage applications, locate resources and documents, schedule appointments, etc. is incredibly important.
+  Automating the things that can be automated is likely to make the lives of the users and DMV employees much easier, so I feel that these kinds of technologies should be valued more.
+
 * [Why Vanderbilt baseball calls pitches on electronic wristbands and how they could improve the game](https://www.tennessean.com/story/sports/college/vanderbilt/2022/03/14/vanderbilt-baseball-pitchers-electronic-wristbands-pitch-calling-new-college-rule/9409722002/)
 
   The Vanderbilt baseball has implemented a new piece of technology this season in order to not only improve the pace of play of the game of baseball, but also to improve communication between players on their team. Basically, the players on the field all wear a wristband that has a screen that will display the pitch that the pitcher is supposed to throw. The pitcher knows what pitch he is supposed to throw instantly and so does the catcher and the rest of the fielder behind him. This means that the time it took for a catcher to relay signs from the coach to a pitcher is cut in half while also allowing for every other player on the team to know what will be thrown as well. The device works as the coach presses a button and it sends a short secure signal to each device. This device is a sign that the sports world is becoming more tech involved as for the first time we are seeing players with an electronic device on their bodies. The pitcher and catcher are able to communicate without the use of words or even hand signals. The players are able to be told what to do by their coach without the coach having to be vocal enough for the other team to hear him. These devices do not use bluetooth and have a range of about 500 feet, so even players on the opposite side of the field are able to still receive the sign from the coach.
@@ -895,4 +908,3 @@ A collection of news articles about technology and its impact on society.
   and there is certainly more incentive for Sony to purchase a multi-platform game studio.
   Nevertheless, it could also be in response to other huge acquisitions by Microsoft, including that
   of Zenimax Media Inc., the parent company of Bethesda.
-
