@@ -2,6 +2,17 @@
 
 A collection of news articles about technology and its impact on society.
 
+* [How Robots Can Assist Students With Disabilities?](https://www.nytimes.com/2022/03/29/technology/ai-robots-students-disabilities.html)
+
+  Social robots are robots used to teach social and educational skills and children with disabilities respond to robots differently than puppets or pet therapy.
+  This article the ways that social robots can be used to help these children.
+  Two examples of these robots are Jibo and [QTRobot](https://www.youtube.com/watch?v=3TJx5zX_RDo), in-home social robots for children with Autism Spectrum Disorder (ASD) in the form of a glowing table lamp developed as part of a [research study](https://www.science.org/doi/10.1126/scirobotics.aat7544) and a small full bodied robot commercially developed by LuxAI.
+  There is some questions around if robots are effective at mimicking the body language and social cues which are essential for the development of social skills.
+  Lastly, Maithile Kunda created a videogame, ["Film Detective"](https://engineering.vanderbilt.edu/news/2020/film-detective-helps-kids-with-autism-interpret-actors-actions/), to help children with autism, many whom hace superior visual thinking, by giving them visual ways to imagine theory of mind.
+  These developments introduce developments in interesting support technologies for the home and classroom, but are they as effective in the development of social skills as interacting with people are?
+  It would seem intuitive that the best way for these children to develop social skills is to socialize.
+  I liked "Film Detective" the most out of all these technologies because it seems to be the one with the least barriers. A videogame usually costs less than $50 USD, which is much more financially feasable for families than the $2000 cost of a QTRobot, not including the $129 "software subscription" cost. Will technologies that are supposed to increase accesibility to children with disabilities be financially accessible to these families?
+
 * [Beating noise pollution with smart tech](https://www.bbc.com/news/business-60858571)
 
   Noise pollution is an underestimated threat that effects millions worldwide, mainly in urban areas. Noise pollution can cause short and long term health problems such as sleep disturbance, cardiovascular problems, poor work and school performance, and hearing impariment. Tech companies like Silentium have taken note of this and attempted to derive a solution. They have a "Quiet Bubble" system that can significantly reduce unwanted noise using active noise cancellation. At its core, the system works by using a microphone to take in external noise and process it, then it uses a speaker to release the same sound waves but in oppposite phase. This creates interference and cancels out most of each sound. This technology has existed in noise cancelling headphones for years but Silentium is trying to integrate it in peoples personal lives, in cars or homes for example. I think that tech companies using their technology to help society with ever emerging new issues such as increased noise pollution is always a positive. This specific issue is interesing because while it affects millions worldwide, it is largely ignored by society. As a result, I am skeptical of the long term popularity of this technology because many will chose to save money and continue to cope with their city's noise.
