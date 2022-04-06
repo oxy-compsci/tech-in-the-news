@@ -2,6 +2,18 @@
 
 A collection of news articles about technology and its impact on society.
 
+* [Blockchains Have a ‘Bridge’ Problem, and Hackers Know It](https://www.wired.com/story/blockchain-network-bridge-hacks/)
+
+  This article highlights the issue of hacker attacks against Blockchain bridges. A recent attack happened against Ronin Network, a blockchain transaction
+  platform, that saw $540 million worth of cryptocurrency stolen. Related attacks happened in early 2022 with attackers stealing millions from other blockchain bridges,
+  such as from Quibit Bridge and Wormhole bridge. Experts highlight that part of the hacker's success stems from poor security practice and monitoring of these blockchain bridges,
+  which is what happened with Ronin when they were not aware of their security compromise on March 23 before the actual attack. Though I am not a blockchain enthusiast,
+  it's clear that blockchain technology will continue to grow if people and entities are willing to put millions of dollars in digital currency in the hands of these blockchain platforms.
+  However, I believe these hacker attacks should be seen as something to expect, since these blockchain bridges do keep storage of cryptocurrency, much like a reserve currency, making them
+  digital banks. As such, there should be standardized security protocols for these platforms to perform and follow, since preparation provides a good measure to better withstand these attacks.
+  Nonetheless, being proactive in the security of blockchain technology will better serve the people and companies that choose to invest in digital currency as the relationship between finance
+  and technology continues to evolve.
+
 * [The 3G shutdown will affect everyday devices you probably own](https://www.cnn.com/2022/02/15/tech/3g-network-shut-down/index.html)
 
   The shutdown of the 3G network will affect more than just old smartphones. Since 4G and 5G networks are better than 3G many companies are switching over and this means alot of systems that use 3G will not work anymore. Although companies can reach out to their customers to let them know about the change, there can still be people who won't realize the change and will be left exposed to potential threats. This can become dangerous for people with security systems that will act as if they are fine but will in reality not be connected to the security companies' central service. Hopefully companies will learn and become better at communicating to their customers the possibility of this happening in the future when the next generation of networks comes out.
