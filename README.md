@@ -2,6 +2,10 @@
 
 A collection of news articles about technology and its impact on society.
 
+* [We met the founder of Europe's largest vertical farm](https://thechoice.escp.eu/their-choice/we-met-the-founder-of-europes-largest-vertical-farm/amp/)
+
+  Nordic Harvest, Europe's largest vertical farm, is located in the Danish city of Taastrup, and spans over 7,000 square feet with 14 levels of agriculture. Providing about 5% of Denmark's consumption, the farm produces over 1,000 tons of salad and herbs each year, powered entirely by wind energy and low-energy LEDs. Vertical farming is an incredible tool for resource optimization, providing crops that can be harvested much more frequently than regular, keep for longer without rotting, use zero pesticides, and maintain the same flavor and nutritional profile. Because of this effectivness, vertical farming has the potential to greatly supplement the food supply chain, reduce food waste, and reduce food transportation. Thus, even though the intial cost of vertical farming infrastructure is hefty, vertical farming is in a position to support the never-ending rise in human population alongside booming urbanization while still reducing energy consumption and waste.
+
 * [What problems will autonomous robots really solve?](https://bdtechtalks.com/2021/03/19/autonomous-robots-applications/#:~:text=Starting%20with%20industries%20as%20basic,fertilizer%2C%20pesticide%2C%20and%20herbicide.)
 
   The technology offered by autonomous robots poses tremendous opportunities to both
