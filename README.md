@@ -2,6 +2,20 @@
 
 A collection of news articles about technology and its impact on society.
 
+* ['No-Code' Brings the Power of A.I. to the Masses](https://www.nytimes.com/2022/03/15/technology/ai-no-code.html)
+
+  Sean Cusack is a Software Engineer at Microsoft who used Microsoft's [Lobe.AI](https://www.lobe.ai/) to train a computer-vision system to recognize non-bee insects in his beehive.
+  This process involved no coding and consisted of him dragging and dropping images of his bees to train the model.
+  There is a growing movement of "No Code" that makes complex computer system accessible to the public.
+  Craig Wisneski, co-founder of [Akkio](https://www.akkio.com/), created his starup to allow anyone to make prediction using data.
+  Similarly, [Juji](https://juji.io/), founded by Michelle Zhou, makes creating AI chatbots "as easy as creating a PowerPoint presentation."
+  I like the idea of bringing these technologies to the public because as it grows to more people, the limits get pushed as new ideas and needs arise.
+  With that said, I find an area of concern to be the fact that many of the popular algorithms, and the datasets used to train them, are biased in their representation of the public.
+  By bringing these tools into the hands of the public, we might be giving more power to groups that benefit from current structures of power, further disadvantaging marginalized groups.
+  If these technologies are going to be able to be used by everyone, they must do such as that.
+  They must be made for the public - must be representative of the public.
+  If these technologies aren't taking into account the vast amount of users that could use it, then it might be best to put a hold on giving out AI tools to the public who doesn't understand the deficits it may have.
+
 * [Can A.I. Help Casinos Cut Down on Problem Gambling?](https://www.nytimes.com/2022/03/08/technology/ai-casinos-gambling-problems.html)
 
   Alan Feldman, a 30+ year executive with MGM Resorts International, focuses on problem gambling.
