@@ -2,6 +2,19 @@
 
 A collection of news articles about technology and its impact on society.
 
+* [Talk with your dead loved ones – through a chatbot](https://www.cnet.com/culture/hereafter-ai-lets-you-talk-with-your-dead-loved-ones-through-a-chatbot/)
+
+  A man named James Vlahos lost his father to cancer in 2017 but still chats with him all the time
+  thanks to a chatbot he created called “Dadbot.” Vlahos spent months recording his dad’s life
+  stories, then turned them into an interactive AI that speaks in his father’s voice. Vlahos is
+  bringing his technology to HereAfter AI, one of many startups promising digital immortality
+  through chatbots, AI, and even holograms. The prospect of communicating with virtual versions
+  of dead family members of friends is certainly controversial. On the one had this can be a great
+  initiative, helping people through their grieving process. On the other hand, it can be considered
+  creepy and can be potentially dangerous if the AI reveals information about the person, that
+  wasn't communicated while they were alive, which can create confusion or even resentment.
+  This also poses ethical concerns and begs philosophical questions.
+
 * [The Fragile Open Source Ecosystem Isn’t Ready for ‘Protestware’](https://www.wired.com/story/open-source-sabotage-protestware/)
 
   Russia's invasion of Ukraine sent shockwaves across the globe. Now it seems these shockwaves are beginning to make their way into open source software. Over the past week those maintaining such open source code bases have begun to find a series of deliberate attempts at sabotage. These attempts at sabotage are targeted specifically at Russian machines as a means to support Ukrainian war efforts. Open source projects have been embedded with various forms of malware, from data wipers to ransomware attacks. This proves troubling to an already shaky space as many open source projects are severely underfunded or understaffed, often times both. This can mean the vandalized could can go unnoticed. This not only sets a dangerous precedent for software to take a political stance, but it also severely undermines public opinion and faith in the open source ecosystem.
@@ -965,18 +978,4 @@ A collection of news articles about technology and its impact on society.
   and there is certainly more incentive for Sony to purchase a multi-platform game studio.
   Nevertheless, it could also be in response to other huge acquisitions by Microsoft, including that
   of Zenimax Media Inc., the parent company of Bethesda.
-
-* [Talk with your dead loved ones – through a chatbot](https://www.cnet.com/culture/hereafter-ai-lets-you-talk-with-your-dead-loved-ones-through-a-chatbot/)
-
-  A man named James Vlahos lost his father to cancer in 2017 but still chats with him all the time 
-  thanks to a chatbot he created called “Dadbot.” Vlahos spent months recording his dad’s life 
-  stories, then turned them into an interactive AI that speaks in his father’s voice. Vlahos is 
-  bringing his technology to HereAfter AI, one of many startups promising digital immortality 
-  through chatbots, AI, and even holograms. The prospect of communicating with virtual versions 
-  of dead family members of friends is certainly controversial. On the one had this can be a great 
-  initiative, helping people through their grieving process. On the other hand, it can be considered 
-  creepy and can be potentially dangerous if the AI reveals information about the person, that 
-  wasn't communicated while they were alive, which can create confusion or even resentment. 
-  This also poses ethical concerns and begs philosophical questions.
-
 
