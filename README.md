@@ -2,6 +2,21 @@
 
 A collection of news articles about technology and its impact on society.
 
+* [A New City, Built Upon Data, Takes Shape in South Korea](https://www.nytimes.com/2022/03/28/technology/eco-delta-smart-village-busan-south-korea.html)
+
+  In Busan, South Korea, 54 volunteers are part of a five year study in the Eco Delta Smart Village.
+  At the end of the development, "the Eco Delta Smart City development will total 30,000 homes across 11.8 square kilometers, or 4.5 square miles, of coastal wetlands, in the Nakdong River delta, at a cost of about 6.6 trillion Korean won, or about $5.6 billion."
+  Unlike in other places, the attempt here is to build a smart city from scratch.
+  The current residents, the 54 volunteers, live there rent free, only having to pay for electricity and water, in exchange for there data, to be studied by "developers, appliance manufacturers, the government and health care experts."
+  The goal is to be as sustainable as possible by watering green spaces with recylcled water and powering the village with hydroelectic and solar power.
+  I find the idea interesting but have reservations about the scalability of this idea.
+  Sustainability in urban areas is incredibly important and the methods they chose are good ones, however, the surrounding area is still being converted from wetlands to urban developments.
+  With the fact that this is a model for creating more sustainable, technology-heavy cities in the future, I think about the cost associated with living in a smart home.
+  How financially accessible will these be for people?
+  Will is cause a geographic stratification of people with enough money to live in a smart city and those who must remain, or leave to, a traditional one?
+  Also, it seems that this city is influenced by the day-to-day patterns of its residents but how does that work when you have a large city with a multitude of different routines?
+  This concept is fascinating, but I maintain an amount of skepticism.
+
 * [Hugs to Boring: The Tech That Holds Us Up](https://www.nytimes.com/2022/03/31/technology/hugs-to-boring.html)
 
   It's easy to forget the technologies that are no longer new but core to how our daily lives run.
