@@ -927,3 +927,13 @@ A collection of news articles about technology and its impact on society.
   Nevertheless, it could also be in response to other huge acquisitions by Microsoft, including that
   of Zenimax Media Inc., the parent company of Bethesda.
 
+* [What problems will autonomous robots really solve?](https://bdtechtalks.com/2021/03/19/autonomous-robots-applications/#:~:text=Starting%20with%20industries%20as%20basic,fertilizer%2C%20pesticide%2C%20and%20herbicide.)
+  The technology offered by autonomous robots poses tremendous opportunities to both 
+  substitute absent skilled labor and augment existing skilled labor by addressing repeatable, 
+  tedious, or menial tasks at higher efficiencies, with greater resource utilization. Incorporating
+  autonomous systems will not only limit the need for direct human labor, but also much of the 
+  cost involved with keeping manufacturing facilities hospitable to human presence such as costly 
+  heating and cooling systems. More adaptations can be made towards energy and materials 
+  efficiency that is currently possible. Autonomous systems can also significantly decrease rework 
+  and resource waste which benefits the environment in the grand scheme of things.
+  
