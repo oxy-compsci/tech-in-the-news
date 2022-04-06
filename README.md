@@ -2,6 +2,22 @@
 
 A collection of news articles about technology and its impact on society.
 
+* [Museums Are Cashing In on NFTs](https://www.nytimes.com/2022/03/25/arts/design/museums-nfts.html)
+
+  Due to pandemic-related lockdowns and reprioritized government spending have put the world’s public museums under financial pressure.
+  To raise fund, museums are turning to nonfungible tokens (NFTs) of art reproductions.
+  In Unit London, an art dealership in London, there was an elaborately framed LED screen with a digital replica of Leonardo da Vinci’s “Portrait of a Musician” glowing on their gallery wall.
+  That piece was part of the ["Eternalizing Art History"](https://unitlondon.com/whats-on/98-eternalising-art-history-from-da-vinci-to-modigliani/) exhibition at Unit London, an attempt by cash-poor museums to generate money by selling NFTs.
+  Another notable example, the State Hermitage Museum, in St. Petersburg, Russia, which last September held an [auction of NFT replicas](https://cointelegraph.com/news/russian-state-hermitage-raises-440k-via-binance-nft-auction) of five of its best-known paintings that raised $444,000.
+  However, museums are hesitant to sell NFTs because many of them rely on public opinion and the environmental concerns around NFTs are quite deterring.
+  According to one estimate, the computing power required to mint one NFT generates the same amount of greenhouse gas as a 500-mile journey in a gasoline-powered car.
+  I find this as an interesting, and unexpected, move from museums.
+  I never would have concieved this as an option, but that may be due to the fact I have no interest in NFTs.
+  Sharing the concern for the environemental impact of NFTs, I don't think that this is a good alternative for museums, as least with energy cost that is currently required to create an NFT.
+  NFTs are volatile and I don't think museums should have to rely on them in order to sustain themselves.
+  With that said, I am in support of digital exhibitions.
+  Unlike physical ones, I think that it is easier to turn a set of pieces into an experience, accompanied by audio, visuals, and context around the pieces, such as the [online exhibition on arpilleras](https://molaa.org/arte-mujer-memoria-exhibition) by the Musuem of Latin American Art in Los Angeles.
+
 * [A New City, Built Upon Data, Takes Shape in South Korea](https://www.nytimes.com/2022/03/28/technology/eco-delta-smart-village-busan-south-korea.html)
 
   In Busan, South Korea, 54 volunteers are part of a five year study in the Eco Delta Smart Village.
