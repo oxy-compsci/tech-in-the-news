@@ -908,3 +908,21 @@ A collection of news articles about technology and its impact on society.
   Nevertheless, it could also be in response to other huge acquisitions by Microsoft, including that
   of Zenimax Media Inc., the parent company of Bethesda.
 
+* [After being pushed out of Google, Timnit Gebru forms her own AI research institute: DAIR](https://techcrunch.com/2021/12/02/google-timnit-gebru-ai-research-dair/)
+
+  Timnit Gebru, a leader and expert in AI ethics, has started the DAIR research institute to address ethics in AI topics 
+  after being fired from Google. This institution will be independently funded, producing academic papers free of the 
+  traditional pressures in academia and the overhead of corporate research. The institute has raised $3.7 million, 
+  enough to keep the institution afloat for the foreseeable future. This move notes the need for research on the ethics 
+  of AI separate from companies implementing AI who might influence the research and findings based on their own 
+  desires.
+
+* [Flawed data is putting people with disabilities at risk](https://techcrunch.com/2021/04/19/flawed-data-is-putting-people-with-disabilities-at-risk/)
+
+  This article articulates that AI is trained to look for patterns and groups, disregarding outliers as noise, which is 
+  incredibly problematic for the disabled community, whose disabilities are diverse and, in turn, require a nuanced 
+  approach to understand and address. This article uses anecdotes to convey this point, addressing the case of Elaine 
+  Herzberg, a woman who was hit and killed from a self-driving car when she was pushing a bicycle and the self-driving 
+  vehicle failed to categorize her, leading others in the disabled community to worry about how such cars will address 
+  wheelchairs and scooters. AI is trained on data, and if this data isn't fully inclusive, it lends itself to 
+  problematic AI which threatens to exclude minority groups and overlook important societal issues.
