@@ -2,6 +2,10 @@
 
 A collection of news articles about technology and its impact on society.
 
+* [Okta Concedes Hundreds of Clients Could Be Affected By Breach](https://apple.news/AAmMv56sOR3K8vYSO6jzytw)
+
+  Okta is a commonly used identity authentication provider, and in January there was a breach in their security. The breach in security was caused by a hacking group named Lapsus$, because of them there are an estimated 2.5% of users whose data may have now been viewed or acted upon. This hacking simply emphasizes the need to focus on cybersecurity, especially with applications like Okta which holds a lot of important information. This article also reminds users that nothing is perfectly secure yet, and to be prepared for the risk that comes with entering your data online.
+
 * [Russian invasion of Ukraine to further strain U.S. chip supply for auto, tech industries](https://www.msn.com/en-us/money/companies/russian-invasion-of-ukraine-to-further-strain-us-chip-supply-for-auto-tech-industries/ar-AAUfSpP)
 
   This article claims that Russia's invasion of Ukraine will further strain chip supply for the entire technology industry, as well as other industries that incorporate chips into their products. Chip manufacturers were expecting the strain to ease gradually through 2022, but the war in Ukraine will impact the availiability of palladium and neon; 33% of the world's supply of palladium is sourced from Russia, and the all of the US' neon gas supply is sourced from there as well. However, many large companies have stated that the current impact of this is limited due to their stockpiles of material and continued diversification of their sources.
