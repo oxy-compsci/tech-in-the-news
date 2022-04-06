@@ -2,6 +2,21 @@
 
 A collection of news articles about technology and its impact on society.
 
+* [Can A.I. Help Casinos Cut Down on Problem Gambling?](https://www.nytimes.com/2022/03/08/technology/ai-casinos-gambling-problems.html)
+
+  Alan Feldman, a 30+ year executive with MGM Resorts International, focuses on problem gambling.
+  A few years ago, at ICE London, a mjor event in the gaming industry, showcased an AI model to identify problem gambling.
+  However, Feldman is skeptical of using AI to identify problem gambling.
+  Contrary to intuition, problem gamblers are not desirable to gambling operators since they can be fined or have their license revoked for not identifying problem gamblers.
+  So [Mindway Ai](https://mindway.ai/) developed a model to predict problem gambling using 14 factors, given a score from 1-100, such as canceled bank withdrawals, shifts in the time of day a player plays, erratic changes in wagers, and money and time spent.
+  Their motivation is that the model "predicts and catches players as their play devolves."
+  However, there is a debate of how to communicate the model's results to a player so that the behavior can be changed.
+  Feldman believes that at this stage, he is skeptical of AI's ability to do that.
+  In my opinion, the idea of tracking people's gambling behavior to catch them before they devlop a problem sounds fascinating.
+  I do believe that there is a major benefit in flaggin players who might have these problems and it is difficult to see the downside of doing so.
+  I think that if a network between gambling operators, both physically and online, were created, people with these problems would be able to be tracked so that they don't just go to a different place once one has stopped letting them play.
+  I am interested to see what kind of investments go into the actually getting people help because if the result of this is just not allowing people with problems to play they will find other options and little progress will be made.
+
 * [How Native Americans Are Trying to Debug A.I.’s Biases](https://www.nytimes.com/2022/03/22/technology/ai-data-indigenous-ivow.html)
 
   At the annual conference for the American Indian Science and Engineering Society there was a workshop, Teaching Heritage to Artificial Intelligence Through Storytelling, where Native American technology students were tasked with putting tags on culturally relevent images.
