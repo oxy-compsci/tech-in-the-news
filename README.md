@@ -2,6 +2,19 @@
 
 A collection of news articles about technology and its impact on society.
 
+* [Hugs to Boring: The Tech That Holds Us Up](https://www.nytimes.com/2022/03/31/technology/hugs-to-boring.html)
+
+  It's easy to forget the technologies that are no longer new but core to how our daily lives run.
+  The week this article came out HP, a company that sells printers and computers, aquired Poly, a company that sells office audio equipment.
+  These things aren't as flashy as the new technologies coming out of Silicon Valley but are integral for companies to run.
+  People are very unlikely to be familiar with all the technologies intertwined in their life, such as the server that streams their movie from Netflix, the [Epic](https://www.epic.com/) software that holds their healthcare records, or the software that processes their paychecks.
+  However, much of this important technology is outdated but the dullness of this technology limits interest in making it better despite the fact that it will outlast many of the new startups (e.g. food delivery services).
+  I found topic of this article quite interesting because I hadn't thought about the legacy technologies that help to run our daily lives in quite some time.
+  There is little to know glamour in the "regular" technologies but I feel that they are the areas where the most investments should be made.
+  In recent years, California residents may have noticed the [redesigned DMV website](https://www.dmv.ca.gov/portal/news-and-media/dmv-launches-redesigned-website/) which now has many more services and resources.
+  Now this website is not without its faults but having working and secure technology for people to submit and manage applications, locate resources and documents, schedule appointments, etc. is incredibly important.
+  Automating the things that can be automated is likely to make the lives of the users and DMV employees much easier, so I feel that these kinds of technologies should be valued more.
+
 * [Google Tests Catching Heart, Eye Issues From Smartphone Sensors](https://www.usnews.com/news/technology/articles/2022-03-24/google-tests-catching-heart-eye-issues-from-smartphone-sensors)
 
   Google has plans to use smartphones to capture heart sounds and eye images in order to help users see their risks for potential health issues. For example, by listening to heartbeats and murmurs, the smartphone could potentially detect heart valve disorders. I have mixed feelings about this. Assuming there will be no to little monetary cost to users who make use of these services, this would help make healthcare accessible to a wide range of people including people located far from medical facilities and also people with lower incomes. However, since the service measures for elevated risk and does not provide a confirmed diagnosis, it could potentially cause unnecessary worry among its users when they are falsely told they may have a health condition.
