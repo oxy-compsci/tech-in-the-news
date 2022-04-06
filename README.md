@@ -2,6 +2,15 @@
 
 A collection of news articles about technology and its impact on society.
 
+* [The AI Illusion--State-of-the-Art Chatbots Aren't What They Seem](https://mindmatters.ai/2022/03/the-ai-illusion-state-of-the-art-chatbots-arent-what-they-seem/)
+
+  In this article, the author, Smith, provides several examples of conversations he had with the GPT-3 chatbot that appear to indicate human labelers manually fixed GPT-3's initial faulty response.
+  In each of his examples, Smith asks GPT-3 an absurd question to which GPT-3 responds with either an illogical or a formatted, evasive response.
+  The next day, Smith asks the same question, but GPT-3 now gives a sensible answer.
+  Although OpenAI does publicize on its website that it hires 40 human contractors to clean up answers from GPT-3 that are flagged as bad, many still take GPT-3's abilities at face value.
+  I believe the over-inflation of GPT-3's level of understanding is just one manifestation of society's general optimism and mystisism toward AI.
+  In the case of GPT-3, these feelings are also exasperated by GPT being seen a spearhead of modern AI, a position which may also put pressure on OpenAI to uphold grand expectations.
+
 * [Uber may be close to making a deal with SF taxis to allow Uber users to hail a taxi through the app](https://www.nytimes.com/2022/03/28/technology/uber-taxis-san-francisco-deal.html)
 
   This article discusses Uber's plans to make connections with San Francisco taxi services and allow customers to hail taxis through the Uber app. The article talks about how this is an interesting move, because in the past, especially in San Francisco, Uber and Taxi companies have been in strong opposition. If this agreement is to actually work out, it would emphasize the amount of power that tech companies like Uber have in getting their way. However, the article discusses that there is a significant amount of resistance to this; taxi drivers are concerned that too much power would be given to Uber in affecting their pricing, as well as their autonomy as taxi drivers. I agree that this could be concerning, because Uber has a record of not looking out for their driver's best interests. The article discussed the history of Uber refusing to recognize their drivers as employees, instead considering them as independent contractors, which means that the company is not required to provide as many benefits to drivers, and they have less protections in terms of general job security. I found this article interesting because I am fascinated by the interactions between these large, powerful tech companies and legislation, because oftentimes there is little precedent for the actions that these companies are taking, which makes it very hard to regulate. Additionally, with the pace that technology moves at, it is nearly impossible for our legislation to keep up. I think that for this specific example that Uber is looking to gain power over one of the main groups that oppose it (Taxi services), and I think that it is important for those in opposition to this to have a strong platform to fight against it, because I personally don't think it is in the best interest of the taxi companies, and Uber is just looking to grab more power and squash its competition. I think overall this article well encapsulates the current state of our society in relation to large, powerful tech companies, and emphasizes that we need to keep up in terms of regulations and laws that adequately control these companies.
@@ -1014,13 +1023,3 @@ A collection of news articles about technology and its impact on society.
   Nevertheless, it could also be in response to other huge acquisitions by Microsoft, including that
   of Zenimax Media Inc., the parent company of Bethesda.
 
-* [The AI Illusion--State-of-the-Art Chatbots Aren't What They Seem](https://mindmatters.ai/2022/03/the-ai-illusion-state-of-the-art-chatbots-arent-what-they-seem/)
-
-  In this article, the author, Smith, provides several examples of conversations he had with the GPT-3 chatbot that appear to indicate human labelers manually fixed GPT-3's initial faulty response. 
-  In each of his examples, Smith asks GPT-3 an absurd question to which GPT-3 responds with either an illogical or a formatted, evasive response. 
-  The next day, Smith asks the same question, but GPT-3 now gives a sensible answer. 
-  Although OpenAI does publicize on its website that it hires 40 human contractors to clean up answers from GPT-3 that are flagged as bad, many still take GPT-3's abilities at face value. 
-  I believe the over-inflation of GPT-3's level of understanding is just one manifestation of society's general optimism and mystisism toward AI. 
-  In the case of GPT-3, these feelings are also exasperated by GPT being seen a spearhead of modern AI, a position which may also put pressure on OpenAI to uphold grand expectations.
-  
-  
