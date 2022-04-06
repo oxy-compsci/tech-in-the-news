@@ -2,6 +2,21 @@
 
 A collection of news articles about technology and its impact on society.
 
+* [Google Docs will start nudging some users to write less dumbly](https://www.theverge.com/2022/4/1/23005972/google-docs-assisting-writing-active-voice-concise-inclusive-language-inappropriate-words)
+
+  Google recently began trialing a feature that would suggest ways to improve the
+  quality of writing of the user, similar to the way that applications such as
+  Grammarly already do. Although this feature already exists in other applications,
+  there has been major pushback against this feature becoming available to free
+  users as many believe that making such a feature easily accessible will decrease
+  the writing ability of the general population. Personally, I kind of agree with
+  this stance; I think that such tools do have the possibility of decreasing the
+  amount of work that we have to do as individuals. However, while the current
+  implementation might not be the best, I could see a way where Google or some
+  other company could provide explanation for the suggestion, which can help
+  improve the writing ability of users, and similar functionality could be added
+  to other apps that make tasks easier
+
 * ['No-Code' Brings the Power of A.I. to the Masses](https://www.nytimes.com/2022/03/15/technology/ai-no-code.html)
 
   Sean Cusack is a Software Engineer at Microsoft who used Microsoft's [Lobe.AI](https://www.lobe.ai/) to train a computer-vision system to recognize non-bee insects in his beehive.
