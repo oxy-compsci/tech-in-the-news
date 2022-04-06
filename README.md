@@ -1080,3 +1080,16 @@ A collection of news articles about technology and its impact on society.
   Nevertheless, it could also be in response to other huge acquisitions by Microsoft, including that
   of Zenimax Media Inc., the parent company of Bethesda.
 
+* [Another Arrest and Jail Time Due to a Bad Facial Recognition Match](https://www.nytimes.com/2020/12/29/technology/facial-recognition-misidentify-jail.html)
+  
+  A New Jersey man was accused of shoplifting and trying to hit an officer with a car and he is 
+  now the third known Black man to be wrongfully arrested because of faulty facial recognition 
+  software. In 2019, a national study of over 100 facial recognition algorithms found that they did 
+  not work as well on Black and Asian faces. Facial recognition works by reading the geometry of 
+  a subject’s face, using key factors such as the distance between the eyes and the distance 
+  between the chin and forehead. The facial signature is then compared to a database of known
+  faces. However, if the technology is not perfected, it should not be used because it 
+  disproportionately harms the Black community. One way to increase the accuracy of facial 
+  recognition is by using the identification algorithm to match people to clear, static images such 
+  as a passport photo or a mugshot. 
+
