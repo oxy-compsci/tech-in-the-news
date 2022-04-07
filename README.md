@@ -1196,3 +1196,13 @@ A collection of news articles about technology and its impact on society.
   wheelchairs and scooters. AI is trained on data, and if this data isn't fully inclusive, it lends itself to 
   problematic AI which threatens to exclude minority groups and overlook important societal issues.
 
+* [This Program Can Give AI a Sense of Ethics - Sometimes](https://www.wired.com/story/program-give-ai-ethics-sometimes/)
+
+  Artificial intelligence has had incredible success in problem-solving, but it still fails to have actual 
+  comprehension, leaving it incapable of understand human values and deciphering right from wrong. A University of 
+  Washington and Allen Institute for Artificial Intelligence program, Delphi, has aimed to solve this problem and be an 
+  AI that can understand human values. It has had lots of success, matching human-answered ethics questions 92 percent 
+  of the time, which beats the previous record of 80 percent by a long shot. However, this occasional mismatching has 
+  still left lots of room for misjudgements. In part, the training data may be biased, leading to some radical biases 
+  and aggressions seen in the program outputs. These poor judgements have led to reactions from other ethics researchers, 
+  arguing that these outputs affirm that AI should not be given authority to make ethical judgements.
