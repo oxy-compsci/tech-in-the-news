@@ -26,3 +26,7 @@
 * [US Disrupts 'Cyclops Blink' Botnet by Hacking Infected Devices](https://apple.news/AFU7z3KTsTkmRvLCcynANfg)
 
   The United States Justice Department has secured the approval to remotely remove the malware from some of the infected devices in the Botnet in an attempt to take down the Cyclops Blink. The US has concluded that Russian Military Intelligence is responsible for creating the Botnet as a way to spy on company websites. Once a device is infected by the Cyclops Blink the hacker has the ability to remotely upload and download files to and from the device. It is important that is Botnet is taken care of, it is a very invasive virus that has the ability to take and download any material, and along with that it can change firewall rules to block future access. 
+  
+* [Twitter's latest change shows how link rot is ruining the internet](https://apple.news/Ao-pK_sduTeaeXNJV5hc5-A)
+
+  Twitter has recently tested an edit funtion that now deletes embeded tweets, so when a tweet is deleted entirely from twitter every reference of the tweet is now also deleted. Some believe this will be the first of many changes now that Elon Musk purchased more than 9% of the company. Elon Musk is said to be a "free speech absolutist" so that may play a part into the potential changes coming to twitter. This function can be very useful for users who may have had something posted without their consent, or simply someone just changed their mind on a thought, this is a useful change to help protect the user.
