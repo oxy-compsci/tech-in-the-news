@@ -2,6 +2,10 @@
 
 A collection of news articles about technology and its impact on society.
 
+* [Meta will no longer allow the sharing of ‘publicly available’ private home addresses](https://www.theverge.com/2022/4/10/23019046/meta-no-longer-allow-private-residential-address-doxxing-facebook-instagram-oversight-board)
+
+  Meta is no longer allowing the sharing of 'publicly available' private home adresses. This was done in attempt to stop complains about doxxing which is when somoene reveals private information about a person, like their address, online for the purpose of getting poeple to harass them. In order to combat this, Meta says it is ending its policy to not remove posts containing “publicly available addresses" by the end of the year. This comes after the board at Meta had been adament to Meta to change multiple policies to combat doxxing. The board wanted them to change many policies but Meta says it will still allow sharing things that were shared in news articles. This goes againt the board's recommendations. Meta did not comment further. 
+
 * [Museums Are Cashing In on NFTs](https://www.nytimes.com/2022/03/25/arts/design/museums-nfts.html)
 
   Due to pandemic-related lockdowns and reprioritized government spending have put the world’s public museums under financial pressure.
