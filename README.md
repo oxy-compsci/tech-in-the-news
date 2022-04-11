@@ -2,6 +2,20 @@
 
 A collection of news articles about technology and its impact on society.
 
+* [Inside Intel’s Strategy to Compete With Nvidia in the AI-Chip Market](https://www.wsj.com/articles/inside-intels-strategy-to-compete-with-nvidia-in-the-ai-chip-market-11649447815)
+
+  This article highlights Intel's strategy to carve its mark in the AI chip market. Over the past decade, Nvidia has overshadowed Intel when it comes to AI chip products, which is evident
+  with many companies looking to quickly deploy AI tools to produce business outcomes. In fact, Nvidia accounts for 80% of the revenue for AI computation with big data centers. As such, competition
+  for such market capitalization will continue to grow as the current market worth of AI chips at $8 billion dollars is expected to jump to a colossal worth of $200 billion dollars. For Intel, however,
+  challenges remain with lagging behind in the production of AI chips, so recent plans involve spending billions in making new chip factories to stabilize on the manufacturing front. Moreover, Intel is
+  looking to package its AI chips with practical software packages and products that customers can quickly deploy for their own uses, taking out the guess work of using AI chips for business use. I have
+  no doubt that the AI chip market and the competition will certainly push Intel to regain some market share, but I believe that Intel must bear the brunt in not being the king for AI products in general.
+  I say this because Nvidia has shown itself to still reign king over Intel, as recent products like the RTX graphics cards are versatile for personal use and AI work as well. As such, it's better for Intel to
+  focus on what it's looking to really differentiate itself in the AI space, aside from just being another place to buy AI chips. That is why I believe their packacking of their AI chips into practical ready-to-go AI products
+  can be that differentiator, as I'm sure many businesses are looking to wield AI for their own purposes, so taking out the guess work could make Intel more favorable. But, for now, Nvidia just has too
+  much footing in the AI chip sector, as they are already leaps ahead with making new, more powerful AI chips all the time, so it is best if Intel directs its focus to providing a foundation for itself in the AI chip
+  market.
+
 * [Museums Are Cashing In on NFTs](https://www.nytimes.com/2022/03/25/arts/design/museums-nfts.html)
 
   Due to pandemic-related lockdowns and reprioritized government spending have put the world’s public museums under financial pressure.
