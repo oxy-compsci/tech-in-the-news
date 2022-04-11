@@ -14,7 +14,7 @@ A collection of news articles about technology and its impact on society.
   focus on what it's looking to really differentiate itself in the AI space, aside from just being another place to buy AI chips. That is why I believe their packacking of their AI chips into practical ready-to-go AI products
   can be that differentiator, as I'm sure many businesses are looking to wield AI for their own purposes, so taking out the guess work could make Intel more favorable. But, for now, Nvidia just has too
   much footing in the AI chip sector, as they are already leaps ahead with making new, more powerful AI chips all the time, so it is best if Intel directs its focus to providing a foundation for itself in the AI chip
-  market.
+  market. 
 
 * [Museums Are Cashing In on NFTs](https://www.nytimes.com/2022/03/25/arts/design/museums-nfts.html)
 
