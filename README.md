@@ -2,6 +2,10 @@
 
 A collection of news articles about technology and its impact on society.
 
+* [U.S. Says It Secretly Removed Malware Worldwide, Pre-empting Russian Cyberattacks](https://www.nytimes.com/2022/04/06/us/politics/us-russia-malware-cyberattacks.html)
+
+  During its invasion of Ukraine, Russia combined their physical military presence with their virtual one. In addition to air and ground attacks, Russian hackers attacked major Ukrainian infastructure using "wiper" malware that attacked Ukranian government officies, and the European satellite system Viasat. The attack on the satelitte system was the first of its kind which makes it a concern for American intelligence agencies. Specifically, American officials are worries that Russia may turn their attacks towards the United States, in the form of financial firm and electric grid attacks.American officials are attempting to mitigate future risk by secretly removing maleware that was implemented by the G.R.U from computer networks worldwide. I think that as we continue to progress further into a digital age, larger portions of global conflict are going to take place in the form of cyber attacks. An interesting thing about these attacks and counterattacks is that they go largely unnoticed by most civillians, unlike ground invasions. Hopefully as we progress into this digital age average consumers are going to be given the tools that they need to recognize and defend themselves from malware and cyberattacks. 
+
 * [Museums Are Cashing In on NFTs](https://www.nytimes.com/2022/03/25/arts/design/museums-nfts.html)
 
   Due to pandemic-related lockdowns and reprioritized government spending have put the world’s public museums under financial pressure.
