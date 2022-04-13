@@ -136,3 +136,15 @@ A collection of news articles about technology and its impact on society.
   Nevertheless, it could also be in response to other huge acquisitions by Microsoft, including that
   of Zenimax Media Inc., the parent company of Bethesda.
 
+* [Adding AI to Museum exhibits increases learning, keeps kids engaged longer]https://www.proquest.com/docview/2648633087?accountid=12935()
+  
+  Researchers have found a more effective way to support learning and increase engagement at
+  science-focused museum exhibits through the aid of artificial intelligence, to create interactive,
+  hands-on exhibits. These exhibits include an intelligent, virtual assistant to interact with visitors.
+  When the researchers compared their intelligent exhibit to a traditional one, they found that the
+  intelligent exhibit increased learning and the time spent at the exhibit. This could mean that
+  there are greater implications for AI in other areas of education and pedagogy. AI could for
+  example be used to provide the most appropriate recommendations and personalized solutions
+  for a learner's specific needs and learning styles, to achieve precise teaching.
+  
+
