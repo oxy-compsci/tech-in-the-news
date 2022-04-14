@@ -1,6 +1,11 @@
 # tech-in-the-news
 A collection of news articles about technology and its impact on society.
 
+* [New tech could pull cars over, call first responders in emergencies](https://wtop.com/consumer-news/2022/03/updated-tech-could-pull-cars-over-call-first-responders-in-emergencies/)
+
+Mazda is working on prototypes of a new technology in Japan that can monitor if a person needs medical help. First responders could use it to determine if a driver has fallen asleep or is experiencing a medical emergency and it says it might be available in the US in the next three to five years. This would be important because it has to potential to save someone’s life if they experience a medical problem while driving and they can’t pull over. It also is better technology for the future of car safety but it is somewhat questionable because of how you are monitored by surveillance for your health in the car.
+
+
 * [Sunroom is an alternative creator platform empowering women to cash in](https://techcrunch.com/2022/02/02/sunroom-creator-platform-app-women/)
 
   This TechCrunch article is about Sunroom, a new social media app aiming to address the
