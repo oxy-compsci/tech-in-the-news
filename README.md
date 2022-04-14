@@ -1,6 +1,11 @@
 # tech-in-the-news
 A collection of news articles about technology and its impact on society.
 
+* [Amazon to Start Charging Sellers 5% 'Fuel and Inflation' Fee, Reports Say](https://www.cnet.com/tech/services-and-software/amazon-to-start-charging-sellers-5-fuel-and-inflation-fee-reports-say/)
+
+Amazon is going to charge a 5% "fuel and inflation surcharge" on third-party merchants who use its services starting April 28th. It is going to be a fee that applies to all products and analysts predict many sellers will add this fee to their products to their customers. I think that Amazon is being stingy with another fee because of how much revenue they make on a daily basis with the number of users they have. It affects the consumers because prices are already increasing with inflation in the US and products will be more costly on the Amazon website.
+
+
 * [Sunroom is an alternative creator platform empowering women to cash in](https://techcrunch.com/2022/02/02/sunroom-creator-platform-app-women/)
 
   This TechCrunch article is about Sunroom, a new social media app aiming to address the
