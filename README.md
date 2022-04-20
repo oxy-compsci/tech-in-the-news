@@ -2,6 +2,10 @@
 
 A collection of news articles about technology and its impact on society.
 
+* [Elon Musk offers to buy Twitter, says company 'needs to be transformed'](https://www.nbcnews.com/tech/tech-news/elon-musk-makes-move-buy-twitter-rcna24354)
+
+  Elon Musk has offered to buy all outstanding shares of Twitter to take full control of the company by buying $54.20 per share. Musk believes that Twitter does not hold up to the principle of free speech and wants to change the policies on Twitter by making it a private company. I agree that social media should not censure freedom of speech, but there are limitations on what you can say on an app when you have millions of followers. Spreading misinformation or saying hate speech does allow you to get your Twitter censored because of the harm it can do, but I think Musk thinks those things might be ok to say on social media.
+
 * [New tech could pull cars over, call first responders in emergencies](https://wtop.com/consumer-news/2022/03/updated-tech-could-pull-cars-over-call-first-responders-in-emergencies/)
 
   Mazda is working on prototypes of a new technology in Japan that can monitor if a person needs medical help. First responders could use it to determine if a driver has fallen asleep or is experiencing a medical emergency and it says it might be available in the US in the next three to five years. This would be important because it has to potential to save someone’s life if they experience a medical problem while driving and they can’t pull over. It also is better technology for the future of car safety but it is somewhat questionable because of how you are monitored by surveillance for your health in the car.
