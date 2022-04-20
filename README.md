@@ -1282,3 +1282,12 @@ A collection of news articles about technology and its impact on society.
   Nevertheless, it could also be in response to other huge acquisitions by Microsoft, including that
   of Zenimax Media Inc., the parent company of Bethesda.
 
+* [Google joins Samsung in working with iFixit on a self-repair program](https://www.msn.com/en-us/money/other/google-joins-samsung-in-working-with-ifixit-on-a-self-repair-program/ar-AAW0Pvc)
+
+  Google has now followed Samsung in partnering with iFixit, a company that sells spare components and repair tools so that customers can fix their own hardware themselves. Spare parts will be available for the current and previous Pixel models. Two other major companies that have also partnered recently with iFixit are Microsoft and Valve, perhaps following proposed legislation that would combat restrictive company policies against DIY repair. As a result of latent right-to-repair legislation and these company programs, a more sustainable and modular approach towards technology products may be encouraged. This could reduce the waste generated from the technology industry, but another huge step would be to design products to be potentially upgradable with better components produced in the future.
+
+* [Canada introduces legislation to compel Facebook, Google to pay for news](https://www.reuters.com/world/americas/canada-lays-out-details-proposed-law-compel-facebook-google-pay-news-2022-04-05/)
+
+  The Canadian government has started developing laws that would force social media platforms to negotiate deals with news outlets to pay them for their content. This legislation comes as a response to the mass closures of news outlets due to how social media platforms have become the dominant advertising platform. If more legislative models such as this are proposed, then we could perhaps see a resurgence in the online news industry and a move away from the more recent shift to subscription models many news outlets have embraced in order to maintain profit. In addition, there may also be an increase in the quality of journalism as well, as these outlets may no longer feel financially pressured to make low-quality, inaccurate news stories—as has been the trend with many outlets that feel constricted.
+  
+
