@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="aa5a9d70-f594-4c0c-b6cd-2d325da957e2" name="Changes" comment="weekly tech-in-the-news submission">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="aa5a9d70-f594-4c0c-b6cd-2d325da957e2" name="Changes" comment="add weekly tech-in-the-news article">
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -66,7 +65,35 @@
       <option name="project" value="LOCAL" />
       <updated>1646008167569</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="add weekly tech-in-the-news article.">
+      <created>1647567181933</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1647567181933</updated>
+    </task>
+    <task id="LOCAL-00005" summary="add weekly tech-in-the-news article.">
+      <created>1648091729183</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1648091729183</updated>
+    </task>
+    <task id="LOCAL-00006" summary="add weekly tech-in-the-news article">
+      <created>1648490992054</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1648490992054</updated>
+    </task>
+    <task id="LOCAL-00007" summary="add weekly tech-in-the-news article">
+      <created>1649368490196</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1649368490196</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -84,6 +111,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add new article" />
     <MESSAGE value="weekly tech-in-the-news submission" />
-    <option name="LAST_COMMIT_MESSAGE" value="weekly tech-in-the-news submission" />
+    <MESSAGE value="add weekly tech-in-the-news article." />
+    <MESSAGE value="add weekly tech-in-the-news article" />
+    <option name="LAST_COMMIT_MESSAGE" value="add weekly tech-in-the-news article" />
   </component>
 </project>
