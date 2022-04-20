@@ -2,6 +2,10 @@
 
 A collection of news articles about technology and its impact on society.
 
+* [Apple’s zipped lips on chips](https://indianexpress.com/article/technology/tech-news-technology/apples-zipped-lips-on-chips-7879016/)
+
+Global leaders are becoming increasingly more concerned with the fact that Apple's computer chips are made almost exclusively in Taiwan. They are concerned that China could influence the production of the chips or invade Taiwan. Apple consistently produces goods where and how they please which is a growing concern for Western leaders due to how crucial computer chips are to the Western world. The Taiwan Semicounductor Manufacturing Co. (TSMC) makes most of the cutting edge computer chip sin the world, including Apples. TSMC is expanding beyond Taiwan to places like Arizona but expansion takes years because of factory construction. I think it is interested how crucial computer chips have become in the modern world, to the point that some of the most powerful leaders in the world are concerned about the location they are produced. 
+
 * [Elon Musk offers to buy Twitter, says company 'needs to be transformed'](https://www.nbcnews.com/tech/tech-news/elon-musk-makes-move-buy-twitter-rcna24354)
 
   Elon Musk has offered to buy all outstanding shares of Twitter to take full control of the company by buying $54.20 per share. Musk believes that Twitter does not hold up to the principle of free speech and wants to change the policies on Twitter by making it a private company. I agree that social media should not censure freedom of speech, but there are limitations on what you can say on an app when you have millions of followers. Spreading misinformation or saying hate speech does allow you to get your Twitter censored because of the harm it can do, but I think Musk thinks those things might be ok to say on social media.
