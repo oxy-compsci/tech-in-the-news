@@ -2,6 +2,17 @@
 
 A collection of news articles about technology and its impact on society.
 
+* [This Program Can Give AI a Sense of Ethics - Sometimes](https://www.wired.com/story/program-give-ai-ethics-sometimes/)
+
+  Artificial intelligence has had incredible success in problem-solving, but it still fails to have actual
+  comprehension, leaving it incapable of understand human values and deciphering right from wrong. A University of
+  Washington and Allen Institute for Artificial Intelligence program, Delphi, has aimed to solve this problem and be an
+  AI that can understand human values. It has had lots of success, matching human-answered ethics questions 92 percent
+  of the time, which beats the previous record of 80 percent by a long shot. However, this occasional mismatching has
+  still left lots of room for misjudgements. In part, the training data may be biased, leading to some radical biases
+  and aggressions seen in the program outputs. These poor judgements have led to reactions from other ethics researchers,
+  arguing that these outputs affirm that AI should not be given authority to make ethical judgements.
+
 * [Engineers develop a 'magnetic tentacle robot' to pass into the narrow tubes of the lung](https://www.sciencedaily.com/releases/2022/03/220321205411.htm)
 
   In the lungs, there are many small bronchial tubes that can be hard to reach. Engineers have made a prototype of a robot that can reach these tubes and take tissue samples or deliver cancer therapy. Researchers at the University of Leeds have created a magnetic tentacle robot. It could be used to help with endoscopic and catheter operations, which involve inserting a small tube into the body. This week, researchers published their findings in the journal Soft Robotics. A robot that can navigate the bronchial tree has been developed by researchers at the University of Leeds. Magnetic tentacle robots are tiny, flexible, and controlled. Outside of the patient, autonomous robotic arms would guide the gadget into position.This could be an evolutionary change for the medical industry. If we put this technology in the simplest way, it means that this technology could potentianlly save more people's lives and reduce their pain. In the long term impact, this magnetic tentacle robot has a greater potentinal in treating other diseases such a blood vessels or urine track disease. in conclusion, the invetion of  magnetic tentacle robot is a potential solution for many difficult medical operation and could impact many people and thier families.
@@ -1229,32 +1240,3 @@ A collection of news articles about technology and its impact on society.
   Nevertheless, it could also be in response to other huge acquisitions by Microsoft, including that
   of Zenimax Media Inc., the parent company of Bethesda.
 
-* [After being pushed out of Google, Timnit Gebru forms her own AI research institute: DAIR](https://techcrunch.com/2021/12/02/google-timnit-gebru-ai-research-dair/)
-
-  Timnit Gebru, a leader and expert in AI ethics, has started the DAIR research institute to address ethics in AI topics 
-  after being fired from Google. This institution will be independently funded, producing academic papers free of the 
-  traditional pressures in academia and the overhead of corporate research. The institute has raised $3.7 million, 
-  enough to keep the institution afloat for the foreseeable future. This move notes the need for research on the ethics 
-  of AI separate from companies implementing AI who might influence the research and findings based on their own 
-  desires.
-
-* [Flawed data is putting people with disabilities at risk](https://techcrunch.com/2021/04/19/flawed-data-is-putting-people-with-disabilities-at-risk/)
-
-  This article articulates that AI is trained to look for patterns and groups, disregarding outliers as noise, which is 
-  incredibly problematic for the disabled community, whose disabilities are diverse and, in turn, require a nuanced 
-  approach to understand and address. This article uses anecdotes to convey this point, addressing the case of Elaine 
-  Herzberg, a woman who was hit and killed from a self-driving car when she was pushing a bicycle and the self-driving 
-  vehicle failed to categorize her, leading others in the disabled community to worry about how such cars will address 
-  wheelchairs and scooters. AI is trained on data, and if this data isn't fully inclusive, it lends itself to 
-  problematic AI which threatens to exclude minority groups and overlook important societal issues.
-
-* [This Program Can Give AI a Sense of Ethics - Sometimes](https://www.wired.com/story/program-give-ai-ethics-sometimes/)
-
-  Artificial intelligence has had incredible success in problem-solving, but it still fails to have actual 
-  comprehension, leaving it incapable of understand human values and deciphering right from wrong. A University of 
-  Washington and Allen Institute for Artificial Intelligence program, Delphi, has aimed to solve this problem and be an 
-  AI that can understand human values. It has had lots of success, matching human-answered ethics questions 92 percent 
-  of the time, which beats the previous record of 80 percent by a long shot. However, this occasional mismatching has 
-  still left lots of room for misjudgements. In part, the training data may be biased, leading to some radical biases 
-  and aggressions seen in the program outputs. These poor judgements have led to reactions from other ethics researchers, 
-  arguing that these outputs affirm that AI should not be given authority to make ethical judgements.
