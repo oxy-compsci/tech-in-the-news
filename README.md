@@ -2,6 +2,10 @@
 
 A collection of news articles about technology and its impact on society.
 
+* [New tech could pull cars over, call first responders in emergencies](https://wtop.com/consumer-news/2022/03/updated-tech-could-pull-cars-over-call-first-responders-in-emergencies/)
+
+  Mazda is working on prototypes of a new technology in Japan that can monitor if a person needs medical help. First responders could use it to determine if a driver has fallen asleep or is experiencing a medical emergency and it says it might be available in the US in the next three to five years. This would be important because it has to potential to save someone’s life if they experience a medical problem while driving and they can’t pull over. It also is better technology for the future of car safety but it is somewhat questionable because of how you are monitored by surveillance for your health in the car.
+
 * [Apple Maps UK ground surveys begin, using backpack-mounted cameras and sensors](https://9to5mac.com/2022/03/28/apple-maps-uk-ground-surveys-begin-using-backpack-mounted-cameras-and-sensors/)
 
   Apple has launched ground surveys on the streets of London, Birmingham, and Manchester to gather pedestrian data for its Apple Maps service using special backpacks. Apple cars are not able to reach some parts of these cities because of how the cities are pedestrianizing areas to make it more appealing and reduce car usage. The backpacks will feature cameras and other sensors for mapping data collection that cars can't reach and be able to show people what these cities look like in 3D view. This surveying help with people's privacy as well because Apple won't have to track people for the information that they are getting from this survey.
