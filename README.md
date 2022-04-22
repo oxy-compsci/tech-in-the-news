@@ -136,3 +136,16 @@ A collection of news articles about technology and its impact on society.
   Nevertheless, it could also be in response to other huge acquisitions by Microsoft, including that
   of Zenimax Media Inc., the parent company of Bethesda.
 
+* [Google is leading a vast, covert human experiment. You may be one of the guinea pigs](https://theconversation.com/google-is-leading-a-vast-covert-human-experiment-you-may-be-one-of-the-guinea-pigs-154178)
+  
+  Google is currently running an experiment involving displaying an “alternative” news website
+  ranking for 160,000 Australian users. The experiment did not prevent users being experimented
+  on from accessing a certain news story. Rather, they would not discover the story through
+  Search and would have to access it another way, such as directly on a publisher’s website.
+  Google’s experiment is a form of “A/B testing”, which involves dividing a population in half, into 
+  groups A and B and subjecting each group to a different stimulus. The experiment has resulted 
+  in the promotion of dubious news sources over trusted ones, which are known to publish 
+  misinformation. Many may consider this an unethical practice and that Google is exploiting their 
+  users by experimenting on them without their consent. It has a specific objective to emotionally 
+  manipulate users and didn’t obtain informed consent. 
+
