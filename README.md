@@ -2,6 +2,18 @@
 
 A collection of news articles about technology and its impact on society.
 
+* [ICE uses private data companies to circumvent Colorado “sanctuary” laws, new report says](https://www.denverpost.com/2022/04/21/ice-private-data-colorado-sanctuary-laws-report/)
+
+  This article goes over ICE's circumvention of Colorado's immigration santcutary laws regarding their enforcement of civil immigration with help from the private sector.
+  In 2019, Colorado passed a "sanctuary" law that prohibits the jailing of someone, even if they're eligble for release, for suspected immigration violation. This meant police
+  could not keep someone jailed for ICE due to suspicion, along with data privacy protection of personal information to ICE authorities. However, ICE's contractual partnerships 
+  with data brokers from the private sector allows them to bypass the bureaucratic process of requesting a person's information from the state government. An example includes
+  an undocumented couple where the husband was picked up by ICE close to their home, which he was sent to a detention facility, despite the sanctuary law in place to not share
+  personal information of people. If there is one area of discussion regarding data privacy, it is when this data can be in the hands of authorities. I believe that this practice by
+  ICE is unethical, simply because it is a conscious effort by them to enforce civil immigration through violation of a person's privacy. Even if ICE is not legally breaking the law with
+  getting data from private companies, this practice may give a precedent or reinforce to other authoritative figures the acceptance of circumventing protections one's personal data.
+  It is somewhat different when other companies buy data from data brokers for business means, but the power imbalance remains where people have no say how their data can be used or released.
+
 * [Elon Musk offers to buy Twitter, says company 'needs to be transformed'](https://www.nbcnews.com/tech/tech-news/elon-musk-makes-move-buy-twitter-rcna24354)
 
   Elon Musk has offered to buy all outstanding shares of Twitter to take full control of the company by buying $54.20 per share. Musk believes that Twitter does not hold up to the principle of free speech and wants to change the policies on Twitter by making it a private company. I agree that social media should not censure freedom of speech, but there are limitations on what you can say on an app when you have millions of followers. Spreading misinformation or saying hate speech does allow you to get your Twitter censored because of the harm it can do, but I think Musk thinks those things might be ok to say on social media.
