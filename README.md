@@ -2,6 +2,11 @@
 
 A collection of news articles about technology and its impact on society.
 
+* [The microchip implants that let you pay with your hand](https://www.bbc.com/news/business-61008730)
+
+  British-Polish firm, Walletmor, became the first company to offer biochips for sale. These chips are meant to enable the holder to transform their hand into a contactless debit/ credit card. Walletmor's chips consist of a tiny microchip and an antenna encased in a biopolymer (a material similar to plastic). It is claimed to have regulatory approval and works immediately after being implanted. Walletmor also claims to have sold over 500 of these chips so far. Many people have been skeptical about these implementations. According to a survey, invasiveness and security issues remained a major concern for people across the UK and the EU, however, a survey of 4,000 people revealed that 51% of people across the UK and the EU would consider it. I understand the skepticism surrounding bodily chip implants. Privacy breaches are already so invasive, however, if it were to be directly tied with the body, I would assume that it would feel even more violating. Despite that, I agree with the 51% of the 4,000 people who were surveyed. I would also consider getting the chip implanted for convenience. 
+
+
 * [CNN streaming service to shut a month after launch](https://www.bbc.com/news/business-61185298)
 
   CNN’s news streaming service, CNN+, is shutting down on April 30, 2022. Despite it being a relatively new news streaming service, CNN+ was the employer of hundreds of employees, and the recent turn of events mean that many people are at risk of losing their jobs. The shutting down of CNN+ was announced just two days after Netflix announced a quarterly decline in subscribers for the first time in two decades. The main takeaway of the shutting down of CNN+ is that streaming services are no longer under the monopoly of Netflix. Although it is very unfortunate that hundreds of people are at risk of losing their jobs, the increasingly crowded field of streaming services is challenging Netflix’s monopoly. I personally believe that this competition would have good social implications.
