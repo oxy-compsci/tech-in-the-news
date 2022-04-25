@@ -1314,3 +1314,11 @@ A collection of news articles about technology and its impact on society.
   Nevertheless, it could also be in response to other huge acquisitions by Microsoft, including that
   of Zenimax Media Inc., the parent company of Bethesda.
 
+* [You’re muted — or are you? Videoconferencing apps may listen even when mic is off](https://news.wisc.edu/youre-muted-or-are-you-videoconferencing-apps-may-listen-even-when-mic-is-off/)
+
+  A research team at UW-Madison recently conducted a study indicating many videoconferencing apps still collect audio data when mute is selected, and explores the possible consequences. 
+  First, the team investigated what people believe the function of the mute button is, where most believed apps on mute should not be able to collect audio data. 
+  Then, they looked at 223 apps and found that all of them at least occassionally gather raw audio data while mute is activated using runtime binary analysis tools. 
+  Using machine learning, the team was then able to classify the type of activity happening in the background of the audio using the data collected on mute with a 82% accuracy. 
+  I think that latter portion of this study exemplifies why collecting data on mute is not as harmless and inconsequential as one may believe. 
+  Collecting data on mute is not only wrong in principle, but also a real threat to privacy.
