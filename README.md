@@ -1,6 +1,11 @@
 # tech-in-the-news
 A collection of news articles about technology and its impact on society.
 
+* [Twitter Bans Climate Change Denial Ads](https://www.cnet.com/science/climate/twitter-bans-climate-change-denial-ads/)
+
+Twitter is banning all climate change denial ads from its platform for Earth Day to prevent misinformation. The company says it is using authoritative sources which are United Nations on Climate Change and Intergovernmental Panel on Climate Change to make the ad decisions. This news comes as Twitter is trying to avoid billionaire Elon Musk buying all of the company. In my opinion, I understand why Twitter is trying to ban the misinformation because there is plenty of evidence that Global Warming is real and happening. I know that with the acquisition of Twitter by Musk, he will let misinformation occur because of “free speech” even though it can be detrimental to society for believing the misinformation.
+
+
 * [Sunroom is an alternative creator platform empowering women to cash in](https://techcrunch.com/2022/02/02/sunroom-creator-platform-app-women/)
 
   This TechCrunch article is about Sunroom, a new social media app aiming to address the
