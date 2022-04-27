@@ -2,6 +2,23 @@
 
 A collection of news articles about technology and its impact on society.
 
+* [Europe Outpacing US in Technology Regulations](https://www.nytimes.com/2022/04/22/technology/tech-regulation-europe-us.html)
+
+   This article discusses some of the main reasons that the United States has not done a good 
+job of regulating large tech companies. It mainly focuses on the fact that the people 
+making these laws do not have a very thorough understanding of the technologies that they 
+are attempting to reulate, as well as the fact that large companies are so economically 
+and socially powerful that they can lobby against any proposed legislation that would hurt 
+their performance. It mainly focuses on the fact that despite bipartisan support for 
+anti-trust regulations that would hinder the power of the giant tech companies, the US has
+failed to pass many such regulations. This connects back to society as well in the sense that 
+it relates at some of the general principles of the United States' legislative and governmental 
+institutions in general; it can be very difficult to enact quick changes, which in general has 
+lots of benefits, but in this case is causing an issue because it is difficult to react to the 
+rapid pace at which technology is advancing. In general I find this dynamic between legislation
+and the technology industry to be particularly fascinating as a case study of legal institutions
+and power dynamics within the United States.
+
 * [Elon Musk offers to buy Twitter, says company 'needs to be transformed'](https://www.nbcnews.com/tech/tech-news/elon-musk-makes-move-buy-twitter-rcna24354)
 
   Elon Musk has offered to buy all outstanding shares of Twitter to take full control of the company by buying $54.20 per share. Musk believes that Twitter does not hold up to the principle of free speech and wants to change the policies on Twitter by making it a private company. I agree that social media should not censure freedom of speech, but there are limitations on what you can say on an app when you have millions of followers. Spreading misinformation or saying hate speech does allow you to get your Twitter censored because of the harm it can do, but I think Musk thinks those things might be ok to say on social media.
