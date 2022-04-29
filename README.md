@@ -1350,3 +1350,13 @@ A collection of news articles about technology and its impact on society.
   Nevertheless, it could also be in response to other huge acquisitions by Microsoft, including that
   of Zenimax Media Inc., the parent company of Bethesda.
 
+* [Dear Sophie: Can a startup sponsor a graduating co-founder?](https://techcrunch.com/2022/04/20/dear-sophie-can-a-startup-sponsor-a-graduating-co-founder/)
+
+  This article, _Dear Sophie: Can a startup sponsor a graduating co-founder_, is part of an advice column, 
+  "Dear Sophie", which answers immigration-related questions about working in tech. This advice column, as 
+  Sophie Alcorn says, "[spreads] knowledge that allows people all over the world to rise above borders and 
+  pursue their dreams". This particular article sheds light on sponsoring a co-founder of a US-based company. 
+  Their question is, "Can a startup sponsor a graduating co-founder". The long answer short is yes. The article 
+  and series more broadly highlights the ethics of immigration and technology, and the inequalities individuals 
+  face in aiming to join the field, particularly the loops they must jump through to have the same access as 
+  US citizens.
