@@ -2,6 +2,18 @@
 
 A collection of news articles about technology and its impact on society.
 
+* [You Might Have Aphantasia -- a Puzzling Phenomenon That Weakens the 'Mind's Eye'](https://www.cnet.com/science/biology/cant-visualize-objects-in-your-mind-you-might-have-aphantasia/)
+
+  Aphantasia is the condition that describes people who can’t clearly visualize imagery in their mind’s eye. A team from the University of New South Wales Sydney found a way to see if someone has aphantasia by measuring the dilation of their pupils. Only non-aphantasiacs' pupils dilate when mentally visualizing images similarly to how everyone’s pupils dilate when looking at objects that are physically in front of them regardless of if they have aphantasia or not. These findings that begin to explore the inner workings of our minds bring up the possibility of solving other psychological puzzles like whether language can sufficiently convey our thoughts.
+
+* [Amazon Astro Is One Small Step for Robotkind](https://www.cnet.com/home/smart-home/is-amazon-astro-the-missing-link-in-robot-evolution/)
+
+  Amazon Astro is a consumer robot for household monitoring. In theory, it maps your house by traveling through various rooms so it can recognize when something or someone is out of place. It can be connected to Ring to enhance the monitoring features. It is not very functional as of now, but neither was the Amazon Echo compared to where it is today. Astro represents a significant milestone in home robotics, but it is still in its very early stages.
+
+* [Envision Glasses for the Blind Can Read Documents, Scan Faces, Aid Navigation](https://www.cnet.com/tech/mobile/envision-glasses-for-the-blind-can-read-documents-scan-faces-and-help-navigate/)
+
+  Envision smart glasses use a small camera on the side of the glasses to scan objects, people, and text so it can relay that information via speaker for those who are blind or vision impaired. Another useful feature is the ability to call someone on the glasses to describe the environment for you. This technology is very relevant to the discussion we had on accessibility and opens up a world of possibilities for those with vision issues.
+
 * [Europe Outpacing US in Technology Regulations](https://www.nytimes.com/2022/04/22/technology/tech-regulation-europe-us.html)
 
   This article discusses some of the main reasons that the United States has not done a good
