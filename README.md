@@ -2,6 +2,17 @@
 
 A collection of news articles about technology and its impact on society.
 
+* [Dear Sophie: Can a startup sponsor a graduating co-founder?](https://techcrunch.com/2022/04/20/dear-sophie-can-a-startup-sponsor-a-graduating-co-founder/)
+
+  This article, _Dear Sophie: Can a startup sponsor a graduating co-founder_, is part of an advice column,
+  "Dear Sophie", which answers immigration-related questions about working in tech. This advice column, as
+  Sophie Alcorn says, "[spreads] knowledge that allows people all over the world to rise above borders and
+  pursue their dreams". This particular article sheds light on sponsoring a co-founder of a US-based company.
+  Their question is, "Can a startup sponsor a graduating co-founder". The long answer short is yes. The article
+  and series more broadly highlights the ethics of immigration and technology, and the inequalities individuals
+  face in aiming to join the field, particularly the loops they must jump through to have the same access as
+  US citizens.
+
 * [Barack Obama Takes On a New Role: Fighting Disinformation](https://www.nytimes.com/2022/04/20/technology/barack-obama-disinformation.html)
 
   Former president Barack Obama has begun a campaign to mitigate the mass spread of misinformation in the United States. Obama is the first president who's campaign embraced the information spreading potential of the early days of social media. Following his utilization of social media, he expresses regret that did little to mitigate the seeds of the widespread misinformation the plague us today. He plans to give a speech at Stanford University addressing the issue. The primary concern with the widespread misinformation for Obama and for other politicans is it's threat to American democracy. I think that it is intersting that in less than 15 years we have gone from primitive early social media hype to tactical usage and distribution of misinformation on a large scale.
@@ -1350,13 +1361,3 @@ A collection of news articles about technology and its impact on society.
   Nevertheless, it could also be in response to other huge acquisitions by Microsoft, including that
   of Zenimax Media Inc., the parent company of Bethesda.
 
-* [Dear Sophie: Can a startup sponsor a graduating co-founder?](https://techcrunch.com/2022/04/20/dear-sophie-can-a-startup-sponsor-a-graduating-co-founder/)
-
-  This article, _Dear Sophie: Can a startup sponsor a graduating co-founder_, is part of an advice column, 
-  "Dear Sophie", which answers immigration-related questions about working in tech. This advice column, as 
-  Sophie Alcorn says, "[spreads] knowledge that allows people all over the world to rise above borders and 
-  pursue their dreams". This particular article sheds light on sponsoring a co-founder of a US-based company. 
-  Their question is, "Can a startup sponsor a graduating co-founder". The long answer short is yes. The article 
-  and series more broadly highlights the ethics of immigration and technology, and the inequalities individuals 
-  face in aiming to join the field, particularly the loops they must jump through to have the same access as 
-  US citizens.
