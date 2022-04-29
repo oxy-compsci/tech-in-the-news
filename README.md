@@ -2,6 +2,15 @@
 
 A collection of news articles about technology and its impact on society.
 
+* [You’re muted — or are you? Videoconferencing apps may listen even when mic is off](https://news.wisc.edu/youre-muted-or-are-you-videoconferencing-apps-may-listen-even-when-mic-is-off/)
+
+  A research team at UW-Madison recently conducted a study indicating many videoconferencing apps still collect audio data when mute is selected, and explores the possible consequences.
+  First, the team investigated what people believe the function of the mute button is, where most believed apps on mute should not be able to collect audio data.
+  Then, they looked at 223 apps and found that all of them at least occassionally gather raw audio data while mute is activated using runtime binary analysis tools.
+  Using machine learning, the team was then able to classify the type of activity happening in the background of the audio using the data collected on mute with a 82% accuracy.
+  I think that latter portion of this study exemplifies why collecting data on mute is not as harmless and inconsequential as one may believe.
+  Collecting data on mute is not only wrong in principle, but also a real threat to privacy.
+
 * [Highway Code: Watching TV in self-driving cars to be allowed](https://www.bbc.com/news/technology-61155735)
 
   The government in the UK announced recently that it will be legal for drivers to watch tv on the built in screens while in a self-driving car. This is very peculiar to me because there are first off no self-driving cars on the road in the UK. I find it strange that they are willing to jump straight into allowing the person in the driver's seat to be allowed to watch tv without having real world analysis of how the cars function on the UK roads. I find it even more strange that they rule that it is still illegal for the drivers to use phones. If you make watching tv on a big screen legal, it should also be legal to look at your smart phone. Realistically, neither should be made legal because the driver should be responsible for focusing on the road even if the car is in control in order to take over if needed. The article mentions that it is possible for the car to shut off the screen when the driver needss to take over, but it can't turn off a mobile device. This does provide solid information about why they make the tv legal, but it still worries me. My concern is that a driver won't be able to react in time to take over at the wheel. However, this is still a major advancement in the tech of self-driving cars because it shows that we are getting closer to fully autonomous drivers.
@@ -1409,11 +1418,3 @@ A collection of news articles about technology and its impact on society.
   Nevertheless, it could also be in response to other huge acquisitions by Microsoft, including that
   of Zenimax Media Inc., the parent company of Bethesda.
 
-* [You’re muted — or are you? Videoconferencing apps may listen even when mic is off](https://news.wisc.edu/youre-muted-or-are-you-videoconferencing-apps-may-listen-even-when-mic-is-off/)
-
-  A research team at UW-Madison recently conducted a study indicating many videoconferencing apps still collect audio data when mute is selected, and explores the possible consequences. 
-  First, the team investigated what people believe the function of the mute button is, where most believed apps on mute should not be able to collect audio data. 
-  Then, they looked at 223 apps and found that all of them at least occassionally gather raw audio data while mute is activated using runtime binary analysis tools. 
-  Using machine learning, the team was then able to classify the type of activity happening in the background of the audio using the data collected on mute with a 82% accuracy. 
-  I think that latter portion of this study exemplifies why collecting data on mute is not as harmless and inconsequential as one may believe. 
-  Collecting data on mute is not only wrong in principle, but also a real threat to privacy.
