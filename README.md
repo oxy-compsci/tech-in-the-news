@@ -2,6 +2,17 @@
 
 A collection of news articles about technology and its impact on society.
 
+* [Adding AI to Museum exhibits increases learning, keeps kids engaged longer](https://www.proquest.com/docview/2648633087?accountid=12935()
+
+  Researchers have found a more effective way to support learning and increase engagement at
+  science-focused museum exhibits through the aid of artificial intelligence, to create interactive,
+  hands-on exhibits. These exhibits include an intelligent, virtual assistant to interact with visitors.
+  When the researchers compared their intelligent exhibit to a traditional one, they found that the
+  intelligent exhibit increased learning and the time spent at the exhibit. This could mean that
+  there are greater implications for AI in other areas of education and pedagogy. AI could for
+  example be used to provide the most appropriate recommendations and personalized solutions
+  for a learner's specific needs and learning styles, to achieve precise teaching.
+
 * [You Might Have Aphantasia -- a Puzzling Phenomenon That Weakens the 'Mind's Eye'](https://www.cnet.com/science/biology/cant-visualize-objects-in-your-mind-you-might-have-aphantasia/)
 
   Aphantasia is the condition that describes people who can’t clearly visualize imagery in their mind’s eye. A team from the University of New South Wales Sydney found a way to see if someone has aphantasia by measuring the dilation of their pupils. Only non-aphantasiacs' pupils dilate when mentally visualizing images similarly to how everyone’s pupils dilate when looking at objects that are physically in front of them regardless of if they have aphantasia or not. These findings that begin to explore the inner workings of our minds bring up the possibility of solving other psychological puzzles like whether language can sufficiently convey our thoughts.
@@ -1458,16 +1469,4 @@ A collection of news articles about technology and its impact on society.
   and there is certainly more incentive for Sony to purchase a multi-platform game studio.
   Nevertheless, it could also be in response to other huge acquisitions by Microsoft, including that
   of Zenimax Media Inc., the parent company of Bethesda.
-
-* [Adding AI to Museum exhibits increases learning, keeps kids engaged longer]https://www.proquest.com/docview/2648633087?accountid=12935()
-  
-  Researchers have found a more effective way to support learning and increase engagement at
-  science-focused museum exhibits through the aid of artificial intelligence, to create interactive,
-  hands-on exhibits. These exhibits include an intelligent, virtual assistant to interact with visitors.
-  When the researchers compared their intelligent exhibit to a traditional one, they found that the
-  intelligent exhibit increased learning and the time spent at the exhibit. This could mean that
-  there are greater implications for AI in other areas of education and pedagogy. AI could for
-  example be used to provide the most appropriate recommendations and personalized solutions
-  for a learner's specific needs and learning styles, to achieve precise teaching.
-  
 
