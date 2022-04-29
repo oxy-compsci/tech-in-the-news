@@ -2930,5 +2930,5 @@ A collection of news articles about technology and its impact on society.
   in the technology industry. It also shows that Apple has an incredible amount of
   power over many other big technological services.
 
-*-[Digital Data Could Be Altering Earth's Mass Just a Tiny Bit, Claims Physicist]https://www.sciencealert.com/physicist-claims-information-has-mass-and-might-be-considered-a-state-of-matter
+*-[Digital Data Could Be Altering Earth's Mass Just a Tiny Bit, Claims Physicist(https://www.sciencealert.com/physicist-claims-information-has-mass-and-might-be-considered-a-state-of-matter)
 According to calculations made a few years ago by University of Portsmouth physicist Melvin Vopson, this literal mass of visual imagery  could be making our planet a touch heavier. We as a human have many impact on the plant. if this hyposis is true then all the information we created are not eco-impact free. We must rethink our actions
