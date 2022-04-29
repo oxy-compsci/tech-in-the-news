@@ -2,6 +2,23 @@
 
 A collection of news articles about technology and its impact on society.
 
+* [Europe Outpacing US in Technology Regulations](https://www.nytimes.com/2022/04/22/technology/tech-regulation-europe-us.html)
+
+  This article discusses some of the main reasons that the United States has not done a good
+  job of regulating large tech companies. It mainly focuses on the fact that the people
+  making these laws do not have a very thorough understanding of the technologies that they
+  are attempting to reulate, as well as the fact that large companies are so economically
+  and socially powerful that they can lobby against any proposed legislation that would hurt
+  their performance. It mainly focuses on the fact that despite bipartisan support for
+  anti-trust regulations that would hinder the power of the giant tech companies, the US has
+  failed to pass many such regulations. This connects back to society as well in the sense that
+  it relates at some of the general principles of the United States' legislative and governmental
+  institutions in general; it can be very difficult to enact quick changes, which in general has
+  lots of benefits, but in this case is causing an issue because it is difficult to react to the
+  rapid pace at which technology is advancing. In general I find this dynamic between legislation
+  and the technology industry to be particularly fascinating as a case study of legal institutions
+  and power dynamics within the United States.
+
 * [Google launches Media CDN to compete on content delivery](https://techcrunch.com/2022/04/26/google-launches-media-cdn-to-compete-on-content-delivery/)
 
   Google has launched Media CDN which is a platform for delivering content. CDN companies are companies that specialize in delivering content physically closer to customers which makes accessing content faster and more reliably. CDN’s have gained more popularity than ever as more people stayed at home because of the pandemic. This made the demand for content higher the ever. Google is getting in on this field. However they are not just launching a CDN that delivers content, their CDN offers delivery protocols that are tailored to individual users and network conditions and top tier offload rates. This allows for instances where even infrequently visited content are stored on the CDN which means there are rarely caches to the original content which means faster speeds. I think that this is a bold move from Google as there is a huge market for CDN services and this is the first time Google is entering that market. This is not a surprise however because this is just another example of the parent company Alphabet  expanding its empire.  I will be interested in whether or not Media CDN will be successful because other CDN companies could simply build on Google’s Media CDN. If companies do this, Media CDN customers may chose other companies over Media CDN because they will not have to rely on Media CDN for advertising delivery. I do not support Google doing this. They are too bug of a company.
