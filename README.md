@@ -342,3 +342,11 @@ A collection of news articles about technology and its impact on society.
   there is a big security concern regarding the data that will be collected from users' eye movements. 
   Fortunately, software companies like Tobii, are brainstorming user agreements that will explain
   what data is being collected to better inform users before they allow thier data to be tracked. 
+
+* [Walmart rolls out a tech tool to help shoppers try on clothes without actually trying them on](https://www.cnbc.com/2022/03/02/walmart-rolls-out-virtual-fitting-room-to-help-shoppers-find-clothes.html)
+  In early March, Walmart released a new feature in their app entitled "Choose My Model," that allows users
+  to "try on" clothing using models that best resemble them.  These models are real people licensed through
+  the app which incorporates Zeekit, a startup that Walmart aquired in May.  Almost immediately, there was 
+  backlash citing lack of diversity within the models. Currently there are only 50 models, but Walmart plans 
+  to add 70.  Walmart believes that this will help shoppers buy clothes as well as reduce the amount of clothing
+  returns. 
