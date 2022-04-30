@@ -2932,3 +2932,12 @@ A collection of news articles about technology and its impact on society.
 
 *-[Digital Data Could Be Altering Earth's Mass Just a Tiny Bit, Claims Physicist(https://www.sciencealert.com/physicist-claims-information-has-mass-and-might-be-considered-a-state-of-matter)
 According to calculations made a few years ago by University of Portsmouth physicist Melvin Vopson, this literal mass of visual imagery  could be making our planet a touch heavier. We as a human have many impact on the plant. if this hyposis is true then all the information we created are not eco-impact free. We must rethink our actions
+
+[Researchers develop a paper-thin loudspeaker](https://news.mit.edu/2022/low-power-thin-loudspeaker-0426)
+
+This article talks about mit's new invention- a speaker that is paper thin. It revolutionized how people think of speakers. Mit's design relies on tiny domes on a thin layer of piezoelectric material which each vibrate individually. These domes, each only a few hair-widths across, are surrounded by spacer layers on the top and bottom of the film that protect them from the mounting surface while still enabling them to vibrate freely. The same spacer layers protect the domes from abrasion and impact during day-to-day handling, enhancing the loudspeaker’s durability. This techology would be used in the future cinema or other place that can provide 3d experience
+
+[Physicists Developed a Superconductor Circuit Long Thought to Be Impossible](https://www.sciencealert.com/a-feature-of-superconducting-circuits-thought-impossible-has-just-been-made-a-reality)
+
+This article talks about superconductor circuit made for quantium computers. Those efforts might now need to be revisited, in the wake of an experiment that shows a type of junction with a quantum component that's capable of directing even Cooper pairs down a one-way street. Josephson junctions are thin strips of non-superconducting material separating a pair of materials that are superconductors. If the material is thin enough, electrons can ghost right through them without a care in the world. Below a certain level, this 'supercurrent' has no voltage. At a critical point, a voltage emerges, rapidly oscillating in waves that can be put to use in applications like quantum computers. this techology will make quantam computer possibe
+
