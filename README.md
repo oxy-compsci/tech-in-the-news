@@ -360,3 +360,11 @@ A collection of news articles about technology and its impact on society.
   continuing the cycle of failed tech projects appealing to desparate countries, especially since many poor
   countries don't have the resources or weather records to train a prediction AI like Atmos'. However, Atmos
   argues that their product has already provided reliable results for contracted countries with small data sets. 
+
+* [Tech leaders face threat of prison under new UK online bill](https://apnews.com/article/technology-business-social-media-united-kingdom-online-safety-a76673ccfadad80e988fdc7a1905365e)
+  Leaders in the UK have unveiled a new bill that allows authorities to prosecute tech company leaders for 
+  harmful or illegal content on their sites or app.  This bill is aimed at targeting "child sex abuse, racist 
+  content, bullying, fraud and other harmful material" and faces company leaders with fines and possible jail
+  time for failure to comply.  Critics are worried that companies will be overzealous when taking down content
+  which will potentially infringe upon free speech.  Bill writers responded with a clause that details content
+  that is potentially harmful, but not illegal and forbids companies from deleting this content. 
