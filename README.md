@@ -350,3 +350,13 @@ A collection of news articles about technology and its impact on society.
   backlash citing lack of diversity within the models. Currently there are only 50 models, but Walmart plans 
   to add 70.  Walmart believes that this will help shoppers buy clothes as well as reduce the amount of clothing
   returns. 
+
+* [How AI Can Make Weather Forecasting Better and Cheaper](https://www.bloomberg.com/news/articles/2022-03-10/how-ai-technology-can-help-forecast-extreme-weather)
+  Atmo AI, a tech startup based out of California, is marketing a new disaster prediction hardware & software
+  package to countries around the world.  Co-founder Johan Mathe believes that this product will fill a large
+  hole in government technology for most countries...rivaling the marketing power of Apple.  Their sleek design
+  comes in two formats, a higher end, more powerful software, and a more economically friendly version. Atmo
+  has already signed several deals with a couple countries in Africa, but critics worry they are just 
+  continuing the cycle of failed tech projects appealing to desparate countries, especially since many poor
+  countries don't have the resources or weather records to train a prediction AI like Atmos'. However, Atmos
+  argues that their product has already provided reliable results for contracted countries with small data sets. 
