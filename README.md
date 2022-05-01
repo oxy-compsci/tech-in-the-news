@@ -1473,3 +1473,7 @@ A collection of news articles about technology and its impact on society.
 * [How India's drone start-ups could change healthcare](https://www.bbc.com/news/world-asia-india-61267750)
 
   Drones have been being used in India’s medical industry to make healthcare accessible to remote regions. They are able to deliver medical supplies in half the time that it would have taken humans by road. With recent liberalization of governmental regulations of drones, the drone services industry is expected to grow dramatically over the next 3 years. 
+
+* [Why Argentina is embracing cryptocurrency](https://www.bbc.com/news/business-60912789)
+
+  Many Argentinians have anxiety over money due to the 1990’s financial crisis where banks dramatically devalued everybody’s money. The Argentine peso is highly volatile and controlled by politics. For this reason, people prefer to invest their savings in cryptocurrency, especially BitCoin. It’s the best alternative to the changeable peso and convenient because of low electricity costs in Argentina. 
