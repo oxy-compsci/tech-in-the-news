@@ -1470,3 +1470,6 @@ A collection of news articles about technology and its impact on society.
   Nevertheless, it could also be in response to other huge acquisitions by Microsoft, including that
   of Zenimax Media Inc., the parent company of Bethesda.
 
+* [How India's drone start-ups could change healthcare](https://www.bbc.com/news/world-asia-india-61267750)
+
+  Drones have been being used in India’s medical industry to make healthcare accessible to remote regions. They are able to deliver medical supplies in half the time that it would have taken humans by road. With recent liberalization of governmental regulations of drones, the drone services industry is expected to grow dramatically over the next 3 years. 
