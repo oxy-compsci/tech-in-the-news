@@ -1477,3 +1477,7 @@ A collection of news articles about technology and its impact on society.
 * [Why Argentina is embracing cryptocurrency](https://www.bbc.com/news/business-60912789)
 
   Many Argentinians have anxiety over money due to the 1990’s financial crisis where banks dramatically devalued everybody’s money. The Argentine peso is highly volatile and controlled by politics. For this reason, people prefer to invest their savings in cryptocurrency, especially BitCoin. It’s the best alternative to the changeable peso and convenient because of low electricity costs in Argentina. 
+
+* [Tone-deaf Samsung ad is a reminder that smartwatch safety still has a ways to go](https://www.theverge.com/2022/4/29/23048309/samsung-smartwatch-ad-emergency-sos)
+  
+  Samsung recently aired an advertisement of a woman wearing a Galaxy Watch 4 and Galaxy Buds while she ran alone in the city at 2AM. This ad was criticized for being an insensitive attempt to solve women's safety issues. The Galaxy Watch 4’s emergency features can’t always be relied on because users need to manually enable them or must be connected to signal in order to work. 
