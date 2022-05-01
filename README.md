@@ -1,14 +1,17 @@
 # tech-in-the-news
 
 A collection of news articles about technology and its impact on society.
-<<<<<<< HEAD
+* [Airbnb says staffers can work remotely forever, if they want](https://www.cnn.com/2022/04/28/tech/airbnb-return-to-office-update/index.html)
+  
+  Airbnb announced that all employees can work remotely permanently in a move to attract more top talent. Moving will have no impact on their compensation, so employees can still be paid at their normal rate while working remotely, even if the cost of living in their new city is lower. The CEO, Chesky, refers to the predicted future trend of ‘decentralization of living’, as revolutionizing the way people live and travel. Most other companies do not currently offer this option due to many of the associated complexities. Chesky believes other companies will be able to follow if an open-source solution is devised. This move by Airbnb sets a new precedent for remote work that many companies may end up following. 
+* [People in Beijing can now book a taxi with no one at the wheel](https://www.cnn.com/2022/04/28/tech/baidu-ponyai-self-driving-robotaxi-intl-hnk/index.html)
+
+  Baidu and Pony.ai are two autonomous vehicle driving companies that announced this week they will deploy their vehicles into the streets of China. They were granted the first permits which allow them to offer their services to the public. There are still restrictions in place during this period, such as a required operator in the front passenger seat as well as only operating within a 23 square mile range. This move further solidifies China’s position as the main testing ground for autonomous vehicles. This is a big move towards advancing the market of autonomous vehicles
 * [Russians liquidating crypto in the UAE to seek safe havens](https://www.cnbc.com/2022/03/11/russians-liquidating-crypto-in-the-uae-to-seek-safe-havens.html)
 
   Russians identified the United Arab Emirates (UAE) as a safe place to store their money, due to their neutral stance in the Russia-Ukraine conflict. Ultra-rich Russians and even Belarusians are coming to the UAE. Crypto firms have seen a large increase in requests to liquidate billions of dollars worth of crypto. Industry talk has indicated that a lot of the Russian money coming in is being invested into local UAE real estate. The incentive of liquidating crypto in the UAE is for protection against the recent pressures faced in the Russian economy. Some may be using crypto as a way around the sanctions in Russia. Major crypto exchanges are working with law enforcement to ensure that their sites are not being used to evade sanctions. However, the transparency of crypto transactions on the blockchain makes it difficult to identify any money laundering or related illegal activity. 
 
   This ongoing event sheds light into some of the existing issues with crypto and its role in the global economy. Crypto is relatively new in the global economy, so unpredictable events as such highlight security concerns that must be addressed. There may also be significance in the border crypto market if billions worth of crypto continue to be sold off.  
-=======
->>>>>>> upstream/main
 
 * [Using artificial intelligence to find anomalies hiding in massive datasets](https://techxplore.com/news/2022-02-artificial-intelligence-anomalies-massive-datasets.html)
 
