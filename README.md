@@ -2939,5 +2939,17 @@ This article talks about mit's new invention- a speaker that is paper thin. It r
 
 [Physicists Developed a Superconductor Circuit Long Thought to Be Impossible](https://www.sciencealert.com/a-feature-of-superconducting-circuits-thought-impossible-has-just-been-made-a-reality)
 
-This article talks about superconductor circuit made for quantium computers. Those efforts might now need to be revisited, in the wake of an experiment that shows a type of junction with a quantum component that's capable of directing even Cooper pairs down a one-way street. Josephson junctions are thin strips of non-superconducting material separating a pair of materials that are superconductors. If the material is thin enough, electrons can ghost right through them without a care in the world. Below a certain level, this 'supercurrent' has no voltage. At a critical point, a voltage emerges, rapidly oscillating in waves that can be put to use in applications like quantum computers. this techology will make quantam computer possibe
+This article talks about superconductor circuit made for quantium computers. Those efforts might now need to be revisited, in the wake of an experiment that shows a type of junction with a quantum component that's capable of directing even Cooper pairs down a one-way street. Josephson junctions are thin strips of non-superconducting material separating a pair of materials that are superconductors. If the material is thin enough, electrons can ghost right through them without a care in the world. Below a certain level, this 'supercurrent' has no voltage. At a critical point, a voltage emerges, rapidly oscillating in waves that can be put to use in applications like quantum computers. this techology will make quantam computer possibe[]
 
+[After a 3-Year Break, The Large Hadron Collider Restarts to Smash Some More Atoms](https://www.sciencealert.com/the-large-hadron-collider-restarts-after-a-3-year-long-break-to-perform-new-experiments)
+
+This article talks about the new hadron collider and the research plan that required the the machine. With the colider working, Many experiments are able to proceed.
+If all initial tests and checks starting March go well, scientists will begin experiments in June and slowly ramp up to full power by the end of July, experts told Live Science. The new run could finally reveal the long-sought "right-handed" versions of ghostly particles called neutrinos; find the elusive particles that make up dark matter, which exerts gravity but does not interact with light; and even help to explain why the universe exists at all.
+
+
+[NASA Beamed a Doctor to The ISS in a World-First 'Holoportation' Achievement](https://www.sciencealert.com/nasa-surgeon-beamed-to-international-space-station-in-holoportation-world-first)
+
+This articles talks about hologram techology and its application and its limitation. NASA flight surgeon Josef Schmid was beamed up to the ISS in October of last year, the illusion was made possible thanks to Microsoft's 'holoportation' technology, which lets users interact with 3D representations of remote participants in real time.Unlike traditional holographic projections that appear to hover in the air for anybody to see, holoportation requires the use of an augmented reality headset, such as Microsoft's HoloLens technology, for the wearer to be able to perceive (and interact with) the remotely captured individual(s), who are filmed with a multiple-camera setup in their actual location.
+
+
+[In a Scientific First, a Cosmic Ray Sensor Detected Tsunami Waves] (https://www.sciencealert.com/in-a-scientific-first-a-cosmic-ray-sensor-has-detected-tsunami-waves)
