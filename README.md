@@ -2930,12 +2930,18 @@ A collection of news articles about technology and its impact on society.
   in the technology industry. It also shows that Apple has an incredible amount of
   power over many other big technological services.
 
-*-[Digital Data Could Be Altering Earth's Mass Just a Tiny Bit, Claims Physicist(https://www.sciencealert.com/physicist-claims-information-has-mass-and-might-be-considered-a-state-of-matter)
+[Digital Data Could Be Altering Earth's Mass Just a Tiny Bit, Claims Physicist](https://www.sciencealert.com/physicist-claims-information-has-mass-and-might-be-considered-a-state-of-matter)
 According to calculations made a few years ago by University of Portsmouth physicist Melvin Vopson, this literal mass of visual imagery  could be making our planet a touch heavier. We as a human have many impact on the plant. if this hyposis is true then all the information we created are not eco-impact free. We must rethink our actions
 
 [Researchers develop a paper-thin loudspeaker](https://news.mit.edu/2022/low-power-thin-loudspeaker-0426)
 
 This article talks about mit's new invention- a speaker that is paper thin. It revolutionized how people think of speakers. Mit's design relies on tiny domes on a thin layer of piezoelectric material which each vibrate individually. These domes, each only a few hair-widths across, are surrounded by spacer layers on the top and bottom of the film that protect them from the mounting surface while still enabling them to vibrate freely. The same spacer layers protect the domes from abrasion and impact during day-to-day handling, enhancing the loudspeaker’s durability. This techology would be used in the future cinema or other place that can provide 3d experience
+[Nissan, NASA aim to ditch rare, pricey metals in solid-state batteries](https://arstechnica.com/cars/2022/04/nissan-nasa-aim-to-ditch-rare-pricey-metals-in-solid-state-batteries/)
+this articles talks about new apporches for making batteries.Nissan is partnering with NASA on a computational approach to developing all-solid-state batteries that don’t rely on rare or expensive metals.Building a pilot plant shows that Nissan is confident enough in its current solid-state battery tech that it believes it’s worth investing money to work out any manufacturing kinks. The 2028 target for mass production is similar to competitors like Solid Power. That suggests the industry is feeling confident in the timeline for when all-solid-state batteries will be ready for automotive use at scale.
+
+[Where you grew up may shape your navigational skills](https://www.sciencenews.org/article/navigation-skills-childhood-city-grid-country)
+In this article, through online data collection, the researchers find out people who grew up in country side has better navigational skill.The results, described online March 30 in Nature, hint that learning to handle environmental complexity as a child strengthens mental muscles for spatial skills. Nearly 400,000 people from 38 countries around the world played a video game called Sea Hero Quest, designed by neuroscientists and game developers as a fun way to glean data about people’s brains. Players piloted a boat in search of various targets.On average, people who said they had grown up outside of cities, where they would have presumably encountered lots of meandering paths, were better at finding the targets than people who were raised in cities.
+
 
 [Physicists Developed a Superconductor Circuit Long Thought to Be Impossible](https://www.sciencealert.com/a-feature-of-superconducting-circuits-thought-impossible-has-just-been-made-a-reality)
 
@@ -2953,3 +2959,30 @@ This articles talks about hologram techology and its application and its limitat
 
 
 [In a Scientific First, a Cosmic Ray Sensor Detected Tsunami Waves] (https://www.sciencealert.com/in-a-scientific-first-a-cosmic-ray-sensor-has-detected-tsunami-waves)
+
+This article talks about how scienist use muons monitors to detect tsunami.These highly energetic, elementary particles,muons, are created as cosmic rays arrive from space, are everywhere in the atmosphere.Crucially, they can be very slightly shifted in their paths by large natural forces, including tsunamis. An incredibly sensitive instrument is required to detect muon movement, which brings us to the Tokyo-Bay Seafloor Hyper-Kilometric Submarine Deep Detector, or the TS-HKMSDD for short. It's fitted inside the Tokyo Bay Aqua-Line expressway tunnel.The TS-HKMSSD had the honor of detecting tsunami waves through muon ripples for the first time. Important from the perspective of earlier warnings, the detection happened in real-time and was shown to be highly accurate.
+
+[An Ancient Namibian Stone Could Hold The Key to Unlocking Quantum Computers](https://www.sciencealert.com/an-ancient-namibian-stone-could-hold-the-key-to-unlocking-quantum-computers)
+This article talks about how the scientists create a hybrid particles of light and matter with a stone containing cuprous oxide.These quasiparticles, known as Rydberg polaritons, were made with the help of a piece of stone containing cuprous oxide (Cu2O) crystals from an ancient deposit in Namibia, one of the few places in the world where cuprous oxide has been found in gemstone quality.The crystal retrieved from the stone was polished and thinned to less than the width of a human hair and sandwiched between two mirrors to trap light, resulting in Rydberg polaritons 100 times larger than any previously seen.This achievement brings us closer to producing a quantum simulator that can run off these Rydberg polaritons, using quantum bits or qubits to store information in 0s, 1s, and multiple values in between – rather than just the 1s and 0s of classical computing bits.
+
+[US Army to build largest 3D-printed structures in the Americas](https://www.theregister.com/2022/04/09/army_3d_barracks/)
+This articles shows the future of arciture.The US Department of Defense is to construct and try out the largest 3D-printed buildings in the Americas: three barracks in a Lone Star army base. Scheduled to be built at Fort Bliss, El Paso, Texas, over the next 10 months, the three 3D-printed concrete barracks will each be more than 5,700 square feet (529.55 square meters) each, The barracks are being made out of Lavacrete, ICON's own proprietary building material blend. According to the company, the compressive strength of its high-strength concrete is between 2,000 and 3,500 PSI.
+
+[A new heat engine with no moving parts is as efficient as a steam turbine](https://techxplore.com/news/2022-04-efficient-steam-turbine.html)
+
+This article talks about a heat engine that is better than steam turbine engine. This particular engine has 40% percent efficiency which is better than most tpv cells or tranditional engine. The heat engine is a thermophotovoltaic (TPV) cell, similar to a solar panel's photovoltaic cells, that passively captures high-energy photons from a white-hot heat source and converts them into electricity. The team's design can generate electricity from a heat source of between 1,900 to 2,400 degrees Celsius, or up to about 4,300 degrees Fahrenheit.
+
+
+[Algorithm-generated music recommendations may be least accurate for hard rock listeners](https://techxplore.com/news/2021-03-algorithm-generated-music-accurate-hard.html)
+
+this article talks about the limation of machine learning algrithm in music recommaddation.A team of researchers from Graz University of Technology, Know-Center GmbH, Johannes Kepler University Linz, University of Innsbruck, Austria and University of Utrecht, the Netherlands, compared how accurate algorithm-generated music recommendations were for mainstream and non-mainstream music listeners. They used a dataset containing the listening histories of 4,148 users of the music streaming platform Last.fm who either listened to mostly non-mainstream music or mostly mainstream music (2,074 users in each group). Based on the artists music users' listened to most frequently, the authors used a computational model to predict how likely music users were to like the music recommended to them by four common music recommendation algorithms. They found that listeners of mainstream music appeared to receive more accurate music recommendations than listeners of non-mainstream music.
+
+[The Dream of Nuclear Fusion Is Now Closer to Reality. Here's Why](https://www.sciencealert.com/the-dream-of-nuclear-fusion-is-now-closer-to-reality-two-scientists-explain-why)
+This article talks about the newest breakthrough in nuclear techology. Scientists at a laboratory in England have shattered the record for the amount of energy produced during a controlled, sustained fusion reaction. The production of 59 megajoules of energy over five seconds at the Joint European Torus – or JET – experiment in England has been called "a breakthrough" by some news outlets and caused quite a lot of excitement among physicists. Although this reaction only last few second and it is not sustainable, it do help man kind closer to nuclear fusion.
+
+[Robotic dog will be on patrol in Pompeii](https://arstechnica.com/science/2022/04/boston-dynamics-robot-dog-will-help-protect-the-ruins-of-pompeii/)
+
+This article talks new application of robot drone in modern world In order to protect the ruined city and keep restoration workers safe, park authorities needed to find new ways to monitor for damage, restore ancient structures, and preserve them for the future. They used a robot dog to guard the runins. The dog's name is Spot  who is a four-legged walking robot that can cross uneven terrain while carrying small payloads like cameras and sensors.Much like real dogs trained to work in disaster zones, Spot can maneuver easily across uneven rock and rubble, slip down narrow passageways between ancient walls and piles of volcanic debris, or crawl into crumbling underground tunnels. But unlike an actual dog, Spot can map precise details of the terrain it crosses and the conditions of the walls and other structures around it. Park officials at Pompeii say they’ll use the data to spot problems and plan strategies for preserving the site.
+
+
+
