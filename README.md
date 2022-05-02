@@ -2,6 +2,20 @@
 
 A collection of news articles about technology and its impact on society.
 
+* [When Police Do Marketing for Surveillance Tech Companies](https://www.vice.com/en/article/93b4b5/when-police-do-marketing-for-surveillance-tech-companiess)
+
+  This article goes over the developing relationship between California police and the drone company Skydio. The Chula Vista police department is a
+  prominent partner with Skydio, which the report shows official emails between individual police officers and they company. These activities
+  included marketing efforts supported by officers demonstrating the equipment, and even networking between known contacts of officers with the company
+  to further help in its development. Skydio claims that it only means to boost the effectiveness of public servants, like police officers, by using drones
+  to aid in for-good-cause scenarios (e.g trailing a suspect, search and rescue etc). From the surface, it doesn't seem like Skydio and its partnership with police is
+  raising immediate alarms, but its the final result that seems concerning. The use of drones by authorities brings out the fear of mass surveillance and questions of public
+  safety. And it is a double edge sword for the intention of police needing drones, as I believe the need of these drones should come from carefully planned deployment of these drones
+  in real live scenarios. This would help the public and police see if drones really bring value to supporting just-policing, or if they are just fancy toys to mess around with.
+  In any case, it appears that Skydio is looking to develop its relationship network, such as with other police departments, to better ease in their drone products. However, Skydio
+  still has to abide by FAA laws, which I'm glad to see is being respected, but the bigger question arises when they get over this regulatory hurdle and what the ethical dilemmas are
+  once these drones start to be common in our skies.
+
 * [Adding AI to Museum exhibits increases learning, keeps kids engaged longer](https://www.proquest.com/docview/2648633087)
 
   Researchers have found a more effective way to support learning and increase engagement at
