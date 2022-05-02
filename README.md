@@ -590,6 +590,23 @@ A collection of news articles about technology and its impact on society.
 
   Ars Technica's article discusses how an author for a popular open-source Node package added malicious code that overwrites a user's file system with heart emojis—if the user has a Russian or Belarusian IP address. The motive behind this was to attack Russian and Belarusian systems in support of Ukraine, and the package modified is a dependency for Vue.js, one of the most popular web development frameworks. This could potentially draw some negative flack to open-source models, as the security of their code is contingent on community trust and good peer review practices. However, this also raises security questions for projects and libraries that pull in large amounts of dependencies through npm.
 
+* [US Braces for Cyberwarfare Amid Fears of Russian Assault](https://www.technewsworld.com/story/us-braces-for-cyberwarfare-amid-fears-of-russian-assault-87462.html)
+
+  This article provides an overview of the US government recommendations to the public and private sector on the threat of cybersecurity with the ongoing Russia-Ukraine War.
+  A comissioner from the Cyberspace Solarium Commission states that Russia isn't currently conducting a major cyber attack against the US, but that vigilance must be taken
+  to be prepared on the cyberwar front. The Federal Cybersecurity Agency known as CISA has increased guidance in collaboration with companies and local government to upgrade
+  the baseline of good cybersecurity measures, from basic security protocol to mitigation responses. However, CISA's chief of staff remarked that the responsibility of implementing 
+  cybersecurity measures is by the public and private sector entities, as the government plays a support role with giving recommendations and guidelines. Nonetheless, experts remind
+  the industry sector to be more resilient with their IT and cybersecurity operations. Cybersecurity is usually not a problem until it becomes a problem. 
+  I believe this report only reinforces the danger of forgetting of the "cyber" part when it comes to the security of individuals, companies, and the government. 
+  As the average citizen, we don't really suffer from direct cyberattacks, but that isn't to say that an actor like Russia has no quarrels committing cyber offences
+  that hurt citizens in other ways. For instance, Russian hackers could successfully hack our power grid and/or target essential companies
+  that supply resources. But I believe it's the companies that should show more responsibility in their security measures because the hackers do not
+  care what the bad outcome is from their attacks. My worry is that next years report will show a bigger increase in cyber attacks, which shouldn't
+  happen because the government has clearly outlined the neccessity for everyone to be aware of the cyber dangers. We have seen the power hackers possess
+  in our digital age, so hackers backed by the Russian government should mean more actionable measures and proactive goals in the overall cyber security of
+  the US.
+
 * [Why Vanderbilt baseball calls pitches on electronic wristbands and how they could improve the game](https://www.tennessean.com/story/sports/college/vanderbilt/2022/03/14/vanderbilt-baseball-pitchers-electronic-wristbands-pitch-calling-new-college-rule/9409722002/)
 
   The Vanderbilt baseball has implemented a new piece of technology this season in order to not only improve the pace of play of the game of baseball, but also to improve communication between players on their team. Basically, the players on the field all wear a wristband that has a screen that will display the pitch that the pitcher is supposed to throw. The pitcher knows what pitch he is supposed to throw instantly and so does the catcher and the rest of the fielder behind him. This means that the time it took for a catcher to relay signs from the coach to a pitcher is cut in half while also allowing for every other player on the team to know what will be thrown as well. The device works as the coach presses a button and it sends a short secure signal to each device. This device is a sign that the sports world is becoming more tech involved as for the first time we are seeing players with an electronic device on their bodies. The pitcher and catcher are able to communicate without the use of words or even hand signals. The players are able to be told what to do by their coach without the coach having to be vocal enough for the other team to hear him. These devices do not use bluetooth and have a range of about 500 feet, so even players on the opposite side of the field are able to still receive the sign from the coach.
