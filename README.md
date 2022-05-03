@@ -368,3 +368,10 @@ A collection of news articles about technology and its impact on society.
   time for failure to comply.  Critics are worried that companies will be overzealous when taking down content
   which will potentially infringe upon free speech.  Bill writers responded with a clause that details content
   that is potentially harmful, but not illegal and forbids companies from deleting this content. 
+
+* [Australia to make Big Tech hand over misinformation data](https://www.reuters.com/technology/australia-make-big-tech-hand-over-misinformation-data-2022-03-21/)
+  Australia has given their media regulator the power to force big tech companies to provide data about their
+  softwares regarding misinformation and disinformation. In addition, the Australian Communications and Media 
+  Authority (ACMA) will enforce an internet code that requires companies to prevent the spread of misinformation.
+  Australia hopes that this will set a precedent for all social media, not just big tech since many misinformation
+  groups ask users to leave large apps and move to apps that are less strict about content. 
