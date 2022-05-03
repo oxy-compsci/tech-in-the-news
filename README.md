@@ -341,7 +341,7 @@ A collection of news articles about technology and its impact on society.
   graphics processing power, allow avatars to make eye contact, and integrate new eye controls.  However,
   there is a big security concern regarding the data that will be collected from users' eye movements. 
   Fortunately, software companies like Tobii, are brainstorming user agreements that will explain
-  what data is being collected to better inform users before they allow thier data to be tracked. 
+  what data is being collected to better inform users before they allow their data to be tracked. 
 
 * [Walmart rolls out a tech tool to help shoppers try on clothes without actually trying them on](https://www.cnbc.com/2022/03/02/walmart-rolls-out-virtual-fitting-room-to-help-shoppers-find-clothes.html)
   In early March, Walmart released a new feature in their app entitled "Choose My Model," that allows users
@@ -375,3 +375,11 @@ A collection of news articles about technology and its impact on society.
   Authority (ACMA) will enforce an internet code that requires companies to prevent the spread of misinformation.
   Australia hopes that this will set a precedent for all social media, not just big tech since many misinformation
   groups ask users to leave large apps and move to apps that are less strict about content. 
+
+*[Washington State Signs Bill to Study Blockchain Technology](https://www.thestreet.com/crypto/news/washington-state-signs-bill-to-study-blockchain-technology)
+  Washington state signed a bill to fund research regarding blockchain technology in key industrial areas. This
+  bill is seen as a strong addition to the precedence of government funding in the private sector.  This new 
+  area of R&D has promising impacts for the Washington economy and the govenor hopes that this bill will help
+  all Washington Residents. Critics worry that this will be a misuse of taxpayer money among high homelessness
+  and food insecurity around Washington. Others argue that this investment will attract companies to Washington
+  which will fuel the local Washinton economy. 
