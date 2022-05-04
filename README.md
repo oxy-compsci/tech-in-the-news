@@ -383,3 +383,11 @@ A collection of news articles about technology and its impact on society.
   all Washington Residents. Critics worry that this will be a misuse of taxpayer money among high homelessness
   and food insecurity around Washington. Others argue that this investment will attract companies to Washington
   which will fuel the local Washinton economy. 
+
+*[Obama calls for tech regulation to combat disinformation on social media](https://www.cnbc.com/2022/04/21/obama-calls-for-tech-regulation-to-combat-disinformation-on-internet.html)
+  Former president Barack Obama has called for harsher tech regulation through revisions of Section 230 which
+  legally protects companies from individual comments on their site.  Obama argues that advertisments on social 
+  media are spreading too much misinformation and need to be curbed.  However, the article mentions that Obama
+  does not want Section 230 to be repealed, but only to be edited to increase strictness. He argues that 
+  companies should be required to disclose their proprietary algorithms to the government under the pretense
+  of protection.   
