@@ -390,4 +390,10 @@ A collection of news articles about technology and its impact on society.
   media are spreading too much misinformation and need to be curbed.  However, the article mentions that Obama
   does not want Section 230 to be repealed, but only to be edited to increase strictness. He argues that 
   companies should be required to disclose their proprietary algorithms to the government under the pretense
-  of protection.   
+  of protection.  
+*[Tech needs girls, and girls need tech](https://news.un.org/en/story/2022/04/1117162) 
+  During international girls in Information and Communications Technology, the UN is making a big push to high-
+  light the gender disparity across the world in tech.  The UN cites a study that demonstrated that girls 
+  access digital technology at an average age that is older than boys.  Often their voyage into tech is curtailed
+  by their parents. The UN hopes this international day of celebration will help more girls consider a career
+  in STEM. 
