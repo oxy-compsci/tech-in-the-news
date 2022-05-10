@@ -2,6 +2,37 @@
 
 A collection of news articles about technology and its impact on society.
 
+* [When Police Do Marketing for Surveillance Tech Companies](https://www.vice.com/en/article/93b4b5/when-police-do-marketing-for-surveillance-tech-companiess)
+
+  This article goes over the developing relationship between California police and the drone company Skydio. The Chula Vista police department is a
+  prominent partner with Skydio, which the report shows official emails between individual police officers and they company. These activities
+  included marketing efforts supported by officers demonstrating the equipment, and even networking between known contacts of officers with the company
+  to further help in its development. Skydio claims that it only means to boost the effectiveness of public servants, like police officers, by using drones
+  to aid in for-good-cause scenarios (e.g trailing a suspect, search and rescue etc). From the surface, it doesn't seem like Skydio and its partnership with police is
+  raising immediate alarms, but its the final result that seems concerning. The use of drones by authorities brings out the fear of mass surveillance and questions of public
+  safety. And it is a double edge sword for the intention of police needing drones, as I believe the need of these drones should come from carefully planned deployment of these drones
+  in real live scenarios. This would help the public and police see if drones really bring value to supporting just-policing, or if they are just fancy toys to mess around with.
+  In any case, it appears that Skydio is looking to develop its relationship network, such as with other police departments, to better ease in their drone products. However, Skydio
+  still has to abide by FAA laws, which I'm glad to see is being respected, but the bigger question arises when they get over this regulatory hurdle and what the ethical dilemmas are
+  once these drones start to be common in our skies.
+
+* [US Braces for Cyberwarfare Amid Fears of Russian Assault](https://www.technewsworld.com/story/us-braces-for-cyberwarfare-amid-fears-of-russian-assault-87462.html)
+
+  This article provides an overview of the US government recommendations to the public and private sector on the threat of cybersecurity with the ongoing Russia-Ukraine War.
+  A comissioner from the Cyberspace Solarium Commission states that Russia isn't currently conducting a major cyber attack against the US, but that vigilance must be taken
+  to be prepared on the cyberwar front. The Federal Cybersecurity Agency known as CISA has increased guidance in collaboration with companies and local government to upgrade
+  the baseline of good cybersecurity measures, from basic security protocol to mitigation responses. However, CISA's chief of staff remarked that the responsibility of implementing
+  cybersecurity measures is by the public and private sector entities, as the government plays a support role with giving recommendations and guidelines. Nonetheless, experts remind
+  the industry sector to be more resilient with their IT and cybersecurity operations. Cybersecurity is usually not a problem until it becomes a problem.
+  I believe this report only reinforces the danger of forgetting of the "cyber" part when it comes to the security of individuals, companies, and the government.
+  As the average citizen, we don't really suffer from direct cyberattacks, but that isn't to say that an actor like Russia has no quarrels committing cyber offences
+  that hurt citizens in other ways. For instance, Russian hackers could successfully hack our power grid and/or target essential companies
+  that supply resources. But I believe it's the companies that should show more responsibility in their security measures because the hackers do not
+  care what the bad outcome is from their attacks. My worry is that next years report will show a bigger increase in cyber attacks, which shouldn't
+  happen because the government has clearly outlined the neccessity for everyone to be aware of the cyber dangers. We have seen the power hackers possess
+  in our digital age, so hackers backed by the Russian government should mean more actionable measures and proactive goals in the overall cyber security of
+  the US.
+
 * [Snapchat's flying selfie drone](https://www.bbc.com/news/technology-61269912)
 
   This article from the BBC reports that Snapchat is releasing a mini, selfie-taking drone called "Pixy." Ideally, this would replace the selfie-stick – as the drone would be able to fly away from the user, take a picture, and then return to the user's hand. Snap is optimistic about releasing this drone because they believe that they will likely become as ubiquitous as smartphones within society. This prediction should be taken with a grain of salt for two reasons. Firstly, their prediction of their first product released, the Snap Spectacles (glasses), was that they would also become mainstream; however, they ended up losing around 40 million dollars on the product because no one was buying it. Secondly: there are many laws prohibiting the use of drones or restrict those who can fly them. This drone might circumvent these laws because it could be deemed a "toy" because it is only 101g – which is "under the 250g limit where laws start to kick in." **My thoughts:** Personally, I am skeptical of how Snap is going to monitor/use the data collected from a drone with a camera. Depending on the security of these drones, there could be privacy issues or surveillance happening. I am genuinely curious about how the AI boom will affect society, and what applications will become mainstream.
