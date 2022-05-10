@@ -2,6 +2,18 @@
 
 A collection of news articles about technology and its impact on society.
 
+* [How India's drone start-ups could change healthcare](https://www.bbc.com/news/world-asia-india-61267750)
+
+  Drones have been being used in India’s medical industry to make healthcare accessible to remote regions. They are able to deliver medical supplies in half the time that it would have taken humans by road. With recent liberalization of governmental regulations of drones, the drone services industry is expected to grow dramatically over the next 3 years.
+
+* [Why Argentina is embracing cryptocurrency](https://www.bbc.com/news/business-60912789)
+
+  Many Argentinians have anxiety over money due to the 1990’s financial crisis where banks dramatically devalued everybody’s money. The Argentine peso is highly volatile and controlled by politics. For this reason, people prefer to invest their savings in cryptocurrency, especially BitCoin. It’s the best alternative to the changeable peso and convenient because of low electricity costs in Argentina.
+
+* [Tone-deaf Samsung ad is a reminder that smartwatch safety still has a ways to go](https://www.theverge.com/2022/4/29/23048309/samsung-smartwatch-ad-emergency-sos)
+
+  Samsung recently aired an advertisement of a woman wearing a Galaxy Watch 4 and Galaxy Buds while she ran alone in the city at 2AM. This ad was criticized for being an insensitive attempt to solve women's safety issues. The Galaxy Watch 4’s emergency features can’t always be relied on because users need to manually enable them or must be connected to signal in order to work.
+
 * [A 1-mile stretch of road is being built in Detroit that can charge electric cars as they drive -- if owners install a special receiver](https://www.businessinsider.com/public-road-detroit-to-charge-electric-cars-as-they-drive-2022-2?utm_source=reddit.com)
 
   Tech startup Electreon Wireless is working with Ford and DTE to build an electrified road that charges cars through inductive charging.
@@ -1518,14 +1530,3 @@ A collection of news articles about technology and its impact on society.
   Nevertheless, it could also be in response to other huge acquisitions by Microsoft, including that
   of Zenimax Media Inc., the parent company of Bethesda.
 
-* [How India's drone start-ups could change healthcare](https://www.bbc.com/news/world-asia-india-61267750)
-
-  Drones have been being used in India’s medical industry to make healthcare accessible to remote regions. They are able to deliver medical supplies in half the time that it would have taken humans by road. With recent liberalization of governmental regulations of drones, the drone services industry is expected to grow dramatically over the next 3 years. 
-
-* [Why Argentina is embracing cryptocurrency](https://www.bbc.com/news/business-60912789)
-
-  Many Argentinians have anxiety over money due to the 1990’s financial crisis where banks dramatically devalued everybody’s money. The Argentine peso is highly volatile and controlled by politics. For this reason, people prefer to invest their savings in cryptocurrency, especially BitCoin. It’s the best alternative to the changeable peso and convenient because of low electricity costs in Argentina. 
-
-* [Tone-deaf Samsung ad is a reminder that smartwatch safety still has a ways to go](https://www.theverge.com/2022/4/29/23048309/samsung-smartwatch-ad-emergency-sos)
-  
-  Samsung recently aired an advertisement of a woman wearing a Galaxy Watch 4 and Galaxy Buds while she ran alone in the city at 2AM. This ad was criticized for being an insensitive attempt to solve women's safety issues. The Galaxy Watch 4’s emergency features can’t always be relied on because users need to manually enable them or must be connected to signal in order to work. 
