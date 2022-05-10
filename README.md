@@ -2,6 +2,15 @@
 
 A collection of news articles about technology and its impact on society.
 
+* [Best Font for Online Reading: No Single Answer](https://www.nngroup.com/articles/best-font-for-online-reading/)
+
+  A recent study found that there is no single font that allows for the quickest reading for all users.
+  The study was conducted on 352 participants, who each read a short passage of text in 5 of 16 standard fonts.
+  Results of participants' reading speeds showed there were substantial individual differences, with age having a strong correlation with speed.
+  Additionally, participants read 14% slower in their preferred font than their fastest font.
+  The consideration of age in this study really underlines the importance of finding the optimal font for older users, as they will be more negatively impacted by the wrong choice of font.
+  Technoliteracy and technofluency is already a handicap among the elderly, so the findings of this study may help make websites with substantial amounts of text more usable for older people.
+
 * [Web scraping is legal, US appeals court reaffirms](https://techcrunch.com/2022/04/18/web-scraping-legal-court/)
 
   The US appeals court recently reaffirmed its original decision that scraping public data is legal.
@@ -1697,12 +1706,3 @@ A collection of news articles about technology and its impact on society.
   Nevertheless, it could also be in response to other huge acquisitions by Microsoft, including that
   of Zenimax Media Inc., the parent company of Bethesda.
 
-* [Best Font for Online Reading: No Single Answer](https://www.nngroup.com/articles/best-font-for-online-reading/)
-
-  A recent study found that there is no single font that allows for the quickest reading for all users. 
-  The study was conducted on 352 participants, who each read a short passage of text in 5 of 16 standard fonts. 
-  Results of participants' reading speeds showed there were substantial individual differences, with age having a strong correlation with speed. 
-  Additionally, participants read 14% slower in their preferred font than their fastest font. 
-  The consideration of age in this study really underlines the importance of finding the optimal font for older users, as they will be more negatively impacted by the wrong choice of font. 
-  Technoliteracy and technofluency is already a handicap among the elderly, so the findings of this study may help make websites with substantial amounts of text more usable for older people.
-  
