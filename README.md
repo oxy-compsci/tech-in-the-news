@@ -2,6 +2,30 @@
 
 A collection of news articles about technology and its impact on society.
 
+* [Robot chef that has learned to chew, taste and alter seasoning is unveiled](https://news.sky.com/story/robot-chef-that-has-learned-to-chew-taste-and-alter-seasoning-is-unveiled-12604997)
+
+  Researchers at the University of Cambridge have revealed a new 'robot chef', which
+  has been given the ability to chew and taste the food that it makes. The reasoning
+  behind this is to give the robot the ability to examine the food it creates, and
+  learn how it can improve. At the moment, this technology is still very limited, but
+  their hope is that the technology will eventually make its way to assisted living
+  homes and busy households in the not too distant future. Not much research has been
+  put into the ethics behind robot chefs, but concerns such as safety and privacy must
+  also be taken into account when developing a robot like this. Whether or not the food
+  output is good is only a single factor in many which govern the way that robots should
+  be introduced to society.
+
+* [Two-Day Hackathon To Drive Change For Climate Action](https://irishtechnews.ie/two-day-hackathon-for-climate-action/)
+
+  This week, Analog Devices International is hosting a hackathon focused on examining how their
+  technology can be used to combat climate change. The event will bring together engineers
+  from their different locations, where they will aim to develop innovative solutions to
+  help lessen the climate crisis, as well as sustainable business mechanisms. Although
+  technology has contributed greatly to the climate crisis, tech companies are also in a
+  good position to help fight against climate change, and ADI is one of many that have
+  pledged to do their part. However, there is still much work that needs to be done, and not
+  much time can be wasted to make the changes necessary.
+
 * [Walmart rolls out a tech tool to help shoppers try on clothes without actually trying them on](https://www.cnbc.com/2022/03/02/walmart-rolls-out-virtual-fitting-room-to-help-shoppers-find-clothes.html)
 
   In early March, Walmart released a new feature in their app entitled "Choose My Model," that allows users
