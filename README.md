@@ -1601,3 +1601,73 @@ A collection of news articles about technology and its impact on society.
   Nevertheless, it could also be in response to other huge acquisitions by Microsoft, including that
   of Zenimax Media Inc., the parent company of Bethesda.
 
+* [Apple plans AirTag updates to curb unwanted tracking](https://www.cnn.com/2022/02/10/tech/airtag-safety-updates/index.html)
+
+  After a increase in complaints related to user safety with regards to AirTag security concerns, Apple
+  will be releasing new updates that increase user safety.  Apple states that they have worked with law enforcement
+  officials to workshop updates that will help keep users safe. Unfortunately, these updates will only help 
+  victims with iPhones and aren't aimed at keeping people with other cell phone brands safe. On the plus side, 
+  there are a few apps that android users can download that have similar functions as these new Apple updates. 
+
+* [Watching Me, Watching You: How Eye Tracking Is Coming to VR and Beyond](https://www.cnet.com/tech/computing/watching-me-watching-you-how-eye-tracking-is-coming-to-vr-and-beyond/)
+  Experts at Tobii, an eye tracking tech company, believe that eye tracking is the next big leap
+  in VR and AR technology. By integrating eye tracking into AR and VR, software engineers can redistribute
+  graphics processing power, allow avatars to make eye contact, and integrate new eye controls.  However,
+  there is a big security concern regarding the data that will be collected from users' eye movements. 
+  Fortunately, software companies like Tobii, are brainstorming user agreements that will explain
+  what data is being collected to better inform users before they allow their data to be tracked. 
+
+* [Walmart rolls out a tech tool to help shoppers try on clothes without actually trying them on](https://www.cnbc.com/2022/03/02/walmart-rolls-out-virtual-fitting-room-to-help-shoppers-find-clothes.html)
+  In early March, Walmart released a new feature in their app entitled "Choose My Model," that allows users
+  to "try on" clothing using models that best resemble them.  These models are real people licensed through
+  the app which incorporates Zeekit, a startup that Walmart aquired in May.  Almost immediately, there was 
+  backlash citing lack of diversity within the models. Currently there are only 50 models, but Walmart plans 
+  to add 70.  Walmart believes that this will help shoppers buy clothes as well as reduce the amount of clothing
+  returns. 
+
+* [How AI Can Make Weather Forecasting Better and Cheaper](https://www.bloomberg.com/news/articles/2022-03-10/how-ai-technology-can-help-forecast-extreme-weather)
+  Atmo AI, a tech startup based out of California, is marketing a new disaster prediction hardware & software
+  package to countries around the world.  Co-founder Johan Mathe believes that this product will fill a large
+  hole in government technology for most countries...rivaling the marketing power of Apple.  Their sleek design
+  comes in two formats, a higher end, more powerful software, and a more economically friendly version. Atmo
+  has already signed several deals with a couple countries in Africa, but critics worry they are just 
+  continuing the cycle of failed tech projects appealing to desparate countries, especially since many poor
+  countries don't have the resources or weather records to train a prediction AI like Atmos'. However, Atmos
+  argues that their product has already provided reliable results for contracted countries with small data sets. 
+
+* [Tech leaders face threat of prison under new UK online bill](https://apnews.com/article/technology-business-social-media-united-kingdom-online-safety-a76673ccfadad80e988fdc7a1905365e)
+  Leaders in the UK have unveiled a new bill that allows authorities to prosecute tech company leaders for 
+  harmful or illegal content on their sites or app.  This bill is aimed at targeting "child sex abuse, racist 
+  content, bullying, fraud and other harmful material" and faces company leaders with fines and possible jail
+  time for failure to comply.  Critics are worried that companies will be overzealous when taking down content
+  which will potentially infringe upon free speech.  Bill writers responded with a clause that details content
+  that is potentially harmful, but not illegal and forbids companies from deleting this content. 
+
+* [Australia to make Big Tech hand over misinformation data](https://www.reuters.com/technology/australia-make-big-tech-hand-over-misinformation-data-2022-03-21/)
+  Australia has given their media regulator the power to force big tech companies to provide data about their
+  softwares regarding misinformation and disinformation. In addition, the Australian Communications and Media 
+  Authority (ACMA) will enforce an internet code that requires companies to prevent the spread of misinformation.
+  Australia hopes that this will set a precedent for all social media, not just big tech since many misinformation
+  groups ask users to leave large apps and move to apps that are less strict about content. 
+
+*[Washington State Signs Bill to Study Blockchain Technology](https://www.thestreet.com/crypto/news/washington-state-signs-bill-to-study-blockchain-technology)
+  Washington state signed a bill to fund research regarding blockchain technology in key industrial areas. This
+  bill is seen as a strong addition to the precedence of government funding in the private sector.  This new 
+  area of R&D has promising impacts for the Washington economy and the govenor hopes that this bill will help
+  all Washington Residents. Critics worry that this will be a misuse of taxpayer money among high homelessness
+  and food insecurity around Washington. Others argue that this investment will attract companies to Washington
+  which will fuel the local Washinton economy. 
+
+*[Obama calls for tech regulation to combat disinformation on social media](https://www.cnbc.com/2022/04/21/obama-calls-for-tech-regulation-to-combat-disinformation-on-internet.html)
+  Former president Barack Obama has called for harsher tech regulation through revisions of Section 230 which
+  legally protects companies from individual comments on their site.  Obama argues that advertisments on social 
+  media are spreading too much misinformation and need to be curbed.  However, the article mentions that Obama
+  does not want Section 230 to be repealed, but only to be edited to increase strictness. He argues that 
+  companies should be required to disclose their proprietary algorithms to the government under the pretense
+  of protection.  
+*[Tech needs girls, and girls need tech](https://news.un.org/en/story/2022/04/1117162) 
+  During international girls in Information and Communications Technology, the UN is making a big push to high-
+  light the gender disparity across the world in tech.  The UN cites a study that demonstrated that girls 
+  access digital technology at an average age that is older than boys.  Often their voyage into tech is curtailed
+  by their parents. The UN hopes this international day of celebration will help more girls consider a career
+  in STEM. 
