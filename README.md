@@ -2,6 +2,14 @@
 
 A collection of news articles about technology and its impact on society.
 
+* [Search histories, location data, text messages: How personal data could be used to enforce anti-abortion laws](https://www.cnn.com/2022/05/05/tech/abortion-laws-phone-privacy/index.html)
+
+  A recent movement among Republican controlled states has many privacy and women's rights activists worried. States that restrict and criminalize abortion have begun a spree of legislation that takes aim at the personal data of those seeking abortions. There has been an increase in privacy concerns as states like Texas or Oklahoma could subpoena various apps as evidence of seeking or planning to get an abortion. Notable apps include those that track your period or your pregnancy could be classified as evidence and presented in front of a court. Because of the wording of the state legislation, abortion-seeking conduct is criminalized. Therefore even seeking resources or information on how to access an abortion would be illegal. This could extend further than data found within apps, as law-enforcement officials could seek to acquire geo-location data from companies like Google in order to approximate an individual's location at a certain time. This sets an extremely dangerous precedent both for privacy regulation and for the rights of women. Criminalizing the act of getting information and using something like the apps they use to do it is mind-boggling.
+
+* [Google Chrome restricts access to patched 0-day exploit](https://chromereleases.googleblog.com/2022/03/stable-channel-update-for-desktop_25.html)
+
+  If you browse the Stable-channels for the various pieces of software you use you've probably seen a page that alerts you of the various CVE's that have been patched in the latest release notes. These normally include an identifying number, the person who reported it, a brief explanation of what it was, and a link to the initial bug report. However, all the way back in March, Chrome patched CVE-2022-1096. Instead of the usual fanfair listed earlier, they didn't actually disclose the vulnerability for how dangerous it could actually be. This is only done in extremely rare circumstances, when a vulnerability could have a high impact on the browser's ecosystem. While this really isn't all that exciting, after all it's been patched, it is important to keep in mind that the Chrome web browser is actually the basis for a massive portion of software outside of the web browser. The Chromium Engine powers several browsers, the NodeJS environment, and plenty of other pieces of software. I guess this is a reminder to always keep your software up to date.
+
 * [Best Font for Online Reading: No Single Answer](https://www.nngroup.com/articles/best-font-for-online-reading/)
 
   A recent study found that there is no single font that allows for the quickest reading for all users.
