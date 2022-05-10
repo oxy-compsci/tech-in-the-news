@@ -2,6 +2,15 @@
 
 A collection of news articles about technology and its impact on society.
 
+* [Web scraping is legal, US appeals court reaffirms](https://techcrunch.com/2022/04/18/web-scraping-legal-court/)
+
+  The US appeals court recently reaffirmed its original decision that scraping public data is legal.
+  The case started when LinkedIn claimed that web scraping was a violation of the Computer Fraud and Abuse Act in order to prevent a rival company from using its users' public profile information.
+  Although it is legal, ethical concerns around web scraping still linger, with billions of social media profiles being scraped by ClearviewAI, a facial recognition startup.
+  This is also a landmark case because of the countless technologies and research that depend on web scraping for data.
+  I believe that the appeals court's decision is reasonable, but also that these data privacy concerns are very legitimate.
+  To resolve this conflict, I can only think of a future where people are much, much more cautious of the information they make available to the public web.
+
 * [Robot chef that has learned to chew, taste and alter seasoning is unveiled](https://news.sky.com/story/robot-chef-that-has-learned-to-chew-taste-and-alter-seasoning-is-unveiled-12604997)
 
   Researchers at the University of Cambridge have revealed a new 'robot chef', which
@@ -1688,11 +1697,3 @@ A collection of news articles about technology and its impact on society.
   Nevertheless, it could also be in response to other huge acquisitions by Microsoft, including that
   of Zenimax Media Inc., the parent company of Bethesda.
 
-* [Web scraping is legal, US appeals court reaffirms](https://techcrunch.com/2022/04/18/web-scraping-legal-court/)
-
-  The US appeals court recently reaffirmed its original decision that scraping public data is legal. 
-  The case started when LinkedIn claimed that web scraping was a violation of the Computer Fraud and Abuse Act in order to prevent a rival company from using its users' public profile information. 
-  Although it is legal, ethical concerns around web scraping still linger, with billions of social media profiles being scraped by ClearviewAI, a facial recognition startup.
-  This is also a landmark case because of the countless technologies and research that depend on web scraping for data. 
-  I believe that the appeals court's decision is reasonable, but also that these data privacy concerns are very legitimate. 
-  To resolve this conflict, I can only think of a future where people are much, much more cautious of the information they make available to the public web. 
