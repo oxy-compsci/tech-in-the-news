@@ -2,6 +2,38 @@
 
 A collection of news articles about technology and its impact on society.
 
+* [Can M1 iPad Air Replace Your Laptop?](https://www.reviewed.com/laptops/features/can-m1-ipad-air-replace-your-laptop?utm_source=usat&utm_medium=referral&utm_campaign=collab)
+
+  Apple's new iPad Air includes the same M1 chip inside the MacBook Air, and finally brings us a laptop-class chip in a tablet form. It has quite a bit of power, and   a price tag that is significantly lower than the M1 iPad Pro. Although the M1 MacBooks have just as much power, if not more, than the iPad Air, bringing a laptop-     level chip to a tablet really does provide the best of both worlds. I believe that this chip being placed in a tablet is really freeing for users in that it is     portable and light while also powerful and versatile. It can be used for web browsing and gaming on the go, and has enough power to run more complex programs, which is part of the magic of it.
+
+* [These Futuristic Glasses Let you Listen to Tunes and Tailor the Tint on Demand](https://www.reviewed.com/headphones/content/ampere-dusk-smart-sunglasses-review?utm_source=usat&utm_medium=referral&utm_campaign=collab)
+
+  Ampere just came out with a new kind of sunglasses that allow you to change their tint on command called the Ampere Dusk. They use “electrochromic” tech that lets you instantly change the lens shading electronically. Not only do they let you change their tint, but they also have small speakers in the glasses that project audio to your ears. I think this kind of technology is super cool and fun, but not completely necessary. Having music beamed directly to your ears is great, but what if you want to listen to music without the shades? It just seems more convenient to use a pair of bluetooth headphones or earbuds. The automatic tint, however, is something that I think might stick around.
+
+* [TikTok’s Work Culture: Anxiety, Secrecy and Relentless Pressure](https://www.wsj.com/articles/tiktoks-work-culture-anxiety-secrecy-and-relentless-pressure-11651848638?mod=tech_lead_pos2)
+
+  Former U.S. Tiktok workers seem to have common complaints about their old workspace, usually speaking of sleep deprivation, work on weekends, and mandatory meetings with colleagues on the other side of the globe. Tiktok’s need to fuel its success is pushing its workers too far. I think a lot of times with big companies and social media platforms, the work environments created are toxic and unhealthy for employees. Productivity and success is good for companies, but that doesn’t come by overworking your workers and burning them out. It is important to give employees a good work-life balance to create a positive work environment.
+
+* [Apple iPhone Users Got Alerts About Strangers’ AirTags. The Trackers Were Never Found.](https://www.wsj.com/articles/phantom-airtag-alerts-send-iphone-users-on-wild-goose-chases-11651799060?mod=tech_lead_pos4)
+
+  Apple notifies people when they’re recorded as being followed by an unknown AirTag. Unfortunately many customers have complained that the company has been alerting them even when they aren’t likely being tracked at all. I believe that this is an issue that Apple needs to fix, because it can cause a large amount of concern in a person if they feel like they are being followed. Some people may even go to extreme measures affecting their livelihoods and relationships to feel safe. This issue can have a lot of repercussions in one’s life, so Apple needs to address this as soon as possible.
+
+* [Apple’s Not-So-Secret Plan to Take Another Gigantic Bite of the Microchip Market](https://www.wsj.com/articles/apples-not-so-secret-plan-to-take-another-gigantic-bite-of-the-microchip-market-11651291235?mod=tech_listb_pos4)
+
+  Apple has a history of building the brains for its products dependably and efficiently. The company has recently attempted to do the same for the chips that connect their products to the internet and this new development could have a big impact on the company’s future. In my opinion, Apple has made a very good call economically endeavoring into the world of chips as it would expand and grow their company. With its recent M1 chip, we can see they have been successful at marketing and development of chips. The only downfall to this that I see is that Apple now has the potential to monopolize the smartphone market even more.
+
+* [Oakland, California’s New CIO to Tackle Digital Divide](https://www.wsj.com/articles/oakland-californias-new-cio-to-tackle-digital-divide-11651572000)
+
+  Oakland, California appointed a new chief information officer: Tony Batalla. He claims he will work to reduce internet access gaps in the city and support digital literacy efforts. His efforts to do so include connecting underserved communities with training and hardware. I believe this is definitely a step in the right direction, especially since Oakland is in the bay area where many big tech companies are centered. Although these claims are promising, actually enforcing these changes in a manner that is effective and thorough is a difficult task.
+
+* [All the worst Bay Area tech company behavior of 2022 so far](https://www.sfgate.com/local/article/sf-tech-news-2022-17131166.php)
+
+  This article explores all the worst events that took place so far in the tech world in 2022. It touches on a range of things from Elon Musk’s twitter takeover to Nvidia “malicious” cyber attacks. There were several topics this article talked about, but what stood out to me the most was the section on the San Francisco VC firm that required job applicants to take an online IQ test. I feel like this is problematic in so many ways, because IQ tests are not always accurate, someone’s IQ score can change based on the context, and it prevents people who bring other qualities to the table besides a high IQ score.
+
+* [Google’s latest Roboto variant is a font customizable to its core](https://www.theverge.com/2022/5/6/23059186/google-roboto-flex-variable-font-web-design)
+
+  Google recently announced they were introducing something called Roboto Flex. It is a version of Google’s classic Roboto font that you can tweak and customize to make your own. I think this is an amazing idea, so people can customize the font however they want without having to bring it into Photoshop and alter each letter to their liking to create a perfect font for them. I think this concept should be applied to more fonts, as I can see it becoming very useful for content developers and designers. I can’t wait to try this out myself.
+
 * [Search histories, location data, text messages: How personal data could be used to enforce anti-abortion laws](https://www.cnn.com/2022/05/05/tech/abortion-laws-phone-privacy/index.html)
 
   A recent movement among Republican controlled states has many privacy and women's rights activists worried. States that restrict and criminalize abortion have begun a spree of legislation that takes aim at the personal data of those seeking abortions. There has been an increase in privacy concerns as states like Texas or Oklahoma could subpoena various apps as evidence of seeking or planning to get an abortion. Notable apps include those that track your period or your pregnancy could be classified as evidence and presented in front of a court. Because of the wording of the state legislation, abortion-seeking conduct is criminalized. Therefore even seeking resources or information on how to access an abortion would be illegal. This could extend further than data found within apps, as law-enforcement officials could seek to acquire geo-location data from companies like Google in order to approximate an individual's location at a certain time. This sets an extremely dangerous precedent both for privacy regulation and for the rights of women. Criminalizing the act of getting information and using something like the apps they use to do it is mind-boggling.
@@ -1713,37 +1745,4 @@ A collection of news articles about technology and its impact on society.
   and there is certainly more incentive for Sony to purchase a multi-platform game studio.
   Nevertheless, it could also be in response to other huge acquisitions by Microsoft, including that
   of Zenimax Media Inc., the parent company of Bethesda.
-  
-* [Can M1 iPad Air Replace Your Laptop?](https://www.reviewed.com/laptops/features/can-m1-ipad-air-replace-your-laptop?utm_source=usat&utm_medium=referral&utm_campaign=collab)
-
-  Apple's new iPad Air includes the same M1 chip inside the MacBook Air, and finally brings us a laptop-class chip in a tablet form. It has quite a bit of power, and   a price tag that is significantly lower than the M1 iPad Pro. Although the M1 MacBooks have just as much power, if not more, than the iPad Air, bringing a laptop-     level chip to a tablet really does provide the best of both worlds. I believe that this chip being placed in a tablet is really freeing for users in that it is     portable and light while also powerful and versatile. It can be used for web browsing and gaming on the go, and has enough power to run more complex programs, which is part of the magic of it.
-
-* [These Futuristic Glasses Let you Listen to Tunes and Tailor the Tint on Demand](https://www.reviewed.com/headphones/content/ampere-dusk-smart-sunglasses-review?utm_source=usat&utm_medium=referral&utm_campaign=collab)
-
-  Ampere just came out with a new kind of sunglasses that allow you to change their tint on command called the Ampere Dusk. They use “electrochromic” tech that lets you instantly change the lens shading electronically. Not only do they let you change their tint, but they also have small speakers in the glasses that project audio to your ears. I think this kind of technology is super cool and fun, but not completely necessary. Having music beamed directly to your ears is great, but what if you want to listen to music without the shades? It just seems more convenient to use a pair of bluetooth headphones or earbuds. The automatic tint, however, is something that I think might stick around.
-
-* [TikTok’s Work Culture: Anxiety, Secrecy and Relentless Pressure](https://www.wsj.com/articles/tiktoks-work-culture-anxiety-secrecy-and-relentless-pressure-11651848638?mod=tech_lead_pos2)
-
-  Former U.S. Tiktok workers seem to have common complaints about their old workspace, usually speaking of sleep deprivation, work on weekends, and mandatory meetings with colleagues on the other side of the globe. Tiktok’s need to fuel its success is pushing its workers too far. I think a lot of times with big companies and social media platforms, the work environments created are toxic and unhealthy for employees. Productivity and success is good for companies, but that doesn’t come by overworking your workers and burning them out. It is important to give employees a good work-life balance to create a positive work environment.
-  
-* [Apple iPhone Users Got Alerts About Strangers’ AirTags. The Trackers Were Never Found.](https://www.wsj.com/articles/phantom-airtag-alerts-send-iphone-users-on-wild-goose-chases-11651799060?mod=tech_lead_pos4)
-
-  Apple notifies people when they’re recorded as being followed by an unknown AirTag. Unfortunately many customers have complained that the company has been alerting them even when they aren’t likely being tracked at all. I believe that this is an issue that Apple needs to fix, because it can cause a large amount of concern in a person if they feel like they are being followed. Some people may even go to extreme measures affecting their livelihoods and relationships to feel safe. This issue can have a lot of repercussions in one’s life, so Apple needs to address this as soon as possible. 
-  
-* [Apple’s Not-So-Secret Plan to Take Another Gigantic Bite of the Microchip Market](https://www.wsj.com/articles/apples-not-so-secret-plan-to-take-another-gigantic-bite-of-the-microchip-market-11651291235?mod=tech_listb_pos4)
-
-  Apple has a history of building the brains for its products dependably and efficiently. The company has recently attempted to do the same for the chips that connect their products to the internet and this new development could have a big impact on the company’s future. In my opinion, Apple has made a very good call economically endeavoring into the world of chips as it would expand and grow their company. With its recent M1 chip, we can see they have been successful at marketing and development of chips. The only downfall to this that I see is that Apple now has the potential to monopolize the smartphone market even more.
-  
-* [Oakland, California’s New CIO to Tackle Digital Divide](https://www.wsj.com/articles/oakland-californias-new-cio-to-tackle-digital-divide-11651572000)
-
-  Oakland, California appointed a new chief information officer: Tony Batalla. He claims he will work to reduce internet access gaps in the city and support digital literacy efforts. His efforts to do so include connecting underserved communities with training and hardware. I believe this is definitely a step in the right direction, especially since Oakland is in the bay area where many big tech companies are centered. Although these claims are promising, actually enforcing these changes in a manner that is effective and thorough is a difficult task.
-  
-* [All the worst Bay Area tech company behavior of 2022 so far](https://www.sfgate.com/local/article/sf-tech-news-2022-17131166.php)
-
-  This article explores all the worst events that took place so far in the tech world in 2022. It touches on a range of things from Elon Musk’s twitter takeover to Nvidia “malicious” cyber attacks. There were several topics this article talked about, but what stood out to me the most was the section on the San Francisco VC firm that required job applicants to take an online IQ test. I feel like this is problematic in so many ways, because IQ tests are not always accurate, someone’s IQ score can change based on the context, and it prevents people who bring other qualities to the table besides a high IQ score.
-  
-* [Google’s latest Roboto variant is a font customizable to its core](https://www.theverge.com/2022/5/6/23059186/google-roboto-flex-variable-font-web-design)
-
-  Google recently announced they were introducing something called Roboto Flex. It is a version of Google’s classic Roboto font that you can tweak and customize to make your own. I think this is an amazing idea, so people can customize the font however they want without having to bring it into Photoshop and alter each letter to their liking to create a perfect font for them. I think this concept should be applied to more fonts, as I can see it becoming very useful for content developers and designers. I can’t wait to try this out myself.
-
 
